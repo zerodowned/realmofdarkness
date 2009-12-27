@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Info>
+	<ID Serial="2420">
+		<Level>11</Level>
+		<LevelCap>100</LevelCap>
+		<KillExp>15285.8</KillExp>
+		<AccKillExp>15285.8</AccKillExp>
+		<LevelAt>17200</LevelAt>
+		<AccLevelAt>17200</AccLevelAt>
+	</ID>
+	<ID Serial="143">
+		<Level>7</Level>
+		<LevelCap>100</LevelCap>
+		<KillExp>3855.7999999999997</KillExp>
+		<AccKillExp>3855.7999999999997</AccKillExp>
+		<LevelAt>4700</LevelAt>
+		<AccLevelAt>4700</AccLevelAt>
+	</ID>
+	<ID Serial="2569">
+		<Level>99</Level>
+		<LevelCap>100</LevelCap>
+		<KillExp>0</KillExp>
+		<AccKillExp>0</AccKillExp>
+		<LevelAt>500</LevelAt>
+		<AccLevelAt>500</AccLevelAt>
+	</ID>
+	<ID Serial="148">
+		<Level>2</Level>
+		<LevelCap>100</LevelCap>
+		<KillExp>219.89999999999998</KillExp>
+		<AccKillExp>219.89999999999998</AccKillExp>
+		<LevelAt>400</LevelAt>
+		<AccLevelAt>400</AccLevelAt>
+	</ID>
+	<ID Serial="2448">
+		<Level>11</Level>
+		<LevelCap>100</LevelCap>
+		<KillExp>4721.8</KillExp>
+		<AccKillExp>4721.8</AccKillExp>
+		<LevelAt>4900</LevelAt>
+		<AccLevelAt>4900</AccLevelAt>
+	</ID>
+	<ID Serial="2454">
+		<Level>150</Level>
+		<LevelCap>100</LevelCap>
+		<KillExp>82292.5</KillExp>
+		<AccKillExp>82292.5</AccKillExp>
+		<LevelAt>82675</LevelAt>
+		<AccLevelAt>82675</AccLevelAt>
+	</ID>
+	<ID Serial="2796">
+		<Level>3</Level>
+		<LevelCap>100</LevelCap>
+		<KillExp>2357.5</KillExp>
+		<AccKillExp>2357.5</AccKillExp>
+		<LevelAt>2500</LevelAt>
+		<AccLevelAt>2500</AccLevelAt>
+	</ID>
+	<ID Serial="2808">
+		<Level>12</Level>
+		<LevelCap>100</LevelCap>
+		<KillExp>17996.300000000003</KillExp>
+		<AccKillExp>17996.300000000003</AccKillExp>
+		<LevelAt>20500</LevelAt>
+		<AccLevelAt>20500</AccLevelAt>
+	</ID>
+	<ID Serial="145">
+		<Level>1</Level>
+		<LevelCap>100</LevelCap>
+		<KillExp>0</KillExp>
+		<AccKillExp>0</AccKillExp>
+		<LevelAt>500</LevelAt>
+		<AccLevelAt>500</AccLevelAt>
+	</ID>
+	<ID Serial="3174">
+		<Level>1</Level>
+		<LevelCap>100</LevelCap>
+		<KillExp>0</KillExp>
+		<AccKillExp>0</AccKillExp>
+		<LevelAt>500</LevelAt>
+		<AccLevelAt>500</AccLevelAt>
+	</ID>
+	<ID Serial="144">
+		<Level>11</Level>
+		<LevelCap>100</LevelCap>
+		<KillExp>17304.800000000003</KillExp>
+		<AccKillExp>17304.800000000003</AccKillExp>
+		<LevelAt>17500</LevelAt>
+		<AccLevelAt>17500</AccLevelAt>
+	</ID>
+	<ID Serial="25">
+		<Level>1</Level>
+		<LevelCap>100</LevelCap>
+		<KillExp>0</KillExp>
+		<AccKillExp>0</AccKillExp>
+		<LevelAt>500</LevelAt>
+		<AccLevelAt>500</AccLevelAt>
+	</ID>
+	<ID Serial="2432">
+		<Level>1</Level>
+		<LevelCap>100</LevelCap>
+		<KillExp>0</KillExp>
+		<AccKillExp>0</AccKillExp>
+		<LevelAt>500</LevelAt>
+		<AccLevelAt>500</AccLevelAt>
+	</ID>
+	<ID Serial="678">
+		<Level>1</Level>
+		<LevelCap>100</LevelCap>
+		<KillExp>0</KillExp>
+		<AccKillExp>0</AccKillExp>
+		<LevelAt>500</LevelAt>
+		<AccLevelAt>500</AccLevelAt>
+	</ID>
+	<ID Serial="2548">
+		<Level>1</Level>
+		<LevelCap>100</LevelCap>
+		<KillExp>0</KillExp>
+		<AccKillExp>0</AccKillExp>
+		<LevelAt>500</LevelAt>
+		<AccLevelAt>500</AccLevelAt>
+	</ID>
+	<ID Serial="2591">
+		<Level>1</Level>
+		<LevelCap>100</LevelCap>
+		<KillExp>0</KillExp>
+		<AccKillExp>0</AccKillExp>
+		<LevelAt>500</LevelAt>
+		<AccLevelAt>500</AccLevelAt>
+	</ID>
+	<ID Serial="2434">
+		<Level>1</Level>
+		<LevelCap>100</LevelCap>
+		<KillExp>0</KillExp>
+		<AccKillExp>0</AccKillExp>
+		<LevelAt>500</LevelAt>
+		<AccLevelAt>500</AccLevelAt>
+	</ID>
+</Info>
