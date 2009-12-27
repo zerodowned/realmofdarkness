@@ -1,0 +1,218 @@
+##############################
+Log started on 12/16/2009 6:00:55 PM
+
+##############################
+Log started on 12/16/2009 7:12:21 PM
+
+##############################
+Log started on 12/16/2009 7:25:02 PM
+
+##############################
+Log started on 12/16/2009 7:45:18 PM
+
+12/16/2009 7:51:14 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'm remove'
+12/16/2009 7:51:17 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001235E (Gold)
+12/16/2009 7:51:18 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001236B (ClumsyScroll)
+12/16/2009 7:51:19 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001235C (RedBook)
+12/16/2009 7:51:20 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40012360 (Candle)
+12/16/2009 7:51:21 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40012362 (BagOfReagents)
+12/16/2009 7:51:21 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001235F (Dagger)
+12/16/2009 7:51:22 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001236E (Robe)
+12/16/2009 7:51:23 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001236C (Spellbook)
+12/16/2009 7:51:24 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001236F (Doublet)
+12/16/2009 7:51:25 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001236D (WizardsHat)
+12/16/2009 7:51:26 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40012370 (ShortPants)
+12/16/2009 7:51:27 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40012371 (Shoes)
+12/16/2009 7:51:27 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40012361 (LeatherGloves)
+12/16/2009 7:51:38 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add gmr'
+12/16/2009 7:51:41 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (3501, 2576, 14) in Trammel: "GMRobe"
+12/16/2009 7:51:41 PM: 192.168.2.2: Serials: 0x40012372; 
+12/16/2009 7:51:53 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set loottype blessed'
+12/16/2009 7:51:54 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'loottype' of 0x40012372 (GMRobe) to 'Blessed'
+12/16/2009 7:54:12 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'help '
+12/16/2009 7:54:30 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'xmlspawnerunload '
+12/16/2009 7:54:58 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'xmlhome '
+12/16/2009 7:55:10 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'help '
+12/16/2009 7:55:29 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'xmlload '
+12/16/2009 7:55:42 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'xmlimportspawners '
+12/16/2009 7:56:54 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add staffcl'
+12/16/2009 7:56:57 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (3496, 2579, 14) in Trammel: "StaffCloak"
+12/16/2009 7:56:57 PM: 192.168.2.2: Serials: 0x40012379; 
+12/16/2009 7:57:18 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add staffcl'
+12/16/2009 7:57:21 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (3495, 2580, 14) in Trammel: "StaffCloak"
+12/16/2009 7:57:21 PM: 192.168.2.2: Serials: 0x4001237A; 
+12/16/2009 7:57:24 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/16/2009 7:57:30 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'StaffLevel' of 0x4001237A (StaffCloak) to 'Counselor'
+12/16/2009 7:58:03 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'help '
+12/16/2009 7:58:17 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'xmlshow '
+12/16/2009 7:58:31 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'xmlunload '
+12/16/2009 8:00:13 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'optimalsmartspawning '
+12/16/2009 8:00:55 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'admin '
+12/16/2009 8:01:39 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'xmldefaults '
+12/16/2009 8:02:02 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'xmlnewload '
+12/16/2009 8:02:09 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'xmlfind '
+12/16/2009 8:03:12 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'xmlload '
+12/16/2009 8:10:05 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'xmlload C:\Users\Brandon\Desktop\RunUO Test\Scripts\Custom Scripts\XML\SpawnerConfigs'
+12/16/2009 8:10:28 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'xmlload C:\Users\Brandon\Desktop\RunUOTEST'
+12/16/2009 8:12:57 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'm tele'
+12/16/2009 8:13:13 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'm remove'
+12/16/2009 8:13:17 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001281A (PublicMoongate)
+12/16/2009 8:13:32 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'go '
+12/16/2009 8:13:46 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'm tele'
+12/16/2009 8:14:33 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 1295 set movable False hue 0 light Circle225'
+12/16/2009 8:14:34 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5208, 1182, 0) in Trammel: "static" "1295" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/16/2009 8:14:34 PM: 192.168.2.2: Serials: 0x4001238F; 
+12/16/2009 8:14:37 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/16/2009 8:14:45 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1295'
+12/16/2009 8:14:49 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building from (5207, 1183, 0) to (5208, 1183, 0) in Trammel: "static" "1295"
+12/16/2009 8:14:49 PM: 192.168.2.2: Serials: 0x40012390; 0x40012391; 
+12/16/2009 8:14:50 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1295'
+12/16/2009 8:14:51 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5207, 1182, 0) in Trammel: "static" "1295"
+12/16/2009 8:14:51 PM: 192.168.2.2: Serials: 0x40012392; 
+12/16/2009 8:15:00 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1295'
+12/16/2009 8:15:02 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building from (5206, 1182, 0) to (5206, 1183, 0) in Trammel: "static" "1295"
+12/16/2009 8:15:02 PM: 192.168.2.2: Serials: 0x40012393; 0x40012394; 
+12/16/2009 8:15:03 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1295'
+12/16/2009 8:15:05 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building from (5206, 1181, 0) to (5208, 1181, 0) in Trammel: "static" "1295"
+12/16/2009 8:15:05 PM: 192.168.2.2: Serials: 0x40012395; 0x40012396; 0x40012397; 
+12/16/2009 8:15:07 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1295'
+12/16/2009 8:15:11 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building from (5206, 1180, 0) to (5210, 1180, 0) in Trammel: "static" "1295"
+12/16/2009 8:15:11 PM: 192.168.2.2: Serials: 0x40012398; 0x40012399; 0x4001239A; 0x4001239B; 0x4001239C; 
+12/16/2009 8:15:12 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1295'
+12/16/2009 8:15:15 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building from (5209, 1181, 0) to (5210, 1183, 0) in Trammel: "static" "1295"
+12/16/2009 8:15:15 PM: 192.168.2.2: Serials: 0x4001239D; 0x4001239E; 0x4001239F; 0x400123A0; 0x400123A1; 0x400123A2; 
+12/16/2009 8:15:18 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1295'
+12/16/2009 8:15:20 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building from (5206, 1184, 0) to (5210, 1184, 0) in Trammel: "static" "1295"
+12/16/2009 8:15:20 PM: 192.168.2.2: Serials: 0x400123A3; 0x400123A4; 0x400123A5; 0x400123A6; 0x400123A7; 
+12/16/2009 8:15:22 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1295'
+12/16/2009 8:15:23 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building from (5205, 1180, 0) to (5205, 1184, 0) in Trammel: "static" "1295"
+12/16/2009 8:15:23 PM: 192.168.2.2: Serials: 0x400123A8; 0x400124B6; 0x400124B7; 0x4001269C; 0x4001269D; 
+12/16/2009 8:15:25 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1295'
+12/16/2009 8:15:26 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building from (5205, 1179, 0) to (5210, 1179, 0) in Trammel: "static" "1295"
+12/16/2009 8:15:26 PM: 192.168.2.2: Serials: 0x4001269E; 0x4001269F; 0x400126A0; 0x400126A1; 0x4001281A; 0x40012A21; 
+12/16/2009 8:15:29 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1295'
+12/16/2009 8:15:31 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building from (5204, 1185, 0) to (5210, 1185, 0) in Trammel: "static" "1295"
+12/16/2009 8:15:31 PM: 192.168.2.2: Serials: 0x40012A22; 0x40012BBA; 0x40012BBC; 0x40012BBE; 0x40012BC0; 0x40012BC2; 0x40012BC4; 
+12/16/2009 8:15:32 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1295'
+12/16/2009 8:15:33 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building from (5204, 1179, 0) to (5204, 1184, 0) in Trammel: "static" "1295"
+12/16/2009 8:15:33 PM: 192.168.2.2: Serials: 0x40012BD0; 0x40012BD2; 0x40012BD4; 0x40012BD6; 0x40012BD8; 0x40012BDA; 
+12/16/2009 8:15:35 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'save '
+12/16/2009 8:15:54 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/16/2009 8:16:15 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'Map' of 0x974 "Prophet" ('Prophet') to 'Felucca'
+12/16/2009 8:16:19 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1295'
+12/16/2009 8:16:22 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building from (5203, 1178, 0) to (5210, 1184, 0) in Felucca: "static" "1295"
+12/16/2009 8:16:22 PM: 192.168.2.2: Serials: 0x40012BDE; 0x40012BE0; 0x40012BE2; 0x40012BE3; 0x40012BE6; 0x40012BE8; 0x40012BEA; 0x40012BEE; 0x40012BF0; 0x40012BF4; 0x40012BF6; 0x40012BF8; 0x40012BFA; 0x40012BFC; 0x40012BFF; 0x40012C02; 0x40012C04; 0x40012C06; 0x40012C08; 0x40012C0A; 0x40012C0C; 0x40012C0D; 0x40012C10; 0x40012C12; 0x40012C13; 0x40012C14; 0x40012C1A; 0x40012C1C; 0x40012C1E; 0x40012C20; 0x40012C22; 0x40012C26; 0x40012C28; 0x40012C2A; 0x40012C2C; 0x40012C2E; 0x40012C30; 0x40012C32; 0x40012C34; 0x40012C35; 0x40012C38; 0x40012C3A; 0x40012C3B; 0x40012C3E; 0x40012C40; 0x40012C42; 0x40012C44; 0x40012C46; 0x40012C48; 0x40012C4C; 0x40012C4D; 0x40012C50; 0x40012C52; 0x40012C56; 0x40012C57; 0x40012C5A; 
+12/16/2009 8:16:25 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1295'
+12/16/2009 8:16:31 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building from (5203, 1177, 0) to (5210, 1177, 0) in Felucca: "static" "1295"
+12/16/2009 8:16:31 PM: 192.168.2.2: Serials: 0x40012C5E; 0x40012C64; 0x40012C66; 0x40012C6A; 0x40012C6C; 0x40012C6E; 0x40012C72; 0x40012C74; 
+12/16/2009 8:16:45 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 52 set movable False hue 0 light Circle225'
+12/16/2009 8:16:46 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5210, 1184, 0) in Felucca: "static" "52" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/16/2009 8:16:46 PM: 192.168.2.2: Serials: 0x40012C80; 
+12/16/2009 8:16:51 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 53 set movable False hue 0 light Circle225'
+12/16/2009 8:16:52 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5210, 1184, 0) in Felucca: "static" "53" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/16/2009 8:16:52 PM: 192.168.2.2: Serials: 0x40012C84; 
+12/16/2009 8:16:57 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'get itemid'
+12/16/2009 8:17:02 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 53'
+12/16/2009 8:17:04 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building from (5210, 1177, 0) to (5210, 1183, 0) in Felucca: "static" "53"
+12/16/2009 8:17:04 PM: 192.168.2.2: Serials: 0x40012C86; 0x40012C88; 0x40012C8A; 0x40012C8C; 0x40012C90; 0x40012C91; 0x40012C96; 
+12/16/2009 8:17:06 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 53'
+12/16/2009 8:17:09 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building from (5203, 1177, 0) to (5203, 1184, 0) in Felucca: "static" "53"
+12/16/2009 8:17:09 PM: 192.168.2.2: Serials: 0x40012C9A; 0x40012C9B; 0x40012CA2; 0x40012CA4; 0x40012CA6; 0x40012CAA; 0x40012CAC; 0x40012CAE; 
+12/16/2009 8:17:11 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 53'
+12/16/2009 8:17:14 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'get itemid'
+12/16/2009 8:17:18 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 52'
+12/16/2009 8:17:20 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building from (5203, 1184, 0) to (5209, 1184, 0) in Felucca: "static" "52"
+12/16/2009 8:17:20 PM: 192.168.2.2: Serials: 0x40012CB0; 0x40012CB1; 0x40012CB2; 0x40012CB6; 0x40012CB8; 0x40012CBA; 0x40012CBE; 
+12/16/2009 8:17:22 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 52'
+12/16/2009 8:17:25 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building from (5204, 1177, 0) to (5208, 1177, 0) in Felucca: "static" "52"
+12/16/2009 8:17:25 PM: 192.168.2.2: Serials: 0x40012CC0; 0x40012CC2; 0x40012CC3; 0x40012CC6; 0x40012CC8; 
+12/16/2009 8:17:27 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 52'
+12/16/2009 8:17:29 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building from (5208, 1177, 20) to (5210, 1178, 20) in Felucca: "static" "52"
+12/16/2009 8:17:29 PM: 192.168.2.2: Serials: 0x40012CCA; 0x40012CCC; 0x40012CCE; 0x40012CDC; 0x40012CDD; 0x40012CDF; 
+12/16/2009 8:17:32 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'm remove'
+12/16/2009 8:17:33 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40012CDF (Static)
+12/16/2009 8:17:34 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40012CDC (Static)
+12/16/2009 8:17:34 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40012CCC (Static)
+12/16/2009 8:17:35 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40012CCA (Static)
+12/16/2009 8:17:35 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40012CCE (Static)
+12/16/2009 8:17:36 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40012CDD (Static)
+12/16/2009 8:17:41 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/16/2009 8:17:55 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set x 5202'
+12/16/2009 8:17:56 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'x' of 0x40012CAE (Static) to '5202'
+12/16/2009 8:17:57 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set x 5202'
+12/16/2009 8:17:58 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'x' of 0x40012CAC (Static) to '5202'
+12/16/2009 8:17:59 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set x 5202'
+12/16/2009 8:17:59 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'x' of 0x40012CAA (Static) to '5202'
+12/16/2009 8:18:00 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set x 5202'
+12/16/2009 8:18:01 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'x' of 0x40012CA6 (Static) to '5202'
+12/16/2009 8:18:02 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set x 5202'
+12/16/2009 8:18:02 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'x' of 0x40012CA4 (Static) to '5202'
+12/16/2009 8:18:04 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set x 5202'
+12/16/2009 8:18:04 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'x' of 0x40012CA2 (Static) to '5202'
+12/16/2009 8:18:05 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set x 5202'
+12/16/2009 8:18:05 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'x' of 0x40012C9B (Static) to '5202'
+12/16/2009 8:18:07 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set x 5202'
+12/16/2009 8:18:07 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'x' of 0x40012C9A (Static) to '5202'
+12/16/2009 8:18:08 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/16/2009 8:18:10 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40012C86 (Static) to (5212, 1177, 0)
+12/16/2009 8:18:17 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 52'
+12/16/2009 8:18:19 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building from (5208, 1177, 0) to (5210, 1177, 0) in Felucca: "static" "52"
+12/16/2009 8:18:19 PM: 192.168.2.2: Serials: 0x40012CE1; 0x40012CE7; 0x40012CEA; 
+12/16/2009 8:18:22 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/16/2009 8:18:32 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set y 1176'
+12/16/2009 8:18:33 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'y' of 0x40012CC0 (Static) to '1176'
+12/16/2009 8:18:34 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set y 1176'
+12/16/2009 8:18:35 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'y' of 0x40012CC2 (Static) to '1176'
+12/16/2009 8:18:36 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set y 1176'
+12/16/2009 8:18:36 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'y' of 0x40012CC3 (Static) to '1176'
+12/16/2009 8:18:37 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set y 1176'
+12/16/2009 8:18:37 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'y' of 0x40012CC6 (Static) to '1176'
+12/16/2009 8:18:39 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set y 1176'
+12/16/2009 8:18:39 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'y' of 0x40012CE1 (Static) to '1176'
+12/16/2009 8:18:40 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set y 1176'
+12/16/2009 8:18:41 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'y' of 0x40012CE7 (Static) to '1176'
+12/16/2009 8:18:42 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set y 1176'
+12/16/2009 8:18:42 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'y' of 0x40012CEA (Static) to '1176'
+12/16/2009 8:18:45 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/16/2009 8:18:52 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set x 5203'
+12/16/2009 8:18:54 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'x' of 0x40012CC8 (Static) to '5203'
+12/16/2009 8:18:56 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set y 1176'
+12/16/2009 8:18:57 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'y' of 0x40012CC8 (Static) to '1176'
+12/16/2009 8:18:58 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/16/2009 8:19:01 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40012C74 (Static) to (5212, 1177, 20)
+12/16/2009 8:19:03 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/16/2009 8:19:04 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40012C74 (Static) to (5210, 1177, 0)
+12/16/2009 8:19:05 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/16/2009 8:19:06 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40012C86 (Static) to (5210, 1177, 0)
+12/16/2009 8:19:12 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 54 set movable False hue 0 light Circle225'
+12/16/2009 8:19:13 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5203, 1177, 0) in Felucca: "static" "54" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/16/2009 8:19:13 PM: 192.168.2.2: Serials: 0x40012CEC; 
+12/16/2009 8:19:15 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/16/2009 8:19:22 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'Location' of 0x40012CEC (Static) to '(5202, 1176, 0)'
+12/16/2009 8:19:37 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add stonetab'
+12/16/2009 8:19:40 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5205, 1179, 0) in Felucca: "LargeStoneTableEastAddon"
+12/16/2009 8:19:40 PM: 192.168.2.2: Serials: 0x40012CF4; 
+12/16/2009 8:19:48 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5203, 1178, 0) in Felucca: "LargeStoneTableSouthAddon"
+12/16/2009 8:19:48 PM: 192.168.2.2: Serials: 0x40012D00; 
+12/16/2009 8:19:50 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5203, 1182, 0) in Felucca: "LargeStoneTableSouthAddon"
+12/16/2009 8:19:50 PM: 192.168.2.2: Serials: 0x40012D0A; 
+12/16/2009 8:20:11 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add '
+12/16/2009 8:20:18 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add TownCrier'
+12/16/2009 8:20:19 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5203, 1180, 0) in Felucca: "TownCrier"
+12/16/2009 8:20:19 PM: 192.168.2.2: Serials: 0x978; 
+12/16/2009 10:29:26 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'm delete'
+12/16/2009 10:29:27 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40012D18 (FancyShirt)
+12/16/2009 10:29:28 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40012D1A (Skirt)
+12/16/2009 10:29:29 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40012D26 (Boots)
+12/16/2009 10:29:31 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40012D20 (FeatheredHat)
+12/16/2009 10:29:55 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set name "Jarrod, The Shard Welcomer"'
+12/16/2009 10:29:56 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'name' of 0x978 "Rhett" (no account) to 'Jarrod, The Shard Welcomer'
+12/16/2009 10:30:00 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/16/2009 10:30:15 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'Title' of 0x978 "Jarrod, The Shard Welcomer" (no account) to '(null)'
+12/16/2009 10:30:25 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add shroud'
+12/16/2009 10:30:29 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5207, 1181, 0) in Felucca: "HoodedShroudOfShadows"
+12/16/2009 10:30:29 PM: 192.168.2.2: Serials: 0x40012F0A; 
+12/16/2009 10:40:51 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+##############################
+Log started on 12/16/2009 10:43:49 PM
+

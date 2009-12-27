@@ -1,0 +1,33 @@
+##############################
+Log started on 12/23/2009 10:40:43 PM
+
+12/23/2009 10:42:59 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'm remove'
+12/23/2009 10:43:00 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0xD79 "Barrett" (no account)
+12/23/2009 10:43:01 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001AE03 (XmlSpawner)
+12/23/2009 10:43:03 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0xD83 "Anella" (no account)
+12/23/2009 10:43:04 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x19 "Anella" (no account)
+12/23/2009 10:43:05 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x400081D5 (Corpse)
+12/23/2009 10:43:05 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0xD86 "Anella" (no account)
+12/23/2009 10:43:06 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0xD89 "Anella" (no account)
+12/23/2009 10:43:06 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0xD85 "Anella" (no account)
+12/23/2009 10:43:07 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0xD87 "Anella" (no account)
+12/23/2009 10:43:07 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0xD8C "Anella" (no account)
+12/23/2009 10:43:08 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001AE02 (XmlSpawner)
+12/23/2009 10:43:13 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0xD72 "Barrett" (no account)
+12/23/2009 10:43:14 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001AE6F (XmlSpawner)
+12/23/2009 10:43:20 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x980 "Barrett" (no account)
+12/24/2009 12:10:57 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'who '
+12/24/2009 12:11:08 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'afk Have a good Christmas!'
+12/24/2009 12:23:35 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'speedboost '
+12/24/2009 4:35:48 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'map' of 0x974 "Prophet" ('Prophet') to 'Felucca'
+12/24/2009 4:35:48 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'Self Set map 0'
+12/24/2009 4:35:49 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'Go 1422 1697 0'
+12/24/2009 4:36:18 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'm tele'
+12/24/2009 4:36:38 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'wipe '
+12/24/2009 4:36:41 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') wiping from (5161, 1429, 5) to (5165, 1434, 5) in Felucca (Items, Mobiles)
+12/24/2009 4:36:42 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'wipe '
+12/24/2009 4:36:44 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') wiping from (5167, 1429, 5) to (5173, 1434, 5) in Felucca (Items, Mobiles)
+12/24/2009 4:36:47 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'm remove'
+12/24/2009 4:36:48 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001A904 (Static)
+12/24/2009 4:36:49 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001A90D (Static)
+12/24/2009 4:36:53 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'restart '

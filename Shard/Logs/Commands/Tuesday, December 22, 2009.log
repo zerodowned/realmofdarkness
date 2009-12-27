@@ -1,0 +1,871 @@
+##############################
+Log started on 12/22/2009 4:58:49 PM
+
+12/22/2009 5:11:40 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'add '
+12/22/2009 5:11:50 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'add stone'
+12/22/2009 5:12:55 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'add gmstone'
+12/22/2009 5:23:01 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'add necro'
+12/22/2009 5:23:30 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (1422, 1695, 0) in Felucca: "ANecromancerShroud"
+12/22/2009 5:23:30 PM: 24.251.23.203: Serials: 0x40014D3B; 
+12/22/2009 5:23:35 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/22/2009 5:23:36 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x40014D3B (ANecromancerShroud)
+12/22/2009 5:23:48 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'add regston'
+12/22/2009 5:23:50 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (1423, 1696, 0) in Felucca: "RegStone2"
+12/22/2009 5:23:50 PM: 24.251.23.203: Serials: 0x40014D3C; 
+12/22/2009 5:24:00 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/22/2009 5:24:01 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x40014D3C (RegStone2)
+12/22/2009 5:24:21 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'add reagent'
+12/22/2009 5:24:23 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'add reagen'
+12/22/2009 5:25:43 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+##############################
+Log started on 12/22/2009 5:47:40 PM
+
+12/22/2009 6:02:23 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'add regst'
+12/22/2009 6:02:27 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (1424, 1693, 0) in Felucca: "MageRegStone"
+12/22/2009 6:02:27 PM: 24.251.23.203: Serials: 0x4001371E; 
+12/22/2009 6:02:35 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (1425, 1693, 0) in Felucca: "NecroRegStone"
+12/22/2009 6:02:35 PM: 24.251.23.203: Serials: 0x40013720; 
+12/22/2009 6:02:43 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'm remove'
+12/22/2009 6:02:44 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x40013720 (NecroRegStone)
+12/22/2009 6:02:49 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'set hue 123'
+12/22/2009 6:02:50 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'hue' of 0x4001371E (MageRegStone) to '123'
+12/22/2009 6:02:52 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'set hue 124'
+12/22/2009 6:02:53 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'hue' of 0x4001371E (MageRegStone) to '124'
+12/22/2009 6:02:57 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'set hue 134'
+12/22/2009 6:02:58 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'hue' of 0x4001371E (MageRegStone) to '134'
+12/22/2009 6:03:01 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'set hue 135'
+12/22/2009 6:03:02 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'hue' of 0x4001371E (MageRegStone) to '135'
+12/22/2009 6:03:07 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'set hue 170'
+12/22/2009 6:03:08 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'hue' of 0x4001371E (MageRegStone) to '170'
+12/22/2009 6:03:11 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'set hue 190'
+12/22/2009 6:03:12 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'hue' of 0x4001371E (MageRegStone) to '190'
+12/22/2009 6:03:15 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'set hue 195'
+12/22/2009 6:03:17 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'hue' of 0x4001371E (MageRegStone) to '195'
+12/22/2009 6:04:08 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'set hue 200'
+12/22/2009 6:04:10 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'hue' of 0x4001371E (MageRegStone) to '200'
+12/22/2009 6:04:16 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'set hue 210'
+12/22/2009 6:04:18 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'hue' of 0x4001371E (MageRegStone) to '210'
+12/22/2009 6:04:20 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'set hue 220'
+12/22/2009 6:04:21 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'hue' of 0x4001371E (MageRegStone) to '220'
+12/22/2009 6:04:23 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'set hue 225'
+12/22/2009 6:04:24 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'hue' of 0x4001371E (MageRegStone) to '225'
+12/22/2009 6:04:27 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'set hue 229'
+12/22/2009 6:04:28 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'hue' of 0x4001371E (MageRegStone) to '229'
+12/22/2009 6:04:33 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'set hue 230'
+12/22/2009 6:04:35 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'hue' of 0x4001371E (MageRegStone) to '230'
+12/22/2009 6:04:42 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'set hue 245'
+12/22/2009 6:04:43 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'hue' of 0x4001371E (MageRegStone) to '245'
+12/22/2009 6:11:35 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'who '
+12/22/2009 6:11:37 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+##############################
+Log started on 12/22/2009 6:25:45 PM
+
+12/22/2009 6:25:58 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/22/2009 6:25:59 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001371E (MageRegStone)
+12/22/2009 6:26:20 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'add stone'
+12/22/2009 6:26:25 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (1424, 1693, 0) in Felucca: "ArrowSupplyStone"
+12/22/2009 6:26:25 PM: 24.251.23.203: Serials: 0x40000103; 
+12/22/2009 6:26:31 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (1425, 1693, 0) in Felucca: "BoltSupplyStone"
+12/22/2009 6:26:31 PM: 24.251.23.203: Serials: 0x40008031; 
+12/22/2009 6:26:44 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (1426, 1693, 0) in Felucca: "MageRegStone"
+12/22/2009 6:26:44 PM: 24.251.23.203: Serials: 0x4000803D; 
+12/22/2009 6:26:52 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (1427, 1693, 0) in Felucca: "NecroRegStone"
+12/22/2009 6:26:52 PM: 24.251.23.203: Serials: 0x400081D1; 
+12/22/2009 6:27:23 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/22/2009 6:27:24 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x40000103 (ArrowSupplyStone)
+12/22/2009 6:27:47 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+##############################
+Log started on 12/22/2009 6:29:44 PM
+
+12/22/2009 7:12:39 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/22/2009 7:12:42 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'M Tele'
+12/22/2009 7:12:43 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/22/2009 7:12:45 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'M Tele'
+12/22/2009 7:13:19 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/22/2009 7:13:24 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'Amount' of 0x40013120 (Gold) to '190000'
+12/22/2009 7:19:30 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/22/2009 7:19:31 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duping 0x40018DC1 (Gold) (inBag=False; amount=1)
+12/22/2009 7:19:31 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duped 0x40018DC1 (Gold) creating 0x40018DC2 (Gold)
+12/22/2009 7:19:31 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/22/2009 7:19:32 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/22/2009 7:19:32 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duping 0x40018DC1 (Gold) (inBag=False; amount=1)
+12/22/2009 7:19:32 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duped 0x40018DC1 (Gold) creating 0x40018DC3 (Gold)
+12/22/2009 7:19:32 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/22/2009 7:19:33 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duping 0x40018DC1 (Gold) (inBag=False; amount=1)
+12/22/2009 7:19:33 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duped 0x40018DC1 (Gold) creating 0x40018DC4 (Gold)
+12/22/2009 7:19:34 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/22/2009 7:19:35 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/22/2009 7:19:35 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duping 0x40018DC1 (Gold) (inBag=False; amount=1)
+12/22/2009 7:19:35 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duped 0x40018DC1 (Gold) creating 0x40018DC5 (Gold)
+12/22/2009 7:19:36 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/22/2009 7:19:36 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duping 0x40018DC1 (Gold) (inBag=False; amount=1)
+12/22/2009 7:19:36 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duped 0x40018DC1 (Gold) creating 0x40018DC6 (Gold)
+12/22/2009 7:19:37 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/22/2009 7:19:38 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duping 0x40018DC1 (Gold) (inBag=False; amount=1)
+12/22/2009 7:19:38 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duped 0x40018DC1 (Gold) creating 0x40018DC7 (Gold)
+12/22/2009 7:19:38 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/22/2009 7:19:39 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duping 0x40018DC1 (Gold) (inBag=False; amount=1)
+12/22/2009 7:19:39 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duped 0x40018DC1 (Gold) creating 0x40018DC8 (Gold)
+12/22/2009 7:19:39 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/22/2009 7:19:40 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duping 0x40018DC1 (Gold) (inBag=False; amount=1)
+12/22/2009 7:19:40 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duped 0x40018DC1 (Gold) creating 0x40018DC9 (Gold)
+12/22/2009 7:19:40 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/22/2009 7:19:41 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duping 0x40018DC1 (Gold) (inBag=False; amount=1)
+12/22/2009 7:19:41 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duped 0x40018DC1 (Gold) creating 0x40018DCA (Gold)
+12/22/2009 7:19:41 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/22/2009 7:19:42 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duping 0x40018DC1 (Gold) (inBag=False; amount=1)
+12/22/2009 7:19:42 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duped 0x40018DC1 (Gold) creating 0x40018DCB (Gold)
+12/22/2009 7:19:43 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/22/2009 7:20:47 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/22/2009 7:20:47 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001232F (Gold)
+12/22/2009 7:20:48 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/22/2009 7:20:49 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x40018DBF (Gold)
+12/22/2009 7:20:49 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/22/2009 7:20:50 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x40018DC1 (Gold)
+12/22/2009 7:20:50 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/22/2009 7:20:50 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/22/2009 7:20:51 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x40013120 (Gold)
+12/22/2009 7:21:01 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/22/2009 7:21:01 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x40018E0B (Gold)
+12/22/2009 7:21:04 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/22/2009 7:21:05 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duping 0x40018E0C (BankCheck) (inBag=False; amount=1)
+12/22/2009 7:21:09 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/22/2009 7:21:10 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duping 0x40018E0C (BankCheck) (inBag=False; amount=1)
+12/22/2009 7:21:14 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/22/2009 7:21:15 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x40018E15 (Gold)
+12/22/2009 7:21:15 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/22/2009 7:21:16 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x40018E14 (Gold)
+12/22/2009 7:21:16 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/22/2009 7:21:17 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x40018E0E (Gold)
+12/22/2009 7:21:19 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/22/2009 7:21:20 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duping 0x40018E12 (Gold) (inBag=False; amount=1)
+12/22/2009 7:21:20 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duped 0x40018E12 (Gold) creating 0x40018E16 (Gold)
+12/22/2009 7:21:20 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/22/2009 7:21:21 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duping 0x40018E12 (Gold) (inBag=False; amount=1)
+12/22/2009 7:21:21 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duped 0x40018E12 (Gold) creating 0x40018E17 (Gold)
+12/22/2009 7:21:21 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/22/2009 7:21:22 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duping 0x40018E12 (Gold) (inBag=False; amount=1)
+12/22/2009 7:21:22 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duped 0x40018E12 (Gold) creating 0x40018E18 (Gold)
+12/22/2009 7:21:22 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/22/2009 7:21:23 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duping 0x40018E12 (Gold) (inBag=False; amount=1)
+12/22/2009 7:21:23 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duped 0x40018E12 (Gold) creating 0x40018E19 (Gold)
+12/22/2009 7:21:23 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/22/2009 7:21:23 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duping 0x40018E12 (Gold) (inBag=False; amount=1)
+12/22/2009 7:21:23 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duped 0x40018E12 (Gold) creating 0x40018E1A (Gold)
+12/22/2009 7:21:24 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/22/2009 7:21:24 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duping 0x40018E12 (Gold) (inBag=False; amount=1)
+12/22/2009 7:21:24 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duped 0x40018E12 (Gold) creating 0x40018E1B (Gold)
+12/22/2009 7:21:24 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/22/2009 7:21:25 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duping 0x40018E12 (Gold) (inBag=False; amount=1)
+12/22/2009 7:21:25 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duped 0x40018E12 (Gold) creating 0x40018E1C (Gold)
+12/22/2009 7:21:25 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/22/2009 7:21:26 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duping 0x40018E12 (Gold) (inBag=False; amount=1)
+12/22/2009 7:21:26 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duped 0x40018E12 (Gold) creating 0x40018E1D (Gold)
+12/22/2009 7:21:26 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/22/2009 7:21:27 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/22/2009 7:21:27 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duping 0x40018E12 (Gold) (inBag=False; amount=1)
+12/22/2009 7:21:27 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duped 0x40018E12 (Gold) creating 0x40018E1E (Gold)
+12/22/2009 7:21:27 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/22/2009 7:21:28 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duping 0x40018E12 (Gold) (inBag=False; amount=1)
+12/22/2009 7:21:28 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duped 0x40018E12 (Gold) creating 0x40018E1F (Gold)
+12/22/2009 7:22:08 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/22/2009 7:22:08 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duping 0x40018E20 (BankCheck) (inBag=False; amount=1)
+12/22/2009 7:22:13 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/22/2009 7:22:23 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'Worth' of 0x40018E20 (BankCheck) to '999999999'
+12/22/2009 7:22:27 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/22/2009 7:22:28 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x40018DCB (Gold)
+12/22/2009 7:22:28 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/22/2009 7:22:29 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x40018E1C (Gold)
+12/22/2009 7:22:29 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/22/2009 7:22:30 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x40018E16 (Gold)
+12/22/2009 7:22:33 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'add goldbrick'
+12/22/2009 7:22:36 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') building at (1431, 1693, 0) in Felucca: "GoldBricks"
+12/22/2009 7:22:36 PM: 216.223.179.228: Serials: 0x40018E21; 
+12/22/2009 7:22:38 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/22/2009 7:22:39 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x40018E21 (GoldBricks)
+12/22/2009 7:22:42 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'add goldd'
+12/22/2009 7:22:51 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') building at (1430, 1693, 0) in Felucca: "FakeGold"
+12/22/2009 7:22:51 PM: 216.223.179.228: Serials: 0x40018E22; 
+12/22/2009 7:22:53 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/22/2009 7:22:54 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x40018E22 (FakeGold)
+12/22/2009 7:23:17 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'afk '
+12/22/2009 7:57:54 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'c '
+12/22/2009 9:12:03 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'add arrow'
+12/22/2009 9:12:08 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'add arrows'
+12/22/2009 9:12:12 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (1424, 1693, 0) in Felucca: "ArrowSupplyStone"
+12/22/2009 9:12:12 PM: 24.251.23.203: Serials: 0x400192D8; 
+12/22/2009 9:13:02 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'm remove'
+12/22/2009 9:13:06 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x400192DB (BagOfBolts)
+12/22/2009 9:13:07 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x40014D3D (BagOfReagents)
+12/22/2009 9:13:09 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x40019316 (BagOfNecroReagents)
+12/22/2009 9:13:10 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x400192D9 (BagOfArrows)
+12/22/2009 9:13:11 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x400192E9 (BagOfReagents)
+12/22/2009 9:13:19 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/22/2009 9:13:23 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x400081D1 (NecroRegStone) to (1435, 1686, 20)
+12/22/2009 9:13:25 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/22/2009 9:13:39 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/22/2009 9:13:41 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x4000803D (MageRegStone) to (1435, 1687, 20)
+12/22/2009 9:13:42 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/22/2009 9:13:45 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x40008031 (BoltSupplyStone) to (1435, 1688, 20)
+12/22/2009 9:13:46 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/22/2009 9:13:48 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x400192D8 (ArrowSupplyStone) to (1435, 1689, 20)
+12/22/2009 9:13:51 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/22/2009 9:13:54 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x40019D05 (Static)
+12/22/2009 9:14:09 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/22/2009 9:14:17 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/22/2009 9:14:20 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x40019D04 (Static)
+12/22/2009 9:14:21 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/22/2009 9:14:22 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x400190E4 (Static)
+12/22/2009 9:14:35 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/22/2009 9:14:37 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x400081D1 (NecroRegStone) to (1435, 1685, 20)
+12/22/2009 9:14:38 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/22/2009 9:14:39 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x4000803D (MageRegStone) to (1435, 1686, 20)
+12/22/2009 9:14:40 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/22/2009 9:14:41 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x400081D1 (NecroRegStone) to (1435, 1684, 20)
+12/22/2009 9:14:42 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/22/2009 9:14:43 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x4000803D (MageRegStone) to (1435, 1685, 20)
+12/22/2009 9:14:44 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/22/2009 9:14:45 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x40008031 (BoltSupplyStone) to (1435, 1687, 20)
+12/22/2009 9:14:46 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/22/2009 9:14:47 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x400192D8 (ArrowSupplyStone) to (1435, 1688, 20)
+12/22/2009 9:14:49 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'dupe '
+12/22/2009 9:14:50 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') duping 0x400190BF (Static) (inBag=False; amount=1)
+12/22/2009 9:14:50 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') duped 0x400190BF (Static) creating 0x40019359 (Static)
+12/22/2009 9:14:51 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'dupe '
+12/22/2009 9:14:51 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') duping 0x400190BF (Static) (inBag=False; amount=1)
+12/22/2009 9:14:51 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') duped 0x400190BF (Static) creating 0x4001935F (Static)
+12/22/2009 9:14:53 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/22/2009 9:14:56 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x400190E3 (Static) to (1436, 1683, 20)
+12/22/2009 9:14:57 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/22/2009 9:15:01 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/22/2009 9:15:03 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x4001935F (Static) to (1435, 1683, 20)
+12/22/2009 9:15:05 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/22/2009 9:15:07 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x40019359 (Static) to (1435, 1686, 20)
+12/22/2009 9:15:09 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'dupe '
+12/22/2009 9:15:10 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') duping 0x400190BF (Static) (inBag=False; amount=1)
+12/22/2009 9:15:10 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') duped 0x400190BF (Static) creating 0x40019365 (Static)
+12/22/2009 9:15:12 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/22/2009 9:15:14 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x40019365 (Static) to (1435, 1689, 20)
+12/22/2009 9:20:23 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'afk '
+12/23/2009 8:04:08 AM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'who '
+12/23/2009 5:20:01 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'who '
+12/23/2009 5:22:27 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'add poker'
+12/23/2009 5:31:11 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/23/2009 5:31:18 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'Movable' of 0x400193CC (TanBook) to 'False'
+12/23/2009 5:31:25 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'go '
+12/23/2009 5:31:45 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'go '
+12/23/2009 5:32:00 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 5:32:04 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'where '
+12/23/2009 5:32:05 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'M Tele'
+12/23/2009 5:32:21 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'set frozen true'
+12/23/2009 5:32:23 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'frozen' of 0x980 "Barrett" (no account) to 'True'
+12/23/2009 5:32:30 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/23/2009 5:32:40 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'TriggerAccessLevel' of 0x980 "Barrett" (no account) to 'Owner'
+12/23/2009 5:33:21 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 5:33:22 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x40018FBE (RecallRune)
+12/23/2009 5:33:25 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/23/2009 5:33:32 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'Amount' of 0x40018DBE (Gold) to '100'
+12/23/2009 5:34:02 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 5:34:09 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/23/2009 5:35:06 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'add dragon heart'
+12/23/2009 5:35:08 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') building at (5396, 1087, 0) in Felucca: "dragon" "heart"
+12/23/2009 5:35:13 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'add dragonh'
+12/23/2009 5:35:15 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') building at (5394, 1087, 0) in Felucca: "DragonHeart"
+12/23/2009 5:35:15 PM: 216.223.179.228: Serials: 0x4001A829; 
+12/23/2009 5:37:40 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 5:38:33 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/23/2009 5:38:35 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x4001233F (Static) to (1445, 1686, 0)
+12/23/2009 5:38:37 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/23/2009 5:38:38 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x40012344 (Static) to (1445, 1686, 5)
+12/23/2009 5:38:39 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/23/2009 5:38:40 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x40012303 (Static) to (1445, 1686, 10)
+12/23/2009 5:38:41 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/23/2009 5:38:42 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x4001233E (Static) to (1445, 1686, 15)
+12/23/2009 5:38:43 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/23/2009 5:38:46 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x40012323 (Static) to (1445, 1686, 20)
+12/23/2009 5:39:02 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/23/2009 5:39:31 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'add magesp'
+12/23/2009 5:39:36 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (1442, 1685, 0) in Felucca: "MageSpellbook"
+12/23/2009 5:39:36 PM: 24.251.23.203: Serials: 0x4001A839; 
+12/23/2009 5:39:57 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'add gold'
+12/23/2009 5:40:01 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'add gold'
+12/23/2009 5:40:02 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') building at (5394, 1087, 0) in Felucca: "gold"
+12/23/2009 5:40:02 PM: 216.223.179.228: Serials: 0x4001A83A; 
+12/23/2009 5:40:06 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/23/2009 5:40:12 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'Amount' of 0x4001A83A (Gold) to '100'
+12/23/2009 5:40:17 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/23/2009 5:40:39 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'PointDest' of 0x400198B7 (Teleporter) to '(5222, 1755, 0)'
+12/23/2009 5:41:20 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'map' of 0x974 "Prophet" ('Prophet') to 'Felucca'
+12/23/2009 5:41:20 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'Self Set map 0'
+12/23/2009 5:41:21 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'Go 1422 1697 0'
+12/23/2009 5:41:31 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'tele '
+12/23/2009 5:41:36 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'tele '
+12/23/2009 5:42:03 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'who '
+12/23/2009 5:42:13 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'tele '
+12/23/2009 5:42:15 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'tele '
+12/23/2009 5:42:20 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/23/2009 5:42:25 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/23/2009 5:42:50 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'PointDest' of 0x400198B7 (Teleporter) to '(1442, 1755, -25)'
+12/23/2009 5:43:04 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'PointDest' of 0x400198B7 (Teleporter) to '(1442, 1685, -25)'
+12/23/2009 5:43:17 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/23/2009 5:43:25 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/23/2009 5:43:36 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'PointDest' of 0x400198B7 (Teleporter) to '(1442, 1688, -25)'
+12/23/2009 5:43:43 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/23/2009 5:43:45 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x40012345 (Static) to (1446, 1687, 0)
+12/23/2009 5:43:46 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/23/2009 5:43:48 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x4001233E (Static) to (1443, 1686, 5)
+12/23/2009 5:43:50 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/23/2009 5:43:51 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x40012303 (Static) to (1443, 1686, 10)
+12/23/2009 5:43:52 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/23/2009 5:43:53 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x40012344 (Static) to (1444, 1686, 10)
+12/23/2009 5:43:54 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/23/2009 5:43:55 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x4001233F (Static) to (1443, 1686, 15)
+12/23/2009 5:43:56 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/23/2009 5:43:57 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x40012345 (Static) to (1444, 1687, 15)
+12/23/2009 5:43:59 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'staff I wish you could copy and paste into ultima lol'
+12/23/2009 5:44:00 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/23/2009 5:44:01 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x40012323 (Static) to (1444, 1686, 15)
+12/23/2009 5:44:21 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/23/2009 5:44:23 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/23/2009 5:44:33 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/23/2009 5:44:39 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'dupe '
+12/23/2009 5:44:39 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') duping 0x4001232E (Teleporter) (inBag=False; amount=1)
+12/23/2009 5:44:39 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') duped 0x4001232E (Teleporter) creating 0x4001A84A (Teleporter)
+12/23/2009 5:44:42 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'm remove'
+12/23/2009 5:44:43 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001231B (Teleporter)
+12/23/2009 5:44:44 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x40012327 (Teleporter)
+12/23/2009 5:44:45 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x40012329 (Teleporter)
+12/23/2009 5:44:45 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x40012330 (Teleporter)
+12/23/2009 5:44:45 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001232E (Teleporter)
+12/23/2009 5:44:52 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/23/2009 5:45:09 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'go x 5363 y 1419 z 0'
+12/23/2009 5:45:19 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'go x 5363 y 1419 z 0'
+12/23/2009 5:45:35 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'set x 5363 y 1419 z 0'
+12/23/2009 5:45:36 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'x' of 0x974 "Prophet" ('Prophet') to '5363'
+12/23/2009 5:45:36 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'y' of 0x974 "Prophet" ('Prophet') to '1419'
+12/23/2009 5:45:36 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'z' of 0x974 "Prophet" ('Prophet') to '0'
+12/23/2009 5:45:36 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 5:45:44 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 5:45:59 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/23/2009 5:46:15 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'set x 5132 y 1290 z 0'
+12/23/2009 5:46:17 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'x' of 0x974 "Prophet" ('Prophet') to '5132'
+12/23/2009 5:46:17 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'y' of 0x974 "Prophet" ('Prophet') to '1290'
+12/23/2009 5:46:17 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'z' of 0x974 "Prophet" ('Prophet') to '0'
+12/23/2009 5:46:29 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'm tele'
+12/23/2009 5:46:59 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'set x 5363 y 1419 z 0'
+12/23/2009 5:47:00 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'x' of 0x974 "Prophet" ('Prophet') to '5363'
+12/23/2009 5:47:00 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'y' of 0x974 "Prophet" ('Prophet') to '1419'
+12/23/2009 5:47:00 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'z' of 0x974 "Prophet" ('Prophet') to '0'
+12/23/2009 5:47:03 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'm tele'
+12/23/2009 5:47:32 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/23/2009 5:47:36 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/23/2009 5:47:38 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x4001A84A (Teleporter) to (5364, 1416, 11)
+12/23/2009 5:47:40 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'dupe '
+12/23/2009 5:47:42 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') duping 0x4001A84A (Teleporter) (inBag=False; amount=1)
+12/23/2009 5:47:42 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') duped 0x4001A84A (Teleporter) creating 0x4001A86E (Teleporter)
+12/23/2009 5:47:44 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/23/2009 5:47:46 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x4001A86E (Teleporter) to (5363, 1416, 11)
+12/23/2009 5:47:55 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/23/2009 5:47:57 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/23/2009 5:48:01 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/23/2009 5:48:02 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/23/2009 5:48:07 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'set x 5363 y 1419 z 0'
+12/23/2009 5:48:07 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'x' of 0x974 "Prophet" ('Prophet') to '5363'
+12/23/2009 5:48:07 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'y' of 0x974 "Prophet" ('Prophet') to '1419'
+12/23/2009 5:48:07 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'z' of 0x974 "Prophet" ('Prophet') to '0'
+12/23/2009 5:48:13 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'PointDest' of 0x40012322 (Teleporter) to '(5363, 1418, 0)'
+12/23/2009 5:48:17 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'PointDest' of 0x40019AC3 (Teleporter) to '(5363, 1418, 0)'
+12/23/2009 5:48:39 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'add ank'
+12/23/2009 5:48:42 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (5360, 1416, 0) in Felucca: "AnkhNorth"
+12/23/2009 5:48:42 PM: 24.251.23.203: Serials: 0x4001A876; 
+12/23/2009 5:49:18 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 5315 set movable False hue 0 light Circle225'
+12/23/2009 5:49:18 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (5360, 1417, 0) in Felucca: "static" "5315" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/23/2009 5:49:18 PM: 24.251.23.203: Serials: 0x4001A878; 
+12/23/2009 5:49:26 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 5316 set movable False hue 0 light Circle225'
+12/23/2009 5:49:26 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (5360, 1418, 0) in Felucca: "static" "5316" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/23/2009 5:49:26 PM: 24.251.23.203: Serials: 0x4001A879; 
+12/23/2009 5:49:31 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 5317 set movable False hue 0 light Circle225'
+12/23/2009 5:49:32 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (5361, 1418, 0) in Felucca: "static" "5317" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/23/2009 5:49:32 PM: 24.251.23.203: Serials: 0x4001A87A; 
+12/23/2009 5:49:37 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 5318 set movable False hue 0 light Circle225'
+12/23/2009 5:49:37 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (5361, 1417, 0) in Felucca: "static" "5318" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/23/2009 5:49:37 PM: 24.251.23.203: Serials: 0x4001A87B; 
+12/23/2009 5:50:41 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'm tele'
+12/23/2009 5:52:32 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'm tele'
+12/23/2009 5:52:39 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 5:52:41 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001A88A (QuestHolder)
+12/23/2009 5:55:28 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'tele '
+12/23/2009 5:55:36 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'add prem'
+12/23/2009 5:55:43 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (5351, 1443, 0) in Felucca: "XmlSpawner"
+12/23/2009 5:55:43 PM: 24.251.23.203: Serials: 0x4001A892; 
+12/23/2009 5:55:48 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (5336, 1443, 0) in Felucca: "XmlSpawner"
+12/23/2009 5:55:48 PM: 24.251.23.203: Serials: 0x4001A893; 
+12/23/2009 5:55:59 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (5326, 1459, 0) in Felucca: "XmlSpawner"
+12/23/2009 5:55:59 PM: 24.251.23.203: Serials: 0x4001A894; 
+12/23/2009 5:56:04 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (5339, 1461, 0) in Felucca: "XmlSpawner"
+12/23/2009 5:56:04 PM: 24.251.23.203: Serials: 0x4001A895; 
+12/23/2009 5:56:08 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (5356, 1460, 0) in Felucca: "XmlSpawner"
+12/23/2009 5:56:08 PM: 24.251.23.203: Serials: 0x4001A896; 
+12/23/2009 5:56:11 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/23/2009 5:56:34 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') added to XmlSpawner 0x4001A896 'Spawner' [5356, 1460] (Felucca) : Skeleton
+12/23/2009 5:57:09 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') added to XmlSpawner 0x4001A895 'Spawner' [5339, 1461] (Felucca) : zombie
+12/23/2009 5:57:22 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') added to XmlSpawner 0x4001A894 'Spawner' [5326, 1459] (Felucca) : ghoul
+12/23/2009 5:58:23 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') added to XmlSpawner 0x4001A892 'Spawner' [5351, 1443] (Felucca) : Mongbat
+12/23/2009 5:58:38 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'add xml'
+12/23/2009 5:58:43 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') added to XmlSpawner 0x4001A893 'Spawner' [5336, 1443] (Felucca) : rat
+12/23/2009 5:58:44 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') building at (5389, 1088, 0) in Felucca: "XmlLatch"
+12/23/2009 5:58:44 PM: 216.223.179.228: Serials: 0x4001A8AF; 
+12/23/2009 5:58:51 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 5:58:51 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001A8AF (XmlLatch)
+12/23/2009 5:59:08 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'm tele'
+12/23/2009 5:59:17 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'm tele'
+12/23/2009 5:59:49 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'add xml'
+12/23/2009 5:59:55 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (5237, 1499, 0) in Felucca: "XmlLatch"
+12/23/2009 5:59:55 PM: 24.251.23.203: Serials: 0x4001A8B4; 
+12/23/2009 6:00:04 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/23/2009 6:00:06 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001A8B4 (XmlLatch)
+12/23/2009 6:00:10 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (5230, 1499, 0) in Felucca: "XmlSpawner"
+12/23/2009 6:00:10 PM: 24.251.23.203: Serials: 0x4001A8BC; 
+12/23/2009 6:00:13 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (5251, 1499, 0) in Felucca: "XmlSpawner"
+12/23/2009 6:00:13 PM: 24.251.23.203: Serials: 0x4001A8C3; 
+12/23/2009 6:00:22 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'add '
+12/23/2009 6:00:52 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') added to XmlSpawner 0x4001A8C3 'Spawner' [5251, 1499] (Felucca) : giantspider
+12/23/2009 6:01:09 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') added to XmlSpawner 0x4001A8BC 'Spawner' [5230, 1499] (Felucca) : giantspider
+12/23/2009 6:01:25 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'add xml'
+12/23/2009 6:01:27 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (5242, 1484, 0) in Felucca: "XmlSpawner"
+12/23/2009 6:01:27 PM: 24.251.23.203: Serials: 0x4001A8CD; 
+12/23/2009 6:01:39 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') added to XmlSpawner 0x4001A8CD 'Spawner' [5242, 1484] (Felucca) : giantspider
+12/23/2009 6:02:01 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'm tele'
+12/23/2009 6:02:35 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'm tele'
+12/23/2009 6:03:08 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'add xml'
+12/23/2009 6:03:12 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (5139, 1490, 0) in Felucca: "XmlSpawner"
+12/23/2009 6:03:12 PM: 24.251.23.203: Serials: 0x4001A8DE; 
+12/23/2009 6:03:24 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') added to XmlSpawner 0x4001A8DE 'Spawner' [5139, 1490] (Felucca) : ogre
+12/23/2009 6:03:35 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'm tele'
+12/23/2009 6:03:54 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'add xml'
+12/23/2009 6:03:57 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (5166, 1430, 0) in Felucca: "XmlSpawner"
+12/23/2009 6:03:57 PM: 24.251.23.203: Serials: 0x4001A8E5; 
+12/23/2009 6:04:12 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'tile 1872'
+12/23/2009 6:04:14 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building from (5160, 1427, 0) to (5161, 1431, 0) in Felucca: "1872"
+12/23/2009 6:04:19 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1872'
+12/23/2009 6:04:21 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building from (5161, 1429, 0) to (5162, 1434, 0) in Felucca: "static" "1872"
+12/23/2009 6:04:21 PM: 24.251.23.203: Serials: 0x4001A8E6; 0x4001A8E7; 0x4001A8E8; 0x4001A8E9; 0x4001A8EA; 0x4001A8EB; 0x4001A8EC; 0x4001A8ED; 0x4001A8EE; 0x4001A8EF; 0x4001A8F0; 0x4001A8F1; 
+12/23/2009 6:04:24 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1872'
+12/23/2009 6:04:25 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building from (5163, 1429, 0) to (5163, 1434, 0) in Felucca: "static" "1872"
+12/23/2009 6:04:25 PM: 24.251.23.203: Serials: 0x4001A8F2; 0x4001A8F3; 0x4001A8F4; 0x4001A8F5; 0x4001A8F6; 0x4001A8F7; 
+12/23/2009 6:04:27 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1872'
+12/23/2009 6:04:29 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building from (5164, 1429, 0) to (5165, 1434, 0) in Felucca: "static" "1872"
+12/23/2009 6:04:29 PM: 24.251.23.203: Serials: 0x4001A8F8; 0x4001A8F9; 0x4001A8FA; 0x4001A8FB; 0x4001A8FC; 0x4001A8FD; 0x4001A8FE; 0x4001A8FF; 0x4001A900; 0x4001A901; 0x4001A902; 0x4001A903; 
+12/23/2009 6:04:31 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1872'
+12/23/2009 6:04:33 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building from (5166, 1429, 0) to (5167, 1429, 0) in Felucca: "static" "1872"
+12/23/2009 6:04:33 PM: 24.251.23.203: Serials: 0x4001A904; 0x4001A905; 
+12/23/2009 6:04:34 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1872'
+12/23/2009 6:04:35 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building from (5167, 1430, 0) to (5167, 1434, 0) in Felucca: "static" "1872"
+12/23/2009 6:04:35 PM: 24.251.23.203: Serials: 0x4001A906; 0x4001A907; 0x4001A908; 0x4001A909; 0x4001A90A; 
+12/23/2009 6:04:37 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1872'
+12/23/2009 6:04:38 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building from (5166, 1432, 0) to (5166, 1434, 0) in Felucca: "static" "1872"
+12/23/2009 6:04:38 PM: 24.251.23.203: Serials: 0x4001A90B; 0x4001A90C; 0x4001A90D; 
+12/23/2009 6:04:39 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1872'
+12/23/2009 6:04:41 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building from (5168, 1429, 0) to (5170, 1434, 0) in Felucca: "static" "1872"
+12/23/2009 6:04:41 PM: 24.251.23.203: Serials: 0x4001A90E; 0x4001A90F; 0x4001A910; 0x4001A911; 0x4001A912; 0x4001A913; 0x4001A914; 0x4001A915; 0x4001A916; 0x4001A917; 0x4001A918; 0x4001A919; 0x4001A91A; 0x4001A91B; 0x4001A91C; 0x4001A91D; 0x4001A91E; 0x4001A91F; 
+12/23/2009 6:04:43 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'm remove'
+12/23/2009 6:04:45 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001A8ED (Static)
+12/23/2009 6:04:48 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001A8EF (Static)
+12/23/2009 6:04:48 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001A8F0 (Static)
+12/23/2009 6:04:53 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001A8F9 (Static)
+12/23/2009 6:04:53 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001A8F8 (Static)
+12/23/2009 6:04:54 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001A8FA (Static)
+12/23/2009 6:04:55 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001A8FB (Static)
+12/23/2009 6:04:56 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001A8FC (Static)
+12/23/2009 6:04:56 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001A8FD (Static)
+12/23/2009 6:04:57 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001A90B (Static)
+12/23/2009 6:04:58 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001A90C (Static)
+12/23/2009 6:05:00 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001A90E (Static)
+12/23/2009 6:05:01 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001A910 (Static)
+12/23/2009 6:05:01 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001A90F (Static)
+12/23/2009 6:05:02 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001A911 (Static)
+12/23/2009 6:05:03 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001A912 (Static)
+12/23/2009 6:05:03 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001A913 (Static)
+12/23/2009 6:05:05 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001A91A (Static)
+12/23/2009 6:05:06 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001A914 (Static)
+12/23/2009 6:05:07 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001A91C (Static)
+12/23/2009 6:05:09 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001A918 (Static)
+12/23/2009 6:05:12 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1872'
+12/23/2009 6:05:14 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building from (5172, 1434, 0) to (5173, 1434, 0) in Felucca: "static" "1872"
+12/23/2009 6:05:14 PM: 24.251.23.203: Serials: 0x4001A920; 0x4001A921; 
+12/23/2009 6:05:16 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1872'
+12/23/2009 6:05:16 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (5173, 1433, 0) in Felucca: "static" "1872"
+12/23/2009 6:05:16 PM: 24.251.23.203: Serials: 0x4001A922; 
+12/23/2009 6:05:18 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1872'
+12/23/2009 6:05:19 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building from (5172, 1432, 0) to (5173, 1432, 0) in Felucca: "static" "1872"
+12/23/2009 6:05:19 PM: 24.251.23.203: Serials: 0x4001A923; 0x4001A924; 
+12/23/2009 6:05:20 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1872'
+12/23/2009 6:05:21 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (5172, 1431, 0) in Felucca: "static" "1872"
+12/23/2009 6:05:21 PM: 24.251.23.203: Serials: 0x4001A925; 
+12/23/2009 6:05:22 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1872'
+12/23/2009 6:05:24 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building from (5172, 1430, 0) to (5173, 1430, 0) in Felucca: "static" "1872"
+12/23/2009 6:05:24 PM: 24.251.23.203: Serials: 0x4001A926; 0x4001A927; 
+12/23/2009 6:05:30 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'tele '
+12/23/2009 6:05:38 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'add xml'
+12/23/2009 6:05:40 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (5136, 1436, 0) in Felucca: "XmlSpawner"
+12/23/2009 6:05:40 PM: 24.251.23.203: Serials: 0x4001A928; 
+12/23/2009 6:05:44 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (5138, 1451, 0) in Felucca: "XmlSpawner"
+12/23/2009 6:05:44 PM: 24.251.23.203: Serials: 0x4001A929; 
+12/23/2009 6:05:50 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') added to XmlSpawner 0x4001A928 'Spawner' [5136, 1436] (Felucca) : ettin
+12/23/2009 6:06:03 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') added to XmlSpawner 0x4001A929 'Spawner' [5138, 1451] (Felucca) : ettin
+12/23/2009 6:06:20 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'm tele'
+12/23/2009 6:06:33 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'add xmls'
+12/23/2009 6:06:35 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (5187, 1488, 0) in Felucca: "XmlSpawner"
+12/23/2009 6:06:35 PM: 24.251.23.203: Serials: 0x4001A938; 
+12/23/2009 6:06:42 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (5199, 1470, 0) in Felucca: "XmlSpawner"
+12/23/2009 6:06:42 PM: 24.251.23.203: Serials: 0x4001A939; 
+12/23/2009 6:06:52 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') added to XmlSpawner 0x4001A939 'Spawner' [5199, 1470] (Felucca) : earthelemental
+12/23/2009 6:07:15 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'add xmls'
+12/23/2009 6:07:18 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (5223, 1451, 0) in Felucca: "XmlSpawner"
+12/23/2009 6:07:18 PM: 24.251.23.203: Serials: 0x4001A946; 
+12/23/2009 6:07:21 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (5221, 1469, 0) in Felucca: "XmlSpawner"
+12/23/2009 6:07:21 PM: 24.251.23.203: Serials: 0x4001A948; 
+12/23/2009 6:07:30 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') added to XmlSpawner 0x4001A948 'Spawner' [5221, 1469] (Felucca) : lizardman
+12/23/2009 6:07:42 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 6:07:48 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') added to XmlSpawner 0x4001A946 'Spawner' [5223, 1451] (Felucca) : lizardman
+12/23/2009 6:08:21 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'add xmls'
+12/23/2009 6:08:24 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (5202, 1428, 0) in Felucca: "XmlSpawner"
+12/23/2009 6:08:24 PM: 24.251.23.203: Serials: 0x4001A94D; 
+12/23/2009 6:08:32 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') added to XmlSpawner 0x4001A94D 'Spawner' [5202, 1428] (Felucca) : skeleton
+12/23/2009 6:08:39 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') added to XmlSpawner 0x4001A94D 'Spawner' [5202, 1428] (Felucca) : ghoul
+12/23/2009 6:08:51 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'add xmls'
+12/23/2009 6:09:36 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') building at (5188, 1421, 0) in Felucca: "XmlSpawner"
+12/23/2009 6:09:36 PM: 24.251.23.203: Serials: 0x4001A963; 
+12/23/2009 6:09:56 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'add '
+12/23/2009 6:10:01 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:10:03 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001A964 (Kryss)
+12/23/2009 6:10:21 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') added to XmlSpawner 0x4001A963 'Spawner' [5188, 1421] (Felucca) : wraith
+12/23/2009 6:10:39 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:10:40 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001312A (QuestHolder)
+12/23/2009 6:11:12 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'add dragon'
+12/23/2009 6:11:13 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') building at (5387, 1093, 0) in Felucca: "dragon"
+12/23/2009 6:11:13 PM: 216.223.179.228: Serials: 0xCDB; 
+12/23/2009 6:11:26 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'resurrect '
+12/23/2009 6:11:28 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') resurrecting 0x8F "Seizure" ('alex33zebras')
+12/23/2009 6:11:53 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:11:56 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001A981 (DeathRobe)
+12/23/2009 6:12:27 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/23/2009 6:12:40 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'MinDamage' of 0x40019020 (ShepherdsCrook) to '10000'
+12/23/2009 6:12:50 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'MaxDamage' of 0x40019020 (ShepherdsCrook) to '10000'
+12/23/2009 6:12:57 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'set hits 999'
+12/23/2009 6:12:57 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'hits' of 0x8F "Seizure" ('alex33zebras') to '999'
+12/23/2009 6:13:21 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'set hits 999'
+12/23/2009 6:13:22 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'hits' of 0x8F "Seizure" ('alex33zebras') to '999'
+12/23/2009 6:13:25 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/23/2009 6:13:54 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/23/2009 6:14:33 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'MaxRange' of 0x40019020 (ShepherdsCrook) to '10000'
+12/23/2009 6:14:44 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'setallskills 120'
+12/23/2009 6:14:46 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'EverySkill.Base' of 0x8F "Seizure" ('alex33zebras') to '120'
+12/23/2009 6:15:01 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:15:02 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001A99C (Corpse)
+12/23/2009 6:15:28 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:15:28 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001A947 (QuestHolder)
+12/23/2009 6:15:29 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:15:30 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001A882 (QuestHolder)
+12/23/2009 6:15:30 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:15:36 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 6:16:42 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'add dragon'
+12/23/2009 6:16:44 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') building at (5388, 1095, 0) in Felucca: "dragon"
+12/23/2009 6:16:44 PM: 216.223.179.228: Serials: 0xCDE; 
+12/23/2009 6:17:29 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:17:30 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001A9A9 (Kryss)
+12/23/2009 6:17:34 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 6:18:29 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:18:29 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001A9B9 (Corpse)
+12/23/2009 6:18:29 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:18:30 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001A97F (Corpse)
+12/23/2009 6:18:33 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'add dragon'
+12/23/2009 6:18:33 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') building at (5391, 1091, 0) in Felucca: "dragon"
+12/23/2009 6:18:33 PM: 216.223.179.228: Serials: 0xCE0; 
+12/23/2009 6:19:01 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 6:19:06 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:19:07 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001A965 (QuestHolder)
+12/23/2009 6:19:08 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:19:09 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001A9AA (QuestHolder)
+12/23/2009 6:19:59 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'add dragon'
+12/23/2009 6:20:00 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') building at (5392, 1092, 0) in Felucca: "dragon"
+12/23/2009 6:20:00 PM: 216.223.179.228: Serials: 0xCE1; 
+12/23/2009 6:20:36 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 6:21:04 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:21:05 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001A9EA (QuestHolder)
+12/23/2009 6:21:19 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:21:20 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001A9E8 (Corpse)
+12/23/2009 6:21:20 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:21:20 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001A9D5 (Corpse)
+12/23/2009 6:21:23 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'add dragon'
+12/23/2009 6:21:23 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') building at (5390, 1093, 0) in Felucca: "dragon"
+12/23/2009 6:21:23 PM: 216.223.179.228: Serials: 0xCE4; 
+12/23/2009 6:22:55 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:22:57 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4000945C (DragonEgg1)
+12/23/2009 6:22:57 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:22:59 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x40000102 (DrakeHeart)
+12/23/2009 6:23:00 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:23:01 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4000A3C7 (DragonHeart)
+12/23/2009 6:23:19 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 6:25:17 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:25:18 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001A9F3 (QuestHolder)
+12/23/2009 6:25:19 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:25:20 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001AA15 (QuestHolder)
+12/23/2009 6:25:34 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:25:35 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x40018C4E (QuestHolder)
+12/23/2009 6:26:33 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'add dragon'
+12/23/2009 6:26:34 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') building at (5387, 1091, 0) in Felucca: "dragon"
+12/23/2009 6:26:34 PM: 216.223.179.228: Serials: 0xCE6; 
+12/23/2009 6:27:13 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:27:14 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001AA2B (Corpse)
+12/23/2009 6:27:15 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:27:15 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001AA0B (Corpse)
+12/23/2009 6:27:34 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 6:28:11 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'add dragon'
+12/23/2009 6:28:12 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') building at (5386, 1093, 0) in Felucca: "dragon"
+12/23/2009 6:28:12 PM: 216.223.179.228: Serials: 0xCE8; 
+12/23/2009 6:28:24 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:28:25 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x400195B8 (MithrilKryss)
+12/23/2009 6:28:30 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:28:30 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001AA16 (QuestHolder)
+12/23/2009 6:29:08 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'add a dragon'
+12/23/2009 6:29:11 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'add dragon'
+12/23/2009 6:29:12 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') building at (5388, 1091, 0) in Felucca: "dragon"
+12/23/2009 6:29:12 PM: 216.223.179.228: Serials: 0xCE9; 
+12/23/2009 6:29:32 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:29:33 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001AA46 (QuestHolder)
+12/23/2009 6:29:36 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 6:30:24 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'add dragon'
+12/23/2009 6:30:25 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') building at (5393, 1093, 0) in Felucca: "dragon"
+12/23/2009 6:30:25 PM: 216.223.179.228: Serials: 0xCEB; 
+12/23/2009 6:32:02 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 6:32:34 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:32:34 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001AA5D (QuestHolder)
+12/23/2009 6:33:55 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'add ratman'
+12/23/2009 6:33:55 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') building at (5397, 1091, 0) in Felucca: "ratman"
+12/23/2009 6:33:55 PM: 216.223.179.228: Serials: 0xCEE; 
+12/23/2009 6:34:16 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 6:34:40 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:34:41 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001AA80 (QuestHolder)
+12/23/2009 6:35:10 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/23/2009 6:35:49 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'Name' of 0xCEE "Taviectuk" (no account) to 'Bobo'
+12/23/2009 6:37:47 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/23/2009 6:38:12 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 6:38:53 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:38:54 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001AA9E (QuestHolder)
+12/23/2009 6:38:57 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/23/2009 6:39:19 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'Completed1' of 0x4001AA8D (QuestHolder) to 'True'
+12/23/2009 6:39:30 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'Completed1' of 0x4001AA8D (QuestHolder) to 'False'
+12/23/2009 6:40:45 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'add '
+12/23/2009 6:41:10 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'Add FortuneTeller'
+12/23/2009 6:41:11 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') building at (5389, 1090, 0) in Felucca: "FortuneTeller"
+12/23/2009 6:41:11 PM: 216.223.179.228: Serials: 0xCF2; 
+12/23/2009 6:41:21 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'set frozen true'
+12/23/2009 6:41:23 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'frozen' of 0xCF2 "Anella" (no account) to 'True'
+12/23/2009 6:41:30 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:41:30 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001AAA8 (QuestHolder)
+12/23/2009 6:41:33 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 6:42:31 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'mortal '
+12/23/2009 6:42:32 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'blessed' of 0xCF2 "Anella" (no account) to 'False'
+12/23/2009 6:42:47 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'kill '
+12/23/2009 6:43:03 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'add playermobile'
+12/23/2009 6:43:04 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') building at (5390, 1086, 0) in Felucca: "playermobile"
+12/23/2009 6:43:10 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'add basicmobile'
+12/23/2009 6:43:24 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'add '
+12/23/2009 6:43:32 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'Add WanderingHealer'
+12/23/2009 6:43:33 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') building at (5387, 1085, 0) in Felucca: "WanderingHealer"
+12/23/2009 6:43:33 PM: 216.223.179.228: Serials: 0xCF4; 
+12/23/2009 6:43:45 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:43:46 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001AABF (QuestHolder)
+12/23/2009 6:43:49 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 6:44:59 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'add xmlspawner'
+12/23/2009 6:45:01 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') building at (5391, 1086, 0) in Felucca: "xmlspawner"
+12/23/2009 6:45:01 PM: 216.223.179.228: Serials: 0x4001AAD5; 
+12/23/2009 6:45:25 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') added to XmlSpawner 0x4001AAD5 'Spawner' [5391, 1086] (Felucca) : orc/named/anella
+12/23/2009 6:45:34 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:45:34 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0xCF4 "Graham" (no account)
+12/23/2009 6:45:35 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 6:45:36 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0xCF2 "Anella" (no account)
+12/23/2009 6:45:52 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') changed XmlSpawner 0x4001AAD5 'Spawner' [5391, 1086] (Felucca) : orc/named/anella to orc/name/anella
+12/23/2009 6:47:01 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'DoRespawn' of 0x4001AAD5 (XmlSpawner) to 'True'
+12/23/2009 6:47:10 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'NextSpawn' of 0x4001AAD5 (XmlSpawner) to '00:00:00'
+12/23/2009 6:50:38 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') changed XmlSpawner 0x4001AAD5 'Spawner' [5391, 1086] (Felucca) : orc/name/anella to 
+12/23/2009 6:50:54 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') changed XmlSpawner 0x4001AAD5 'Spawner' [5391, 1086] (Felucca) :  to orc/name/Anella
+12/23/2009 6:51:09 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/23/2009 6:51:33 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/23/2009 6:51:57 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'MaxCount' of 0x4001AAD5 (XmlSpawner) to '1'
+12/23/2009 6:58:20 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'who '
+12/23/2009 6:58:25 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/23/2009 6:58:34 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 7:05:52 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'who '
+12/23/2009 7:10:54 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'who '
+12/23/2009 7:10:57 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') going to 0x8F "Seizure" ('alex33zebras'), Location (5393, 1086, 0), Map Felucca
+12/23/2009 7:14:55 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/23/2009 7:14:59 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001AB3B (QuestHolder)
+12/23/2009 7:15:01 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/23/2009 7:15:02 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001AB3A (QuestHolder)
+12/23/2009 7:15:18 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/23/2009 7:15:36 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 7:16:05 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'IsActive' of 0x980 "Barrett" (no account) to 'True'
+12/23/2009 7:17:03 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 7:22:48 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/23/2009 7:22:49 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001AB3C (QuestHolder)
+12/23/2009 7:23:11 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 7:23:13 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001AB4F (QuestHolder)
+12/23/2009 7:23:27 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 7:23:28 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'add xmlquestholder'
+12/23/2009 7:23:30 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') building at (5400, 1084, 0) in Felucca: "xmlquestholder"
+12/23/2009 7:26:46 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') changed XmlSpawner 0x4001AAD5 'Spawner' [5391, 1086] (Felucca) : orc/name/Anella to orc
+12/23/2009 7:27:09 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') changed XmlSpawner 0x4001AAD5 'Spawner' [5391, 1086] (Felucca) : orc to orc/nam/Anella
+12/23/2009 7:27:26 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') changed XmlSpawner 0x4001AAD5 'Spawner' [5391, 1086] (Felucca) : orc/nam/Anella to orc/name/Anella
+12/23/2009 7:27:38 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 7:29:21 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 7:30:41 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 7:30:49 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 7:32:12 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 7:32:24 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 7:33:22 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/23/2009 7:33:25 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001AB83 (QuestHolder)
+12/23/2009 7:33:41 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 7:34:07 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 7:34:52 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 7:35:10 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/23/2009 7:36:36 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') changed XmlSpawner 0x4001AAD5 'QuestBarret' [5391, 1086] (Felucca) : orc/name/Anella to xmlquestnpc,2/name/Anita/talktext/yes/configfile/Anita/loadconfig/true
+12/23/2009 7:36:47 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/23/2009 7:36:48 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0xD0B "Anita" (no account)
+12/23/2009 7:37:32 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') changed XmlSpawner 0x4001AAD5 'QuestBarret' [5391, 1086] (Felucca) : xmlquestnpc,2/name/Anita/talktext/yes/configfile/Anita/loadconfig/true to xmlquestnpc,2/name/Barret/talktext/yes/configfile/Anita/loadconfig/true
+12/23/2009 7:37:43 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/23/2009 7:37:45 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x980 "Barrett" (no account) to (5388, 1099, 0)
+12/23/2009 7:38:02 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/23/2009 7:38:05 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') moving 0x980 "Barrett" (no account) to (5387, 1105, 0)
+12/23/2009 7:38:48 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 7:40:06 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 7:41:34 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') changed XmlSpawner 0x4001AAD5 'QuestBarret' [5391, 1086] (Felucca) : xmlquestnpc,2/name/Barret/talktext/yes/configfile/Anita/loadconfig/true to xmlquestnpc,2/name/Barret/talktext/yes/configfile/Reign of Fire/loadconfig/true
+12/23/2009 7:42:49 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 7:43:44 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') changed XmlSpawner 0x4001AAD5 'QuestBarret' [5391, 1086] (Felucca) : xmlquestnpc,2/name/Barret/talktext/yes/configfile/Reign of Fire/loadconfig/true to xmlquestnpc,2/name/Barret/talktext/yes/configfile/Reign of Fire/loadconfig/true/
+12/23/2009 7:44:01 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 7:44:42 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/23/2009 7:44:49 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'TriggerAccessLevel' of 0xD12 "Barrett" (no account) to 'Owner'
+12/23/2009 7:45:07 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 7:45:08 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001AB84 (QuestHolder)
+12/23/2009 7:45:09 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 7:45:10 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001ABCE (QuestHolder)
+12/23/2009 7:45:19 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'set frozen true'
+12/23/2009 7:45:20 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'frozen' of 0xD12 "Barrett" (no account) to 'True'
+12/23/2009 7:46:19 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/23/2009 7:46:19 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duping 0x4001AAD5 (XmlSpawner) (inBag=False; amount=1)
+12/23/2009 7:46:20 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duped 0x4001AAD5 (XmlSpawner) creating 0x4001ABD2 (XmlSpawner)
+12/23/2009 7:46:20 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/23/2009 7:46:23 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') moving 0x4001ABD2 (XmlSpawner) to (5385, 1087, 0)
+12/23/2009 7:46:42 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') changed XmlSpawner 0x4001ABD2 'QuestBarret' [5385, 1087] (Felucca) : xmlquestnpc,2/name/Barret/talktext/yes/configfile/Reign of Fire/loadconfig/true/ to Orc/name/Anella
+12/23/2009 7:47:07 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 7:47:08 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001ABE4 (Corpse)
+12/23/2009 7:47:38 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 7:47:39 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001ABCF (QuestHolder)
+12/23/2009 7:50:33 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'afk everything works except for collecting the reward... don't know y lol'
+12/23/2009 8:30:06 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'go britain'
+12/23/2009 8:30:32 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'speedboost '
+12/23/2009 8:30:43 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'who '
+12/23/2009 8:30:47 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') going to 0x8F "Seizure" ('alex33zebras'), Location (5389, 1082, 0), Map Felucca
+12/23/2009 8:32:05 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/23/2009 8:32:43 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Fame' of 0xA09 "ItzLuk" ('chrism.') to '1'
+12/23/2009 8:34:13 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'GuildTitle' of 0xA09 "ItzLuk" ('chrism.') to 'GM'
+12/23/2009 8:36:40 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'delete '
+12/23/2009 8:36:42 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') deleting 0x4001AC91 (QuestHolder)
+12/23/2009 8:54:51 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'who '
+12/23/2009 9:34:10 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmlsave barretquest.xml'
+12/23/2009 9:35:04 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 9:38:22 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 9:38:28 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/23/2009 9:38:31 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001AD3F (QuestHolder)
+12/23/2009 9:39:37 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 9:41:31 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/23/2009 9:41:33 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001AD5C (QuestHolder)
+12/23/2009 9:45:02 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 9:45:43 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/23/2009 9:45:45 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001AD84 (QuestHolder)
+12/23/2009 9:45:52 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 9:47:07 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 9:48:12 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/23/2009 9:48:14 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001ADA1 (QuestHolder)
+12/23/2009 9:49:35 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/23/2009 9:49:37 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001ADB7 (QuestHolder)
+12/23/2009 9:49:39 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/23/2009 9:49:40 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0xD12 "Barrett" (no account)
+12/23/2009 9:50:06 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 9:52:01 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/23/2009 9:52:03 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0xD51 "Barrett" (no account)
+12/23/2009 9:52:26 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 9:52:57 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 9:53:06 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/23/2009 9:53:19 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'IsActive' of 0xD54 "Barrett" (no account) to 'True'
+12/23/2009 9:53:38 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 9:53:51 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 9:53:58 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 9:55:04 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmlload barretquest.xml'
+12/23/2009 9:55:29 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmlload '
+12/23/2009 9:55:42 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmlload '
+12/23/2009 9:55:49 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/23/2009 9:55:49 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 9:55:54 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 9:55:55 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 9:56:03 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/23/2009 9:56:10 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'TriggerAccessLevel' of 0xD67 "Barrett" (no account) to 'Owner'
+12/23/2009 9:56:17 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/23/2009 9:56:31 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 9:56:59 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 9:57:04 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 9:57:38 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/23/2009 9:58:14 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 9:58:16 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0xD69 "a ridable llama" (no account)
+12/23/2009 9:58:42 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/23/2009 9:58:49 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/23/2009 9:58:58 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'set frozen true'
+12/23/2009 9:59:00 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'frozen' of 0xD67 "Barrett" (no account) to 'True'
+12/23/2009 9:59:04 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'TriggerAccessLevel' of 0xD67 "Barrett" (no account) to 'Player'
+12/23/2009 9:59:12 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 9:59:14 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001ABE9 (QuestHolder)
+12/23/2009 9:59:26 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/23/2009 9:59:45 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 9:59:51 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'Pause' of 0xD67 "Barrett" (no account) to '0'
+12/23/2009 9:59:58 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'Pause' of 0xD67 "Barrett" (no account) to '1'
+12/23/2009 10:00:09 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'ResetTime' of 0xD67 "Barrett" (no account) to '00:00:00'
+12/23/2009 10:00:39 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'IsActive' of 0xD67 "Barrett" (no account) to 'True'
+12/23/2009 10:00:47 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/23/2009 10:00:51 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/23/2009 10:00:55 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'TriggerAccessLevel' of 0xD67 "Barrett" (no account) to 'Owner'
+12/23/2009 10:01:33 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/23/2009 10:01:43 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') set property 'ResetTime' of 0xD67 "Barrett" (no account) to '00:00:05'
+12/23/2009 10:02:08 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/23/2009 10:02:30 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 10:03:31 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/23/2009 10:03:32 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duping 0x4001AE03 (XmlSpawner) (inBag=False; amount=1)
+12/23/2009 10:03:32 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') duped 0x4001AE03 (XmlSpawner) creating 0x4001AE6F (XmlSpawner)
+12/23/2009 10:03:50 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/23/2009 10:03:51 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') moving 0x4001AE6F (XmlSpawner) to (5408, 1086, 0)
+12/23/2009 10:04:03 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'set frozen true'
+12/23/2009 10:04:04 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'frozen' of 0xD72 "Barrett" (no account) to 'True'
+12/23/2009 10:04:07 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/23/2009 10:04:12 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') set property 'TriggerAccessLevel' of 0xD72 "Barrett" (no account) to 'Owner'
+12/23/2009 10:04:17 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 10:04:34 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/23/2009 10:04:35 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') deleting 0x4001AE78 (QuestHolder)
+12/23/2009 10:04:41 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 10:05:32 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 10:06:24 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 10:07:01 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/23/2009 10:07:03 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001AE81 (QuestHolder)
+12/23/2009 10:07:20 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 10:07:26 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 10:07:28 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 10:08:02 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 10:10:17 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 10:15:40 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 10:20:37 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 10:24:13 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/23/2009 10:27:17 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'm remove'
+12/23/2009 10:27:18 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001AEE1 (QuestHolder)
+12/23/2009 10:27:19 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001AEE2 (QuestHolder)
+12/23/2009 10:27:20 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001AED8 (QuestHolder)
+12/23/2009 10:30:37 PM: 216.223.179.228: Owner 0x8F "Seizure" ('alex33zebras') used command 'afk Christmas'
+12/23/2009 10:35:59 PM: 24.251.23.203: Owner 0x974 "Prophet" ('Prophet') used command 'restart '

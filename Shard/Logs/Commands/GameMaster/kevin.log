@@ -1,0 +1,44 @@
+12/26/2009 8:30:34 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'tele '
+12/26/2009 8:30:38 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'tele '
+12/26/2009 8:30:45 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'props '
+12/26/2009 8:30:51 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') set property 'hidden' of 0x982 "Karma" ('kevin') to 'False'
+12/26/2009 8:30:51 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'self set hidden false'
+12/26/2009 8:31:24 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'tele '
+12/26/2009 8:31:27 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'tele '
+12/26/2009 8:31:31 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'who '
+12/26/2009 8:31:33 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') going to 0x8F "Seizure" ('alex33zebras'), Location (5299, 1484, 0), Map Felucca
+12/26/2009 8:31:47 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'who '
+12/26/2009 8:32:37 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'speedboost '
+12/26/2009 8:32:42 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'M Tele'
+12/26/2009 8:33:01 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'mail '
+12/26/2009 8:33:10 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'lottery '
+12/26/2009 8:33:57 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'add xmlquestnpc'
+12/26/2009 8:33:59 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') building at (5300, 1484, 0) in Felucca: "xmlquestnpc"
+12/26/2009 8:33:59 PM: 24.113.65.101: Serials: 0x9AA; 
+12/26/2009 8:34:10 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'xmledit '
+12/26/2009 8:35:18 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'xmledit '
+12/26/2009 8:36:31 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'delete '
+12/26/2009 8:36:32 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') deleting 0x9AA "Zelda" (no account)
+12/26/2009 8:36:34 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'go '
+12/26/2009 8:36:47 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'add ques'
+12/26/2009 8:36:52 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') building at (5430, 1095, 0) in Felucca: "XmlQuestNPC"
+12/26/2009 8:36:52 PM: 24.113.65.101: Serials: 0x9AD; 
+12/26/2009 8:36:56 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'xmledit '
+12/26/2009 8:37:39 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'props '
+12/26/2009 8:38:23 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'add stafforb'
+12/26/2009 8:38:29 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'staff '
+12/26/2009 8:39:21 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'delete '
+12/26/2009 8:39:22 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') deleting 0x9AD "Fritz" (no account)
+12/26/2009 8:39:40 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'afk .'
+12/26/2009 9:02:25 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'who '
+12/26/2009 9:02:29 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') going to 0x8F "Seizure" ('alex33zebras'), Location (1432, 1693, 0), Map Felucca
+12/26/2009 9:02:36 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'add gmrobe'
+12/26/2009 9:02:40 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') building at (1431, 1695, 0) in Felucca: "gmrobe"
+12/26/2009 9:02:40 PM: 24.113.65.101: Serials: 0x40018EEC; 
+12/26/2009 9:02:40 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'self addtopack gmrobe'
+12/26/2009 9:02:54 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'set hue 1175'
+12/26/2009 9:02:56 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') set property 'hue' of 0x40018EEC (GMRobe) to '1175'
+12/26/2009 9:02:57 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'set hue 1175'
+12/26/2009 9:02:58 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') set property 'hue' of 0x40014D42 (EtherealHorse) to '1175'
+12/26/2009 9:03:10 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') used command 'set hue 1175'
+12/26/2009 9:03:11 PM: 24.113.65.101: GameMaster 0x982 "Karma" ('kevin') set property 'hue' of 0x40018C4C (MageSpellbook) to '1175'

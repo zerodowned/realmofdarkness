@@ -1,0 +1,271 @@
+12/18/2009 8:58:08 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/18/2009 8:58:25 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'delete '
+12/18/2009 8:58:27 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') deleting 0x400191C4 (RingmailChest)
+12/18/2009 8:58:30 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'delete '
+12/18/2009 8:58:32 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') deleting 0x400191C0 (Broadsword)
+12/18/2009 8:58:34 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'delete '
+12/18/2009 8:58:39 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') deleting 0x400191C1 (Helmet)
+12/18/2009 8:58:41 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'delete '
+12/18/2009 8:58:44 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') deleting 0x400191C2 (PlateGorget)
+12/18/2009 8:58:47 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'delete '
+12/18/2009 8:58:49 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') deleting 0x400191C3 (RingmailArms)
+12/18/2009 8:58:52 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'add gm robe'
+12/18/2009 8:59:23 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'delete '
+12/18/2009 8:59:25 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') deleting 0x400191C5 (RingmailLegs)
+12/18/2009 8:59:27 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'delete '
+12/18/2009 8:59:29 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') deleting 0x400191C6 (ThighBoots)
+12/18/2009 8:59:40 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'add mount'
+12/18/2009 8:59:48 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'add '
+12/18/2009 9:00:32 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'add eth'
+12/18/2009 9:00:51 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (1422, 1698, 0) in Felucca: "EtherealCuSidhe"
+12/18/2009 9:00:51 PM: 216.223.173.45: Serials: 0x400191CB; 
+12/18/2009 9:01:03 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (1421, 1699, 0) in Felucca: "EtherealKirin"
+12/18/2009 9:01:03 PM: 216.223.173.45: Serials: 0x400191CC; 
+12/18/2009 9:01:10 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (1422, 1697, 0) in Felucca: "EtherealHorse"
+12/18/2009 9:01:10 PM: 216.223.173.45: Serials: 0x400191CD; 
+12/18/2009 9:01:17 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'delete '
+12/18/2009 9:01:19 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') deleting 0x400191CB (EtherealCuSidhe)
+12/18/2009 9:01:21 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'delete '
+12/18/2009 9:01:22 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') deleting 0x400191CC (EtherealKirin)
+12/18/2009 9:01:31 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/18/2009 9:02:30 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Int' of 0xA09 "ItzLuk" ('chrism.') to '999'
+12/18/2009 9:02:59 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Mana' of 0xA09 "ItzLuk" ('chrism.') to '50000'
+12/18/2009 9:03:30 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'RawDex' of 0xA09 "ItzLuk" ('chrism.') to '999'
+12/18/2009 9:03:45 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Stam' of 0xA09 "ItzLuk" ('chrism.') to '999'
+12/18/2009 9:03:54 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'RawStr' of 0xA09 "ItzLuk" ('chrism.') to '9999'
+12/18/2009 9:04:43 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'add blade'
+12/18/2009 9:04:51 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (1423, 1698, 0) in Felucca: "DoubleBladedStaff"
+12/18/2009 9:04:51 PM: 216.223.173.45: Serials: 0x400191D6; 
+12/18/2009 9:05:14 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (1423, 1698, 0) in Felucca: "OrderGuard"
+12/18/2009 9:05:14 PM: 216.223.173.45: Serials: 0xA0B; 
+12/18/2009 9:05:17 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'delete '
+12/18/2009 9:05:19 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') deleting 0xA0B "Victoria" (no account)
+12/18/2009 9:05:23 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'add ordershield'
+12/18/2009 9:05:25 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (1423, 1698, 0) in Felucca: "ordershield"
+12/18/2009 9:05:25 PM: 216.223.173.45: Serials: 0x400191E0; 
+12/18/2009 9:05:53 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'add robe'
+12/18/2009 9:05:55 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (1423, 1698, 0) in Felucca: "robe"
+12/18/2009 9:05:55 PM: 216.223.173.45: Serials: 0x400191E1; 
+12/18/2009 9:06:02 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'delete '
+12/18/2009 9:06:04 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') deleting 0x400191E1 (Robe)
+12/18/2009 9:06:06 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'add '
+12/18/2009 9:06:28 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'Add Spellbook'
+12/18/2009 9:06:32 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (1423, 1698, 0) in Felucca: "Spellbook"
+12/18/2009 9:06:32 PM: 216.223.173.45: Serials: 0x400191E2; 
+12/18/2009 9:06:33 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'Add BookOfChivalry'
+12/18/2009 9:06:35 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (1422, 1698, 0) in Felucca: "BookOfChivalry"
+12/18/2009 9:06:35 PM: 216.223.173.45: Serials: 0x400191E3; 
+12/18/2009 9:06:51 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'Add ChargerOfTheFallen'
+12/18/2009 9:06:53 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (1423, 1697, 0) in Felucca: "ChargerOfTheFallen"
+12/18/2009 9:06:53 PM: 216.223.173.45: Serials: 0x400191E4; 
+12/18/2009 9:07:16 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'delete '
+12/18/2009 9:07:19 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') deleting 0x400191CD (EtherealHorse)
+12/18/2009 9:08:43 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'Add GMRobe'
+12/18/2009 9:08:45 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (1422, 1699, 0) in Felucca: "GMRobe"
+12/18/2009 9:08:45 PM: 216.223.173.45: Serials: 0x400191E5; 
+12/18/2009 9:09:03 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'delete '
+12/18/2009 9:09:04 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') deleting 0x400191C7 (Cloak)
+12/18/2009 9:09:28 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/18/2009 9:09:51 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'DamageLevel' of 0x400191D6 (DoubleBladedStaff) to 'Regular'
+12/18/2009 9:09:59 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'DamageLevel' of 0x400191D6 (DoubleBladedStaff) to 'Vanq'
+12/18/2009 9:10:14 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'AccuracyLevel' of 0x400191D6 (DoubleBladedStaff) to 'Supremely'
+12/18/2009 9:10:27 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Poison' of 0x400191D6 (DoubleBladedStaff) to 'Lethal'
+12/18/2009 9:10:41 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'PoisonCharges' of 0x400191D6 (DoubleBladedStaff) to '500000000'
+12/18/2009 9:11:09 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MaxDamage' of 0x400191D6 (DoubleBladedStaff) to '23000'
+12/18/2009 9:11:11 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'tele '
+12/18/2009 9:11:25 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MaxRange' of 0x400191D6 (DoubleBladedStaff) to '50'
+12/18/2009 9:11:35 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MinDamage' of 0x400191D6 (DoubleBladedStaff) to '15000'
+12/18/2009 9:12:04 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Speed' of 0x400191D6 (DoubleBladedStaff) to '1000'
+12/18/2009 9:12:41 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Hue' of 0x400191D6 (DoubleBladedStaff) to '153'
+12/18/2009 9:12:54 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Hue' of 0x400191D6 (DoubleBladedStaff) to '54'
+12/18/2009 9:13:14 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Hue' of 0x400191D6 (DoubleBladedStaff) to '253'
+12/18/2009 9:13:39 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Hue' of 0x400191D6 (DoubleBladedStaff) to '153'
+12/18/2009 9:13:57 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Hue' of 0x400191D6 (DoubleBladedStaff) to '56'
+12/18/2009 9:14:20 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Hue' of 0x400191D6 (DoubleBladedStaff) to '966'
+12/18/2009 9:14:57 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Hue' of 0x400191D6 (DoubleBladedStaff) to '52'
+12/18/2009 9:15:06 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/18/2009 9:15:24 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Layer' of 0x400191D6 (DoubleBladedStaff) to 'FirstValid'
+12/18/2009 9:16:17 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'CastSpeed' of ... to '500'
+12/18/2009 9:16:25 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'CastRecovery' of ... to '500'
+12/18/2009 9:16:38 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Luck' of ... to '2300'
+12/18/2009 9:16:56 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'NightSight' of ... to '50'
+12/18/2009 9:17:05 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'SpellChanneling' of ... to '5000'
+12/18/2009 9:18:21 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/18/2009 9:18:34 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'CastSpeed' of ... to '500'
+12/18/2009 9:18:39 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'CastRecovery' of ... to '500'
+12/18/2009 9:18:50 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Luck' of ... to '2300'
+12/18/2009 9:18:57 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'LowerManaCost' of ... to '5000'
+12/18/2009 9:19:03 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'LowerRegCost' of ... to '50000'
+12/18/2009 9:19:13 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'SpellChanneling' of ... to '5000'
+12/18/2009 9:19:46 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Name' of 0x400191E0 (OrderShield) to 'Herald of Zakarum'
+12/18/2009 9:20:05 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Layer' of 0x400191E0 (OrderShield) to 'FirstValid'
+12/18/2009 9:20:24 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'ProtectionLevel' of 0x400191E0 (OrderShield) to 'Invulnerability'
+12/18/2009 9:21:01 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Hue' of 0x400191E0 (OrderShield) to '52'
+12/18/2009 9:21:59 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Layer' of 0x400191E0 (OrderShield) to 'FirstValid'
+12/18/2009 9:22:14 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Layer' of 0x400191E0 (OrderShield) to 'TwoHanded'
+12/18/2009 9:22:57 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'go destard'
+12/18/2009 9:23:01 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'unhide '
+12/18/2009 9:23:02 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') unhiding 0xA09 "ItzLuk" ('chrism.')
+12/18/2009 9:23:21 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'add spawner'
+12/18/2009 9:23:22 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (5206, 950, -40) in Felucca: "spawner"
+12/18/2009 9:23:22 PM: 216.223.173.45: Serials: 0x40019248; 
+12/18/2009 9:23:45 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/18/2009 9:24:01 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'c what's time on spawns'
+12/18/2009 9:24:15 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'c ?'
+12/18/2009 9:24:55 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'c alex'
+12/18/2009 9:25:07 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/18/2009 9:25:48 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Blessed' of 0xA09 "ItzLuk" ('chrism.') to 'True'
+12/18/2009 9:26:14 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'DisarmReady' of 0xA09 "ItzLuk" ('chrism.') to 'True'
+12/18/2009 9:26:45 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Fame' of 0xA09 "ItzLuk" ('chrism.') to '999'
+12/18/2009 9:26:58 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Fame' of 0xA09 "ItzLuk" ('chrism.') to '100000'
+12/18/2009 9:27:23 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'FollowersMax' of 0xA09 "ItzLuk" ('chrism.') to '25'
+12/18/2009 9:27:58 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Kills' of 0xA09 "ItzLuk" ('chrism.') to '999999'
+12/18/2009 9:28:08 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Karma' of 0xA09 "ItzLuk" ('chrism.') to '999999'
+12/18/2009 9:28:14 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/18/2009 9:28:31 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MinDelay' of 0x40019248 (Spawner) to '00:00:15'
+12/18/2009 9:28:38 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MaxDelay' of 0x40019248 (Spawner) to '00:03:00'
+12/18/2009 9:29:38 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'add spawner'
+12/18/2009 9:29:40 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (5219, 932, -40) in Felucca: "spawner"
+12/18/2009 9:29:40 PM: 216.223.173.45: Serials: 0x4001926B; 
+12/18/2009 9:29:53 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/18/2009 9:30:00 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MinDelay' of 0x4001926B (Spawner) to '00:00:15'
+12/18/2009 9:30:07 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MaxDelay' of 0x4001926B (Spawner) to '00:03:00'
+12/18/2009 9:30:47 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'add spawner'
+12/18/2009 9:30:49 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (5222, 953, -40) in Felucca: "spawner"
+12/18/2009 9:30:49 PM: 216.223.173.45: Serials: 0x400192A1; 
+12/18/2009 9:31:00 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/18/2009 9:31:08 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MinDelay' of 0x400192A1 (Spawner) to '00:00:15'
+12/18/2009 9:31:11 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MaxDelay' of 0x400192A1 (Spawner) to '00:03:00'
+12/18/2009 9:31:27 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'add spawner'
+12/18/2009 9:31:28 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (5209, 966, -40) in Felucca: "spawner"
+12/18/2009 9:31:28 PM: 216.223.173.45: Serials: 0x400192AC; 
+12/18/2009 9:31:43 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/18/2009 9:31:50 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MinDelay' of 0x400192AC (Spawner) to '00:00:15'
+12/18/2009 9:31:54 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MaxDelay' of 0x400192AC (Spawner) to '00:03:00'
+12/18/2009 9:32:12 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'add spawner'
+12/18/2009 9:32:13 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (5222, 988, -2) in Felucca: "spawner"
+12/18/2009 9:32:13 PM: 216.223.173.45: Serials: 0x400192B9; 
+12/18/2009 9:32:23 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/18/2009 9:32:30 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MinDelay' of 0x400192B9 (Spawner) to '00:00:15'
+12/18/2009 9:32:34 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MaxDelay' of 0x400192B9 (Spawner) to '00:03:00'
+12/18/2009 9:32:53 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'add spawner'
+12/18/2009 9:32:55 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (5243, 971, -40) in Felucca: "spawner"
+12/18/2009 9:32:55 PM: 216.223.173.45: Serials: 0x400192CE; 
+12/18/2009 9:32:59 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/18/2009 9:33:05 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MinDelay' of 0x400192CE (Spawner) to '00:00:15'
+12/18/2009 9:33:11 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MaxDelay' of 0x400192CE (Spawner) to '00:03:00'
+12/18/2009 9:33:43 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'add spawner'
+12/18/2009 9:33:44 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (5180, 952, 1) in Felucca: "spawner"
+12/18/2009 9:33:44 PM: 216.223.173.45: Serials: 0x400192F2; 
+12/18/2009 9:34:00 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/18/2009 9:34:11 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MinDelay' of 0x400192F2 (Spawner) to '00:00:15'
+12/18/2009 9:34:15 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MaxDelay' of 0x400192F2 (Spawner) to '00:03:00'
+12/18/2009 9:34:33 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'add spawner'
+12/18/2009 9:34:34 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (5164, 946, 0) in Felucca: "spawner"
+12/18/2009 9:34:34 PM: 216.223.173.45: Serials: 0x4001932A; 
+12/18/2009 9:34:41 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/18/2009 9:34:47 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MinDelay' of 0x4001932A (Spawner) to '00:00:15'
+12/18/2009 9:34:52 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MaxDelay' of 0x4001932A (Spawner) to '00:03:00'
+12/18/2009 9:35:21 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'add spawner'
+12/18/2009 9:35:28 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (5133, 899, 0) in Felucca: "spawner"
+12/18/2009 9:35:28 PM: 216.223.173.45: Serials: 0x40019340; 
+12/18/2009 9:35:40 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/18/2009 9:35:46 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MinDelay' of 0x40019340 (Spawner) to '00:00:15'
+12/18/2009 9:35:50 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MaxDelay' of 0x40019340 (Spawner) to '00:03:00'
+12/18/2009 9:36:08 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'add spawner'
+12/18/2009 9:36:11 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (5137, 812, 0) in Felucca: "spawner"
+12/18/2009 9:36:11 PM: 216.223.173.45: Serials: 0x40019344; 
+12/18/2009 9:36:16 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/18/2009 9:36:23 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MinDelay' of 0x40019344 (Spawner) to '00:00:15'
+12/18/2009 9:36:27 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MaxDelay' of 0x40019344 (Spawner) to '00:03:00'
+12/18/2009 9:36:50 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'add spawner'
+12/18/2009 9:36:51 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (5139, 825, 0) in Felucca: "spawner"
+12/18/2009 9:36:51 PM: 216.223.173.45: Serials: 0x40019367; 
+12/18/2009 9:37:00 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/18/2009 9:37:05 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MinDelay' of 0x40019367 (Spawner) to '00:00:15'
+12/18/2009 9:37:11 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MaxDelay' of 0x40019367 (Spawner) to '00:03:00'
+12/18/2009 9:37:25 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'add spawner'
+12/18/2009 9:37:26 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (5134, 843, 0) in Felucca: "spawner"
+12/18/2009 9:37:26 PM: 216.223.173.45: Serials: 0x40019371; 
+12/18/2009 9:37:51 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/18/2009 9:38:00 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MinDelay' of 0x40019371 (Spawner) to '00:00:15'
+12/18/2009 9:38:05 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MaxDelay' of 0x40019371 (Spawner) to '00:03:00'
+12/18/2009 9:38:23 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'add spawner'
+12/18/2009 9:38:24 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (5165, 840, 0) in Felucca: "spawner"
+12/18/2009 9:38:24 PM: 216.223.173.45: Serials: 0x4001938B; 
+12/18/2009 9:38:37 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/18/2009 9:38:45 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MinDelay' of 0x4001938B (Spawner) to '00:00:15'
+12/18/2009 9:38:50 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MaxDelay' of 0x4001938B (Spawner) to '00:03:00'
+12/18/2009 9:39:03 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'add spawner'
+12/18/2009 9:39:05 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (5148, 873, 0) in Felucca: "spawner"
+12/18/2009 9:39:05 PM: 216.223.173.45: Serials: 0x4001951F; 
+12/18/2009 9:39:07 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'add spawner'
+12/18/2009 9:39:09 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (5154, 871, 0) in Felucca: "spawner"
+12/18/2009 9:39:09 PM: 216.223.173.45: Serials: 0x40019520; 
+12/18/2009 9:39:11 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'add spawner'
+12/18/2009 9:39:13 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (5157, 865, 0) in Felucca: "spawner"
+12/18/2009 9:39:13 PM: 216.223.173.45: Serials: 0x40019521; 
+12/18/2009 9:39:15 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/18/2009 9:39:20 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MinDelay' of 0x4001951F (Spawner) to '00:00:15'
+12/18/2009 9:39:25 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MaxDelay' of 0x4001951F (Spawner) to '00:03:00'
+12/18/2009 9:39:30 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/18/2009 9:39:36 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MinDelay' of 0x40019520 (Spawner) to '00:00:15'
+12/18/2009 9:39:41 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MaxDelay' of 0x40019520 (Spawner) to '00:03:00'
+12/18/2009 9:39:43 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/18/2009 9:39:52 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/18/2009 9:40:01 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MinDelay' of 0x40019521 (Spawner) to '00:00:15'
+12/18/2009 9:40:07 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MaxDelay' of 0x40019521 (Spawner) to '00:03:00'
+12/18/2009 9:49:35 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'add spawner'
+12/18/2009 9:49:36 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (5167, 827, 0) in Felucca: "spawner"
+12/18/2009 9:49:36 PM: 216.223.173.45: Serials: 0x400197AE; 
+12/18/2009 9:49:48 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/18/2009 9:49:54 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MinDelay' of 0x400197AE (Spawner) to '00:00:15'
+12/18/2009 9:49:59 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MaxDelay' of 0x400197AE (Spawner) to '00:03:00'
+12/18/2009 9:50:23 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'add spawner'
+12/18/2009 9:50:24 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (5142, 969, 1) in Felucca: "spawner"
+12/18/2009 9:50:24 PM: 216.223.173.45: Serials: 0x400197B3; 
+12/18/2009 9:50:35 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/18/2009 9:50:44 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MinDelay' of 0x400197B3 (Spawner) to '00:00:15'
+12/18/2009 9:50:48 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MaxDelay' of 0x400197B3 (Spawner) to '00:03:00'
+12/18/2009 9:51:16 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'add spawner'
+12/18/2009 9:51:18 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') building at (5182, 1006, 0) in Felucca: "spawner"
+12/18/2009 9:51:18 PM: 216.223.173.45: Serials: 0x40019806; 
+12/18/2009 9:51:27 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/18/2009 9:51:38 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MinDelay' of 0x40019806 (Spawner) to '00:01:00'
+12/18/2009 9:51:45 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'MaxDelay' of 0x40019806 (Spawner) to '00:05:00'
+12/18/2009 9:52:16 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'go britain'
+12/18/2009 9:52:22 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'go detard'
+12/18/2009 9:52:26 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'go destard'
+12/18/2009 9:53:05 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'c '
+12/20/2009 6:04:32 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'c '
+12/20/2009 6:04:49 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'who '
+12/20/2009 6:05:01 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'm tele'
+12/20/2009 6:05:20 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'speedboost '
+12/20/2009 6:05:37 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'unhide '
+12/20/2009 6:05:39 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') unhiding 0xA09 "ItzLuk" ('chrism.')
+12/20/2009 6:05:57 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'go destard'
+12/20/2009 6:07:29 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'speedboost '
+12/20/2009 6:07:44 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'm tele'
+12/20/2009 6:09:00 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'm tele'
+12/20/2009 6:10:06 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'go moongate'
+12/20/2009 6:10:10 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'go destard'
+12/20/2009 7:45:23 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'unhide '
+12/20/2009 7:45:25 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') unhiding 0xA09 "ItzLuk" ('chrism.')
+12/20/2009 7:45:34 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/20/2009 7:47:06 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Level' of 0xA09 "ItzLuk" ('chrism.') to '99'
+12/20/2009 7:47:16 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'c '
+12/20/2009 7:47:21 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'who '
+12/20/2009 7:47:38 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') going to 0x8F "Seizure" ('alex33zebras'), Location (1451, 1767, -2), Map Felucca
+12/20/2009 7:50:24 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'speedboost '
+12/20/2009 7:53:20 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'm tele'
+12/20/2009 11:10:12 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'speedboost '
+12/23/2009 8:30:06 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'go britain'
+12/23/2009 8:30:32 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'speedboost '
+12/23/2009 8:30:43 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'who '
+12/23/2009 8:30:47 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') going to 0x8F "Seizure" ('alex33zebras'), Location (5389, 1082, 0), Map Felucca
+12/23/2009 8:32:05 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'props '
+12/23/2009 8:32:43 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'Fame' of 0xA09 "ItzLuk" ('chrism.') to '1'
+12/23/2009 8:34:13 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') set property 'GuildTitle' of 0xA09 "ItzLuk" ('chrism.') to 'GM'
+12/23/2009 8:36:40 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'delete '
+12/23/2009 8:36:42 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') deleting 0x4001AC91 (QuestHolder)
+12/24/2009 12:23:35 PM: 216.223.173.45: GameMaster 0xA09 "ItzLuk" ('chrism.') used command 'speedboost '

@@ -1,0 +1,1635 @@
+##############################
+Log started on 12/19/2009 10:27:04 AM
+
+12/19/2009 10:32:26 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tele '
+12/19/2009 10:32:40 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add bot'
+12/19/2009 10:32:43 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6084, 1224, 0) in Felucca: "PaintBallBot1"
+12/19/2009 10:32:43 AM: 192.168.2.2: Serials: 0x90; 
+12/19/2009 10:33:24 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'admin '
+12/19/2009 10:35:09 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 10:35:10 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x90 "Paint Ball Bot" (no account)
+12/19/2009 10:38:24 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+##############################
+Log started on 12/19/2009 10:41:13 AM
+
+12/19/2009 10:42:50 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add shrink'
+12/19/2009 10:43:02 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6101, 1214, 0) in Felucca: "PetLeash"
+12/19/2009 10:43:02 AM: 192.168.2.2: Serials: 0x40000100; 
+12/19/2009 10:43:41 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 10:43:42 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40000100 (PetLeash)
+12/19/2009 10:50:56 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 10:51:10 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'c '
+12/19/2009 10:52:35 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tele '
+12/19/2009 10:54:24 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'm remove'
+12/19/2009 10:54:25 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40019F5C (PaintBallRobe)
+12/19/2009 10:54:30 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40019F57 (PaintBallGunOffense)
+12/19/2009 10:54:34 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'm remove'
+12/19/2009 10:54:36 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40019F5B (PaintBallPellets)
+12/19/2009 10:54:38 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40019F55 (BagOfPaintBall)
+12/19/2009 10:56:27 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'm tele'
+12/19/2009 10:56:32 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'admin '
+12/19/2009 10:56:40 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add ring'
+12/19/2009 10:56:42 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6124, 1299, 15) in Felucca: "GoldRing"
+12/19/2009 10:56:42 AM: 192.168.2.2: Serials: 0x4001031D; 
+12/19/2009 10:56:48 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set nightsight 1'
+12/19/2009 10:56:55 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 10:57:08 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'NightSight' of ... to '1'
+12/19/2009 10:57:26 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'm tele'
+12/19/2009 10:57:31 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 10:57:32 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 10:57:32 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 10:57:33 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 10:57:33 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 10:57:34 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 10:57:34 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 10:57:35 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 10:57:35 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 10:57:36 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 10:57:36 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 10:57:37 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 10:57:37 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 10:57:38 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 10:57:38 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 10:57:38 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 10:57:39 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 10:57:39 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 10:57:39 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 10:57:40 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 10:57:40 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 10:57:43 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'who '
+12/19/2009 10:57:46 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') going to 0x974 "Prophet" ('Prophet'), Location (6079, 1403, 30), Map Felucca
+12/19/2009 10:57:49 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 10:57:50 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 10:57:51 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 10:58:56 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'm tele'
+12/19/2009 10:59:10 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'm tele'
+12/19/2009 10:59:21 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 10:59:39 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'map' of 0x974 "Prophet" ('Prophet') to 'Felucca'
+12/19/2009 10:59:39 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Self Set map 0'
+12/19/2009 10:59:40 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Go 1422 1697 0'
+12/19/2009 11:00:02 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 11:00:11 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'who '
+12/19/2009 11:00:15 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') going to 0x974 "Prophet" ('Prophet'), Location (1421, 1713, -25), Map Felucca
+12/19/2009 11:00:22 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'PointDest' of 0x40019AC3 (Teleporter) to '(6125, 1378, 30)'
+12/19/2009 11:00:30 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'm remove'
+12/19/2009 11:00:34 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40019CD9 (Teleporter)
+12/19/2009 11:00:35 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40019AC6 (Teleporter)
+12/19/2009 11:00:37 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:00:42 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40019CD8 (Teleporter) to (1423, 1715, -25)
+12/19/2009 11:00:45 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:00:51 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'dupe '
+12/19/2009 11:00:52 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duping 0x40019CD8 (Teleporter) (inBag=False; amount=1)
+12/19/2009 11:00:52 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duped 0x40019CD8 (Teleporter) creating 0x4001231B (Teleporter)
+12/19/2009 11:00:54 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 11:00:55 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40019CD8 (Teleporter)
+12/19/2009 11:00:58 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'dupe '
+12/19/2009 11:00:59 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duping 0x40019A71 (Static) (inBag=False; amount=1)
+12/19/2009 11:00:59 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duped 0x40019A71 (Static) creating 0x40012320 (Static)
+12/19/2009 11:01:01 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'dupe '
+12/19/2009 11:01:01 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duping 0x40019AC3 (Teleporter) (inBag=False; amount=1)
+12/19/2009 11:01:01 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duped 0x40019AC3 (Teleporter) creating 0x40012322 (Teleporter)
+12/19/2009 11:01:03 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 11:01:04 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40019AC4 (Teleporter)
+12/19/2009 11:01:06 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:01:09 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40012322 (Teleporter) to (1417, 1714, -25)
+12/19/2009 11:01:11 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 11:01:12 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40012320 (Static)
+12/19/2009 11:01:26 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:01:30 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x4001231B (Teleporter) to (6128, 1380, 30)
+12/19/2009 11:01:34 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:01:35 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x4001231B (Teleporter) to (6127, 1380, 30)
+12/19/2009 11:01:41 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'dupe '
+12/19/2009 11:01:42 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duping 0x4001231B (Teleporter) (inBag=False; amount=1)
+12/19/2009 11:01:42 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duped 0x4001231B (Teleporter) creating 0x40012327 (Teleporter)
+12/19/2009 11:01:43 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'dupe '
+12/19/2009 11:01:44 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duping 0x4001231B (Teleporter) (inBag=False; amount=1)
+12/19/2009 11:01:44 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duped 0x4001231B (Teleporter) creating 0x40012329 (Teleporter)
+12/19/2009 11:01:45 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:01:48 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40012327 (Teleporter) to (6127, 1379, 30)
+12/19/2009 11:01:48 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:01:50 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40012329 (Teleporter) to (6127, 1378, 30)
+12/19/2009 11:01:52 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'dupe '
+12/19/2009 11:01:54 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duping 0x40012329 (Teleporter) (inBag=False; amount=1)
+12/19/2009 11:01:54 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duped 0x40012329 (Teleporter) creating 0x4001232E (Teleporter)
+12/19/2009 11:01:54 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'dupe '
+12/19/2009 11:01:55 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duping 0x40012329 (Teleporter) (inBag=False; amount=1)
+12/19/2009 11:01:55 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duped 0x40012329 (Teleporter) creating 0x40012330 (Teleporter)
+12/19/2009 11:01:57 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:01:59 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40012330 (Teleporter) to (6127, 1377, 30)
+12/19/2009 11:02:00 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:02:02 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x4001232E (Teleporter) to (6127, 1376, 30)
+12/19/2009 11:02:15 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 11:02:48 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'speedboost '
+12/19/2009 11:03:12 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 11:03:18 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'speedboost '
+12/19/2009 11:06:44 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'map' of 0x974 "Prophet" ('Prophet') to 'Felucca'
+12/19/2009 11:06:44 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Self Set map 0'
+12/19/2009 11:06:45 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Go 4471 1178 0'
+12/19/2009 11:06:49 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'who '
+12/19/2009 11:06:51 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tele '
+12/19/2009 11:06:52 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') going to 0x974 "Prophet" ('Prophet'), Location (4445, 1144, 0), Map Felucca
+12/19/2009 11:06:54 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tele '
+12/19/2009 11:06:55 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:06:56 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:06:56 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:06:57 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:06:58 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tele '
+12/19/2009 11:06:58 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:06:58 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:06:59 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:07:02 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:07:10 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'get itemid'
+12/19/2009 11:07:23 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'map' of 0x974 "Prophet" ('Prophet') to 'Felucca'
+12/19/2009 11:07:23 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Self Set map 0'
+12/19/2009 11:07:24 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Go 1422 1697 0'
+12/19/2009 11:07:28 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 6211'
+12/19/2009 11:07:30 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1423, 1697, 0) in Felucca: "static" "6211"
+12/19/2009 11:07:30 AM: 192.168.2.2: Serials: 0x40012332; 
+12/19/2009 11:07:41 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 6122'
+12/19/2009 11:07:43 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1424, 1696, 0) in Felucca: "static" "6122"
+12/19/2009 11:07:43 AM: 192.168.2.2: Serials: 0x40012333; 
+12/19/2009 11:07:45 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 11:07:46 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40012332 (Static)
+12/19/2009 11:07:47 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 11:07:47 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40012333 (Static)
+12/19/2009 11:07:53 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 6122'
+12/19/2009 11:07:55 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1426, 1678, 20) in Felucca: "static" "6122"
+12/19/2009 11:07:55 AM: 192.168.2.2: Serials: 0x40012334; 
+12/19/2009 11:07:58 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 6123'
+12/19/2009 11:07:59 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1427, 1678, 20) in Felucca: "static" "6123"
+12/19/2009 11:07:59 AM: 192.168.2.2: Serials: 0x40012335; 
+12/19/2009 11:08:01 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 6124'
+12/19/2009 11:08:02 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1428, 1678, 20) in Felucca: "static" "6124"
+12/19/2009 11:08:02 AM: 192.168.2.2: Serials: 0x40012337; 
+12/19/2009 11:08:04 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:08:06 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40012335 (Static) to (1426, 1679, 20)
+12/19/2009 11:08:07 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:08:08 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40012337 (Static) to (1427, 1678, 20)
+12/19/2009 11:08:11 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 6125'
+12/19/2009 11:08:14 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1428, 1678, 20) in Felucca: "static" "6125"
+12/19/2009 11:08:14 AM: 192.168.2.2: Serials: 0x4001233B; 
+12/19/2009 11:08:15 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 6125'
+12/19/2009 11:08:18 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 6126'
+12/19/2009 11:08:19 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1427, 1680, 20) in Felucca: "static" "6126"
+12/19/2009 11:08:19 AM: 192.168.2.2: Serials: 0x4001233D; 
+12/19/2009 11:08:21 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 6127'
+12/19/2009 11:08:23 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1428, 1679, 20) in Felucca: "static" "6127"
+12/19/2009 11:08:23 AM: 192.168.2.2: Serials: 0x40012341; 
+12/19/2009 11:08:25 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:08:27 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x4001233D (Static) to (1427, 1679, 20)
+12/19/2009 11:08:28 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:08:29 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x4001233B (Static) to (1426, 1680, 20)
+12/19/2009 11:08:31 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:08:32 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40012341 (Static) to (1428, 1678, 20)
+12/19/2009 11:08:35 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'who '
+12/19/2009 11:08:35 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 6128'
+12/19/2009 11:08:36 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1427, 1680, 20) in Felucca: "static" "6128"
+12/19/2009 11:08:36 AM: 192.168.2.2: Serials: 0x40012343; 
+12/19/2009 11:08:37 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') going to 0x974 "Prophet" ('Prophet'), Location (1426, 1682, 22), Map Felucca
+12/19/2009 11:08:40 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 6129+'
+12/19/2009 11:08:42 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 6129'
+12/19/2009 11:08:44 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1429, 1680, 26) in Felucca: "static" "6129"
+12/19/2009 11:08:44 AM: 192.168.2.2: Serials: 0x40012347; 
+12/19/2009 11:08:46 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 6130'
+12/19/2009 11:08:47 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1428, 1680, 20) in Felucca: "static" "6130"
+12/19/2009 11:08:47 AM: 192.168.2.2: Serials: 0x40012348; 
+12/19/2009 11:08:49 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:08:51 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40012347 (Static) to (1428, 1679, 20)
+12/19/2009 11:09:21 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'bank '
+12/19/2009 11:09:23 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') opening bank box of 0x8F "Seizure" ('alex33zebras')
+12/19/2009 11:10:34 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:10:37 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40012334 (Static) to (1425, 1677, 20)
+12/19/2009 11:10:38 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:10:39 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40012337 (Static) to (1426, 1677, 20)
+12/19/2009 11:10:40 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:10:41 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40012341 (Static) to (1427, 1677, 20)
+12/19/2009 11:10:42 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:10:43 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x4001233D (Static) to (1426, 1678, 20)
+12/19/2009 11:10:44 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:10:45 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40012335 (Static) to (1425, 1678, 20)
+12/19/2009 11:10:46 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:10:47 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40012347 (Static) to (1427, 1678, 20)
+12/19/2009 11:10:48 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:10:49 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40012348 (Static) to (1427, 1679, 20)
+12/19/2009 11:10:50 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:10:51 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40012343 (Static) to (1426, 1679, 20)
+12/19/2009 11:10:52 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:10:55 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x4001233B (Static) to (1425, 1679, 20)
+12/19/2009 11:10:55 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:11:24 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:11:25 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:11:41 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'speedboost '
+12/19/2009 11:12:09 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add spawner'
+12/19/2009 11:12:12 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (6114, 1360, 30) in Felucca: "spawner"
+12/19/2009 11:12:12 AM: 216.223.179.228: Serials: 0x4001235E; 
+12/19/2009 11:12:25 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'c '
+12/19/2009 11:12:45 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'c how newbish is it gonna be?'
+12/19/2009 11:12:57 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'c how noobish is it gonna be?'
+12/19/2009 11:13:10 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'c like mongbat newbish? or harpies'
+12/19/2009 11:14:06 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'where '
+12/19/2009 11:14:59 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'pm prophet'
+12/19/2009 11:15:52 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'dupe '
+12/19/2009 11:15:54 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duping 0x40019165 (Static) (inBag=False; amount=1)
+12/19/2009 11:15:54 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duped 0x40019165 (Static) creating 0x4001235F (Static)
+12/19/2009 11:15:55 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:15:58 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x4001235F (Static) to (1409, 1701, 5)
+12/19/2009 11:16:02 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 11:16:09 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'Location' of 0x4001235F (Static) to '(1409, 1700, 5)'
+12/19/2009 11:16:15 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'Location' of 0x4001235F (Static) to '(1409, 1702, 5)'
+12/19/2009 11:16:22 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'Location' of 0x4001235F (Static) to '(1408, 1702, 5)'
+12/19/2009 11:16:29 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'dupe '
+12/19/2009 11:16:31 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duping 0x40019166 (WoodenChair) (inBag=False; amount=1)
+12/19/2009 11:16:31 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duped 0x40019166 (WoodenChair) creating 0x40012360 (WoodenChair)
+12/19/2009 11:16:31 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:16:32 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'dupe '
+12/19/2009 11:16:32 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duping 0x40019169 (WoodenChair) (inBag=False; amount=1)
+12/19/2009 11:16:32 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duped 0x40019169 (WoodenChair) creating 0x40012361 (WoodenChair)
+12/19/2009 11:16:33 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:16:35 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x4001235E (Spawner) to (6114, 1362, 30)
+12/19/2009 11:16:37 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 11:16:37 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40012361 (WoodenChair) to (1407, 1701, 5)
+12/19/2009 11:16:38 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:16:40 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40012360 (WoodenChair) to (1409, 1701, 5)
+12/19/2009 11:16:43 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 11:16:45 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'HomeRange' of 0x4001235E (Spawner) to '10'
+12/19/2009 11:16:49 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'Location' of 0x40012360 (WoodenChair) to '(1409, 1702, 5)'
+12/19/2009 11:16:50 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 11:16:53 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'HomeRange' of 0x4001235E (Spawner) to '7'
+12/19/2009 11:16:56 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'Location' of 0x40012361 (WoodenChair) to '(1407, 1702, 5)'
+12/19/2009 11:17:00 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add chess'
+12/19/2009 11:17:03 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'MaxDelay' of 0x4001235E (Spawner) to '00:00:30'
+12/19/2009 11:17:03 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1408, 1702, 11) in Felucca: "Chessboard"
+12/19/2009 11:17:03 AM: 192.168.2.2: Serials: 0x40012362; 
+12/19/2009 11:17:08 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'MinDelay' of 0x4001235E (Spawner) to '00:00:00'
+12/19/2009 11:17:08 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set movable false'
+12/19/2009 11:17:10 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'movable' of 0x40012362 (Chessboard) to 'False'
+12/19/2009 11:17:12 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'NextSpawn' of 0x4001235E (Spawner) to '00:00:00'
+12/19/2009 11:17:17 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 11:17:21 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'Count' of 0x4001235E (Spawner) to '3'
+12/19/2009 11:17:29 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 11:17:35 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'WalkingRange' of 0x4001235E (Spawner) to '20'
+12/19/2009 11:17:58 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add spawner'
+12/19/2009 11:17:59 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (6106, 1324, 30) in Felucca: "spawner"
+12/19/2009 11:17:59 AM: 216.223.179.228: Serials: 0x40012F30; 
+12/19/2009 11:18:03 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 11:18:09 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 11:18:10 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x40012F30 (Spawner)
+12/19/2009 11:18:14 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:18:14 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:18:15 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:18:15 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:18:16 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:18:19 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:18:23 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x4001235E (Spawner) to (6114, 1362, 31)
+12/19/2009 11:18:24 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/19/2009 11:18:24 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duping 0x4001235E (Spawner) (inBag=False; amount=1)
+12/19/2009 11:18:24 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duped 0x4001235E (Spawner) creating 0x40012F34 (Spawner)
+12/19/2009 11:18:25 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:18:26 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:18:27 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:18:27 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:18:29 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:18:30 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:18:32 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x40012F34 (Spawner) to (6107, 1324, 30)
+12/19/2009 11:18:41 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 11:18:51 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'HomeRange' of 0x40012F34 (Spawner) to '5'
+12/19/2009 11:18:55 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add ank'
+12/19/2009 11:19:02 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:19:02 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:19:03 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:19:03 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:19:03 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6127, 1360, 30) in Felucca: "AnkhWest"
+12/19/2009 11:19:03 AM: 192.168.2.2: Serials: 0x40012FFA; 
+12/19/2009 11:19:40 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 2272 set movable False hue 0 light Circle225'
+12/19/2009 11:19:41 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6113, 1358, 30) in Felucca: "static" "2272" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:19:41 AM: 192.168.2.2: Serials: 0x40012FFE; 
+12/19/2009 11:19:58 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 2276 set movable False hue 0 light Circle225'
+12/19/2009 11:19:59 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6120, 1350, 30) in Felucca: "static" "2276" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:19:59 AM: 192.168.2.2: Serials: 0x40013004; 
+12/19/2009 11:20:02 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:20:02 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:20:03 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:20:04 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:20:05 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/19/2009 11:20:05 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duping 0x40012F34 (Spawner) (inBag=False; amount=1)
+12/19/2009 11:20:05 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duped 0x40012F34 (Spawner) creating 0x40013008 (Spawner)
+12/19/2009 11:20:06 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/19/2009 11:20:07 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duping 0x40012F34 (Spawner) (inBag=False; amount=1)
+12/19/2009 11:20:07 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duped 0x40012F34 (Spawner) creating 0x4001300A (Spawner)
+12/19/2009 11:20:08 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/19/2009 11:20:08 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duping 0x40012F34 (Spawner) (inBag=False; amount=1)
+12/19/2009 11:20:08 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duped 0x40012F34 (Spawner) creating 0x4001300C (Spawner)
+12/19/2009 11:20:08 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 2280 set movable False hue 0 light Circle225'
+12/19/2009 11:20:09 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:20:09 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6112, 1343, 30) in Felucca: "static" "2280" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:20:09 AM: 192.168.2.2: Serials: 0x4001300E; 
+12/19/2009 11:20:12 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:20:13 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:20:14 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:20:14 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:20:14 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:20:16 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:20:18 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:20:19 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 2275 set movable False hue 0 light Circle225'
+12/19/2009 11:20:20 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x4001300A (Spawner) to (6079, 1366, 30)
+12/19/2009 11:20:20 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6105, 1376, 30) in Felucca: "static" "2275" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:20:20 AM: 192.168.2.2: Serials: 0x40013010; 
+12/19/2009 11:20:27 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 2278 set movable False hue 0 light Circle225'
+12/19/2009 11:20:28 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6116, 1373, 30) in Felucca: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:20:28 AM: 192.168.2.2: Serials: 0x40013033; 
+12/19/2009 11:20:28 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 11:20:28 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x979 "a zombie" (no account)
+12/19/2009 11:20:34 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:20:36 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:20:37 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:20:40 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:20:41 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 2277 set movable False hue 0 light Circle225'
+12/19/2009 11:20:42 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x40013008 (Spawner) to (6096, 1343, 30)
+12/19/2009 11:20:42 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 11:20:43 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6089, 1355, 30) in Felucca: "static" "2277" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:20:43 AM: 192.168.2.2: Serials: 0x40013061; 
+12/19/2009 11:20:43 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x40019F54 (PaintBallRobe)
+12/19/2009 11:20:50 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 2281 set movable False hue 0 light Circle225'
+12/19/2009 11:20:51 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6101, 1349, 30) in Felucca: "static" "2281" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:20:51 AM: 192.168.2.2: Serials: 0x40013069; 
+12/19/2009 11:20:59 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 2282 set movable False hue 0 light Circle225'
+12/19/2009 11:20:59 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6086, 1341, 30) in Felucca: "static" "2282" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:20:59 AM: 192.168.2.2: Serials: 0x4001306B; 
+12/19/2009 11:21:04 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 2273 set movable False hue 0 light Circle225'
+12/19/2009 11:21:04 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6080, 1336, 30) in Felucca: "static" "2273" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:21:04 AM: 192.168.2.2: Serials: 0x40013113; 
+12/19/2009 11:21:11 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:21:13 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x40013008 (Spawner) to (6084, 1350, 30)
+12/19/2009 11:21:14 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:21:15 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x40013008 (Spawner) to (6081, 1354, 30)
+12/19/2009 11:21:19 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:21:21 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x40013008 (Spawner) to (6086, 1348, 30)
+12/19/2009 11:21:40 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 2280 set movable False hue 0 light Circle225'
+12/19/2009 11:21:41 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6109, 1322, 30) in Felucca: "static" "2280" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:21:41 AM: 192.168.2.2: Serials: 0x40013283; 
+12/19/2009 11:21:44 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:21:45 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x4001300C (Spawner) to (6073, 1355, 30)
+12/19/2009 11:21:46 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 2272 set movable False hue 0 light Circle225'
+12/19/2009 11:21:46 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6109, 1323, 30) in Felucca: "static" "2272" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:21:46 AM: 192.168.2.2: Serials: 0x40013285; 
+12/19/2009 11:21:51 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 2277 set movable False hue 0 light Circle225'
+12/19/2009 11:21:51 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6110, 1322, 30) in Felucca: "static" "2277" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:21:51 AM: 192.168.2.2: Serials: 0x40013287; 
+12/19/2009 11:21:59 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 2281 set movable False hue 0 light Circle225'
+12/19/2009 11:21:59 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6110, 1323, 30) in Felucca: "static" "2281" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:21:59 AM: 192.168.2.2: Serials: 0x40013295; 
+12/19/2009 11:22:11 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/19/2009 11:22:12 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:22:16 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 2277 set movable False hue 0 light Circle225'
+12/19/2009 11:22:16 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x40013008 (Spawner) to (6094, 1349, 30)
+12/19/2009 11:22:18 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6115, 1379, 30) in Felucca: "static" "2277" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:22:18 AM: 192.168.2.2: Serials: 0x400132B7; 
+12/19/2009 11:22:43 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 6925 set movable False hue 0 light Circle225'
+12/19/2009 11:22:44 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6111, 1376, 30) in Felucca: "static" "6925" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:22:44 AM: 192.168.2.2: Serials: 0x40013379; 
+12/19/2009 11:22:53 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 6938 set movable False hue 0 light Circle225'
+12/19/2009 11:22:53 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6117, 1364, 30) in Felucca: "static" "6938" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:22:53 AM: 192.168.2.2: Serials: 0x4001337B; 
+12/19/2009 11:22:58 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 3787 set movable False hue 0 light Circle225'
+12/19/2009 11:23:00 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6105, 1361, 30) in Felucca: "static" "3787" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:23:00 AM: 192.168.2.2: Serials: 0x40013389; 
+12/19/2009 11:23:11 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 3791 set movable False hue 0 light Circle225'
+12/19/2009 11:23:12 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6126, 1354, 30) in Felucca: "static" "3791" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:23:12 AM: 192.168.2.2: Serials: 0x4001338A; 
+12/19/2009 11:23:21 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:23:22 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 6934 set movable False hue 0 light Circle225'
+12/19/2009 11:23:22 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x40013008 (Spawner) to (6100, 1346, 30)
+12/19/2009 11:23:22 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6090, 1347, 30) in Felucca: "static" "6934" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:23:22 AM: 192.168.2.2: Serials: 0x4001338C; 
+12/19/2009 11:23:24 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:23:26 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x40013008 (Spawner) to (6099, 1351, 30)
+12/19/2009 11:23:28 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 6935 set movable False hue 0 light Circle225'
+12/19/2009 11:23:29 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6085, 1344, 30) in Felucca: "static" "6935" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:23:29 AM: 192.168.2.2: Serials: 0x400133F5; 
+12/19/2009 11:23:32 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 6940 set movable False hue 0 light Circle225'
+12/19/2009 11:23:33 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6085, 1352, 30) in Felucca: "static" "6940" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:23:33 AM: 192.168.2.2: Serials: 0x400133FD; 
+12/19/2009 11:23:56 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 4309 set movable False hue 0 light Circle225'
+12/19/2009 11:23:59 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6114, 1358, 30) in Felucca: "static" "4309" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:23:59 AM: 192.168.2.2: Serials: 0x400133FF; 
+12/19/2009 11:24:07 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'dupe '
+12/19/2009 11:24:09 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duping 0x400132B7 (Static) (inBag=False; amount=1)
+12/19/2009 11:24:09 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duped 0x400132B7 (Static) creating 0x40013401 (Static)
+12/19/2009 11:24:11 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:24:14 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40013401 (Static) to (6114, 1357, 30)
+12/19/2009 11:24:25 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:25 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:26 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:27 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:28 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:29 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:29 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:29 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:30 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:30 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:31 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:31 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:32 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:33 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:33 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:34 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:34 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:34 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tele '
+12/19/2009 11:24:34 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:35 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:36 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:36 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:37 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:37 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:38 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:38 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:39 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:39 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:40 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:40 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:40 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:41 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:43 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:44 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:44 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:45 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:45 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:46 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:47 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:48 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:49 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:50 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:52 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:52 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:53 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:56 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:57 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:57 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:58 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:24:59 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:25:02 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 4285 set movable False hue 0 light Circle225'
+12/19/2009 11:25:03 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6081, 1303, 15) in Felucca: "static" "4285" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:25:03 AM: 192.168.2.2: Serials: 0x40013403; 
+12/19/2009 11:25:07 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 4286 set movable False hue 0 light Circle225'
+12/19/2009 11:25:07 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6082, 1302, 15) in Felucca: "static" "4286" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:25:07 AM: 192.168.2.2: Serials: 0x40013405; 
+12/19/2009 11:25:14 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 4287 set movable False hue 0 light Circle225'
+12/19/2009 11:25:15 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6083, 1301, 15) in Felucca: "static" "4287" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:25:15 AM: 192.168.2.2: Serials: 0x40013408; 
+12/19/2009 11:25:25 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 4288 set movable False hue 0 light Circle225'
+12/19/2009 11:25:25 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6084, 1300, 15) in Felucca: "static" "4288" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:25:25 AM: 192.168.2.2: Serials: 0x400134A2; 
+12/19/2009 11:25:30 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 4289 set movable False hue 0 light Circle225'
+12/19/2009 11:25:30 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6084, 1298, 15) in Felucca: "static" "4289" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:25:30 AM: 192.168.2.2: Serials: 0x400134A3; 
+12/19/2009 11:25:33 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:25:39 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x400134A3 (Static) to (6084, 1296, 15)
+12/19/2009 11:25:40 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:25:45 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x400134A3 (Static) to (6084, 1298, 15)
+12/19/2009 11:25:47 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:25:57 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x400134A3 (Static) to (6084, 1299, 15)
+12/19/2009 11:25:59 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:26:01 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x400134A3 (Static) to (6085, 1298, 15)
+12/19/2009 11:26:02 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:26:03 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add spide'
+12/19/2009 11:26:04 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x400134A3 (Static) to (6084, 1299, 15)
+12/19/2009 11:26:06 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:26:10 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/19/2009 11:26:12 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duping 0x400198F7 (Spawner) (inBag=False; amount=1)
+12/19/2009 11:26:12 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duped 0x400198F7 (Spawner) creating 0x400136B7 (Spawner)
+12/19/2009 11:26:13 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/19/2009 11:26:13 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duping 0x400136B7 (Spawner) (inBag=False; amount=1)
+12/19/2009 11:26:13 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duped 0x400136B7 (Spawner) creating 0x400136BD (Spawner)
+12/19/2009 11:26:14 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/19/2009 11:26:14 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duping 0x400136B7 (Spawner) (inBag=False; amount=1)
+12/19/2009 11:26:14 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duped 0x400136B7 (Spawner) creating 0x400136C1 (Spawner)
+12/19/2009 11:26:19 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 11:26:19 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 11:26:20 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x400198F7 (Spawner)
+12/19/2009 11:26:23 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 11:26:24 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x400136C1 (Spawner)
+12/19/2009 11:26:24 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 11:26:25 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x400136BD (Spawner)
+12/19/2009 11:26:26 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'Location' of 0x400134A3 (Static) to '(6085, 1299, 15)'
+12/19/2009 11:26:51 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 11:27:01 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'HomeRange' of 0x400136B7 (Spawner) to '5'
+12/19/2009 11:27:03 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 4317 set movable False hue 0 light Circle225'
+12/19/2009 11:27:04 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6082, 1296, 15) in Felucca: "static" "4317" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:27:04 AM: 192.168.2.2: Serials: 0x400136C3; 
+12/19/2009 11:27:07 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'WalkingRange' of 0x400136B7 (Spawner) to '20'
+12/19/2009 11:27:13 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 4311 set movable False hue 0 light Circle225'
+12/19/2009 11:27:14 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/19/2009 11:27:14 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6080, 1304, 15) in Felucca: "static" "4311" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:27:14 AM: 192.168.2.2: Serials: 0x400136C5; 
+12/19/2009 11:27:15 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duping 0x400136B7 (Spawner) (inBag=False; amount=1)
+12/19/2009 11:27:15 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duped 0x400136B7 (Spawner) creating 0x400136C9 (Spawner)
+12/19/2009 11:27:16 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:27:17 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x400136B7 (Spawner) to (6084, 1299, 15)
+12/19/2009 11:27:19 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 4310 set movable False hue 0 light Circle225'
+12/19/2009 11:27:20 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6080, 1295, 15) in Felucca: "static" "4310" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:27:20 AM: 192.168.2.2: Serials: 0x40013711; 
+12/19/2009 11:27:28 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 4309 set movable False hue 0 light Circle225'
+12/19/2009 11:27:28 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6083, 1296, 15) in Felucca: "static" "4309" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:27:28 AM: 192.168.2.2: Serials: 0x40013716; 
+12/19/2009 11:27:35 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 4316 set movable False hue 0 light Circle225'
+12/19/2009 11:27:35 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6082, 1296, 21) in Felucca: "static" "4316" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:27:35 AM: 192.168.2.2: Serials: 0x40013977; 
+12/19/2009 11:27:38 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:27:40 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40013977 (Static) to (6083, 1297, 15)
+12/19/2009 11:27:42 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:27:43 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:27:44 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x400136C3 (Static) to (6083, 1297, 21)
+12/19/2009 11:27:45 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x400136B7 (Spawner) to (6081, 1300, 15)
+12/19/2009 11:27:45 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:27:46 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:27:47 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x400136B7 (Spawner) to (6080, 1298, 15)
+12/19/2009 11:27:49 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x400136C3 (Static) to (6084, 1298, 15)
+12/19/2009 11:27:50 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:27:51 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x400136C3 (Static) to (6083, 1297, 15)
+12/19/2009 11:28:01 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 4312 set movable False hue 0 light Circle225'
+12/19/2009 11:28:02 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6083, 1303, 15) in Felucca: "static" "4312" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:28:02 AM: 192.168.2.2: Serials: 0x400139A1; 
+12/19/2009 11:28:07 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 4313 set movable False hue 0 light Circle225'
+12/19/2009 11:28:07 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6083, 1303, 15) in Felucca: "static" "4313" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:28:07 AM: 192.168.2.2: Serials: 0x400139A2; 
+12/19/2009 11:28:21 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 4307 set movable False hue 0 light Circle225'
+12/19/2009 11:28:21 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6082, 1303, 15) in Felucca: "static" "4307" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:28:21 AM: 192.168.2.2: Serials: 0x400139A5; 
+12/19/2009 11:28:29 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 4310 set movable False hue 0 light Circle225'
+12/19/2009 11:28:29 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6083, 1302, 15) in Felucca: "static" "4310" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:28:29 AM: 192.168.2.2: Serials: 0x400139A8; 
+12/19/2009 11:28:43 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 11:28:44 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 3811 set movable False hue 0 light Circle225'
+12/19/2009 11:28:45 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6091, 1296, 15) in Felucca: "static" "3811" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:28:45 AM: 192.168.2.2: Serials: 0x400139A9; 
+12/19/2009 11:28:50 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'HomeRange' of 0x400136C9 (Spawner) to '10'
+12/19/2009 11:28:50 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 3814 set movable False hue 0 light Circle225'
+12/19/2009 11:28:50 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6087, 1304, 15) in Felucca: "static" "3814" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:28:50 AM: 192.168.2.2: Serials: 0x400139AC; 
+12/19/2009 11:28:56 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'WalkingRange' of 0x400136C9 (Spawner) to '30'
+12/19/2009 11:28:59 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:29:01 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x400136C9 (Spawner) to (6117, 1297, 15)
+12/19/2009 11:29:09 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 6923 set movable False hue 0 light Circle225'
+12/19/2009 11:29:09 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6084, 1301, 15) in Felucca: "static" "6923" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:29:09 AM: 192.168.2.2: Serials: 0x40013BFE; 
+12/19/2009 11:29:10 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/19/2009 11:29:11 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duping 0x400136C9 (Spawner) (inBag=False; amount=1)
+12/19/2009 11:29:11 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duped 0x400136C9 (Spawner) creating 0x40013BFF (Spawner)
+12/19/2009 11:29:13 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:29:14 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 3786 set movable False hue 0 light Circle225'
+12/19/2009 11:29:15 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6088, 1297, 15) in Felucca: "static" "3786" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:29:15 AM: 192.168.2.2: Serials: 0x40013C00; 
+12/19/2009 11:29:16 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x40013BFF (Spawner) to (6128, 1295, 15)
+12/19/2009 11:29:19 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 6938 set movable False hue 0 light Circle225'
+12/19/2009 11:29:20 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6084, 1297, 15) in Felucca: "static" "6938" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:29:20 AM: 192.168.2.2: Serials: 0x40013C07; 
+12/19/2009 11:29:27 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 6926 set movable False hue 0 light Circle225'
+12/19/2009 11:29:28 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6080, 1302, 15) in Felucca: "static" "6926" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:29:28 AM: 192.168.2.2: Serials: 0x40013C08; 
+12/19/2009 11:29:32 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:29:34 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x99E "Ritchekckiki" (no account) to (6114, 1307, 15)
+12/19/2009 11:29:37 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:29:38 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x99A "Vitituki" (no account) to (6109, 1302, 15)
+12/19/2009 11:29:46 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/19/2009 11:29:47 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duping 0x400136C9 (Spawner) (inBag=False; amount=1)
+12/19/2009 11:29:47 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duped 0x400136C9 (Spawner) creating 0x40013C09 (Spawner)
+12/19/2009 11:29:49 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 2273 set movable False hue 0 light Circle225'
+12/19/2009 11:29:50 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6087, 1303, 15) in Felucca: "static" "2273" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:29:50 AM: 192.168.2.2: Serials: 0x40013C0A; 
+12/19/2009 11:29:57 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 2282 set movable False hue 0 light Circle225'
+12/19/2009 11:29:57 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6085, 1304, 15) in Felucca: "static" "2282" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:29:57 AM: 192.168.2.2: Serials: 0x40013C0B; 
+12/19/2009 11:30:07 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 2280 set movable False hue 0 light Circle225'
+12/19/2009 11:30:07 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6082, 1296, 15) in Felucca: "static" "2280" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:30:07 AM: 192.168.2.2: Serials: 0x40013C0C; 
+12/19/2009 11:30:19 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 2281 set movable False hue 0 light Circle225'
+12/19/2009 11:30:20 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6081, 1304, 15) in Felucca: "static" "2281" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:30:20 AM: 192.168.2.2: Serials: 0x40013C15; 
+12/19/2009 11:30:32 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 11:30:34 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 2275 set movable False hue 0 light Circle225'
+12/19/2009 11:30:34 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6084, 1299, 15) in Felucca: "static" "2275" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:30:34 AM: 192.168.2.2: Serials: 0x40013C16; 
+12/19/2009 11:30:38 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:30:40 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'HomeRange' of 0x40013C09 (Spawner) to '50'
+12/19/2009 11:30:40 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40013C16 (Static) to (6085, 1299, 15)
+12/19/2009 11:30:49 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'MinDelay' of 0x40013C09 (Spawner) to '00:00:00'
+12/19/2009 11:30:53 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'MaxDelay' of 0x40013C09 (Spawner) to '00:00:01'
+12/19/2009 11:30:58 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 2272 set movable False hue 0 light Circle225'
+12/19/2009 11:30:58 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6090, 1296, 15) in Felucca: "static" "2272" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:30:58 AM: 192.168.2.2: Serials: 0x40013C1F; 
+12/19/2009 11:30:59 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'Count' of 0x40013C09 (Spawner) to '10'
+12/19/2009 11:31:14 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 11:31:21 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'WalkingRange' of 0x40013C09 (Spawner) to '100'
+12/19/2009 11:31:21 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 4310 set movable False hue 0 light Circle225'
+12/19/2009 11:31:22 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6090, 1297, 15) in Felucca: "static" "4310" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:31:22 AM: 192.168.2.2: Serials: 0x40013C20; 
+12/19/2009 11:31:23 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:31:25 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x40013C09 (Spawner) to (6081, 1351, 30)
+12/19/2009 11:31:29 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 4311 set movable False hue 0 light Circle225'
+12/19/2009 11:31:30 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6088, 1303, 15) in Felucca: "static" "4311" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:31:30 AM: 192.168.2.2: Serials: 0x40018C55; 
+12/19/2009 11:31:39 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 4309 set movable False hue 0 light Circle225'
+12/19/2009 11:31:40 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6088, 1296, 15) in Felucca: "static" "4309" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:31:40 AM: 192.168.2.2: Serials: 0x40018C5E; 
+12/19/2009 11:31:41 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 11:31:44 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:31:48 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'HomeRange' of 0x4001300C (Spawner) to '50'
+12/19/2009 11:31:51 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40018C5E (Static) to (6087, 1302, 15)
+12/19/2009 11:31:52 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'HomeRange' of 0x4001300C (Spawner) to '5'
+12/19/2009 11:31:58 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 11:32:07 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'HomeRange' of 0x40013C09 (Spawner) to '75'
+12/19/2009 11:32:10 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 4306 set movable False hue 0 light Circle225'
+12/19/2009 11:32:10 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6089, 1296, 15) in Felucca: "static" "4306" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:32:10 AM: 192.168.2.2: Serials: 0x40018C7A; 
+12/19/2009 11:32:36 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add spider'
+12/19/2009 11:32:42 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (6087, 1322, 15) in Felucca: "SpidersSilk"
+12/19/2009 11:32:42 AM: 216.223.179.228: Serials: 0x40018CFA; 
+12/19/2009 11:32:44 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:32:45 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 11:32:47 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x40018CFA (SpidersSilk)
+12/19/2009 11:32:53 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 7400 set movable False hue 0 light Circle225'
+12/19/2009 11:32:53 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6087, 1296, 15) in Felucca: "static" "7400" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:32:53 AM: 192.168.2.2: Serials: 0x40018CFB; 
+12/19/2009 11:33:01 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 7588 set movable False hue 0 light Circle225'
+12/19/2009 11:33:01 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6084, 1299, 15) in Felucca: "static" "7588" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:33:01 AM: 192.168.2.2: Serials: 0x40018CFC; 
+12/19/2009 11:33:17 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 7396 set movable False hue 0 light Circle225'
+12/19/2009 11:33:17 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6085, 1302, 15) in Felucca: "static" "7396" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:33:17 AM: 192.168.2.2: Serials: 0x40018CFD; 
+12/19/2009 11:33:47 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add spawner'
+12/19/2009 11:33:48 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (6067, 1289, 30) in Felucca: "spawner"
+12/19/2009 11:33:48 AM: 216.223.179.228: Serials: 0x40018CFE; 
+12/19/2009 11:33:57 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 11:34:05 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'Count' of 0x40018CFE (Spawner) to '2'
+12/19/2009 11:34:08 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 11:34:13 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'get itemid'
+12/19/2009 11:34:18 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'WalkingRange' of 0x40018CFE (Spawner) to '20'
+12/19/2009 11:34:23 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'MinDelay' of 0x40018CFE (Spawner) to '00:03:00'
+12/19/2009 11:34:27 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'MaxDelay' of 0x40018CFE (Spawner) to '00:03:00'
+12/19/2009 11:34:29 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 1339 set movable False hue 0 light Circle225'
+12/19/2009 11:34:29 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6066, 1405, 30) in Felucca: "static" "1339" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:34:29 AM: 192.168.2.2: Serials: 0x40018CFF; 
+12/19/2009 11:34:33 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'get itemid'
+12/19/2009 11:34:38 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1339'
+12/19/2009 11:34:41 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building from (6064, 1405, 30) to (6071, 1410, 30) in Felucca: "static" "1339"
+12/19/2009 11:34:41 AM: 192.168.2.2: Serials: 0x40018D0D; 0x40018D0E; 0x40018D0F; 0x40018D10; 0x40018D11; 0x40018D12; 0x40018D13; 0x40018D14; 0x40018D15; 0x40018D16; 0x40018D17; 0x40018D18; 0x40018D19; 0x40018D1A; 0x40018D1B; 0x40018D1C; 0x40018D1D; 0x40018D1E; 0x40018D1F; 0x40018D20; 0x40018D21; 0x40018D22; 0x40018D23; 0x40018D24; 0x40018D25; 0x40018D26; 0x40018D27; 0x40018D28; 0x40018D29; 0x40018D2A; 0x40018D2B; 0x40018D2C; 0x40018D2D; 0x40018D2E; 0x40018D2F; 0x40018D30; 0x40018D31; 0x40018D32; 0x40018D33; 0x40018D34; 0x40018D35; 0x40018D36; 0x40018D37; 0x40018D38; 0x40018D39; 0x40018D3A; 0x40018D3B; 0x40018D3C; 
+12/19/2009 11:34:44 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1339'
+12/19/2009 11:34:48 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'm remove'
+12/19/2009 11:34:49 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add '
+12/19/2009 11:34:49 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40018D12 (Static)
+12/19/2009 11:34:50 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40018D18 (Static)
+12/19/2009 11:34:50 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40018D1E (Static)
+12/19/2009 11:34:51 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40018D24 (Static)
+12/19/2009 11:34:51 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40018D2A (Static)
+12/19/2009 11:34:52 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40018D30 (Static)
+12/19/2009 11:34:53 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40018D36 (Static)
+12/19/2009 11:34:53 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40018D3C (Static)
+12/19/2009 11:35:03 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1339'
+12/19/2009 11:35:05 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building from (6079, 1407, 30) to (6081, 1407, 52) in Felucca: "static" "1339"
+12/19/2009 11:35:05 AM: 192.168.2.2: Serials: 0x40018D3D; 0x40018D3E; 0x40018D3F; 
+12/19/2009 11:35:15 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 1349 set movable False hue 0 light Circle225'
+12/19/2009 11:35:16 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6072, 1406, 30) in Felucca: "static" "1349" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:35:16 AM: 192.168.2.2: Serials: 0x40018D40; 
+12/19/2009 11:35:17 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 1349 set movable False hue 0 light Circle225'
+12/19/2009 11:35:18 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6072, 1409, 30) in Felucca: "static" "1349" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:35:18 AM: 192.168.2.2: Serials: 0x40018D41; 
+12/19/2009 11:35:23 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 1350 set movable False hue 0 light Circle225'
+12/19/2009 11:35:23 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6072, 1407, 30) in Felucca: "static" "1350" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:35:23 AM: 192.168.2.2: Serials: 0x40018D42; 
+12/19/2009 11:35:29 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 1350 set movable False hue 0 light Circle225'
+12/19/2009 11:35:29 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (6072, 1408, 30) in Felucca: "static" "1350" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 11:35:29 AM: 192.168.2.2: Serials: 0x40018D43; 
+12/19/2009 11:35:44 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:35:50 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/19/2009 11:35:53 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duping 0x400136B7 (Spawner) (inBag=False; amount=1)
+12/19/2009 11:35:53 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duped 0x400136B7 (Spawner) creating 0x40018D44 (Spawner)
+12/19/2009 11:35:56 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:35:58 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'm tele'
+12/19/2009 11:36:00 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:36:02 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x40018D44 (Spawner) to (6067, 1327, 30)
+12/19/2009 11:36:10 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 11:36:10 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x9BB "a giant spider" (no account)
+12/19/2009 11:36:19 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:36:20 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/19/2009 11:36:21 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duping 0x40018D44 (Spawner) (inBag=False; amount=1)
+12/19/2009 11:36:21 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duped 0x40018D44 (Spawner) creating 0x40018D63 (Spawner)
+12/19/2009 11:36:21 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:36:26 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x40018D63 (Spawner) to (6067, 1310, 30)
+12/19/2009 11:36:32 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 11:36:38 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'WalkingRange' of 0x40018D63 (Spawner) to '40'
+12/19/2009 11:36:44 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 11:36:48 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'WalkingRange' of 0x40018D44 (Spawner) to '40'
+12/19/2009 11:36:54 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/19/2009 11:36:55 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duping 0x40018D44 (Spawner) (inBag=False; amount=1)
+12/19/2009 11:36:55 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duped 0x40018D44 (Spawner) creating 0x40018D6D (Spawner)
+12/19/2009 11:37:28 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add '
+12/19/2009 11:38:26 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'm tele'
+12/19/2009 11:38:29 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'Add Artist'
+12/19/2009 11:38:30 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (6043, 1353, 30) in Felucca: "Artist"
+12/19/2009 11:38:30 AM: 216.223.179.228: Serials: 0x9C2; 
+12/19/2009 11:38:34 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 11:38:36 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x9C2 "Polly" (no account)
+12/19/2009 11:39:29 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:39:32 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x40018D6D (Spawner) to (6052, 1352, 30)
+12/19/2009 11:40:05 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:40:21 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/19/2009 11:40:22 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duping 0x40018D6D (Spawner) (inBag=False; amount=1)
+12/19/2009 11:40:22 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duped 0x40018D6D (Spawner) creating 0x40018D95 (Spawner)
+12/19/2009 11:40:41 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:40:43 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x40018D95 (Spawner) to (6067, 1410, 30)
+12/19/2009 11:40:44 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/19/2009 11:40:44 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duping 0x40018D95 (Spawner) (inBag=False; amount=1)
+12/19/2009 11:40:44 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duped 0x40018D95 (Spawner) creating 0x40018DA8 (Spawner)
+12/19/2009 11:40:47 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:41:02 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:41:03 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x40018D95 (Spawner) to (6067, 1409, 30)
+12/19/2009 11:41:10 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 11:41:13 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 11:41:19 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'Count' of 0x40018D95 (Spawner) to '1'
+12/19/2009 11:41:31 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 11:41:38 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'WalkingRange' of 0x40018D95 (Spawner) to '15'
+12/19/2009 11:41:46 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:41:47 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x40018DA8 (Spawner) to (6067, 1393, 30)
+12/19/2009 11:42:17 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 11:42:24 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'WalkingRange' of 0x40018D95 (Spawner) to '10'
+12/19/2009 11:42:44 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/19/2009 11:42:45 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duping 0x40018DA8 (Spawner) (inBag=False; amount=1)
+12/19/2009 11:42:45 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duped 0x40018DA8 (Spawner) creating 0x40018E3D (Spawner)
+12/19/2009 11:42:50 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:42:54 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x40018E3D (Spawner) to (6051, 1401, 30)
+12/19/2009 11:43:27 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:43:28 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/19/2009 11:43:29 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duping 0x40018E3D (Spawner) (inBag=False; amount=1)
+12/19/2009 11:43:29 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duped 0x40018E3D (Spawner) creating 0x40018E50 (Spawner)
+12/19/2009 11:43:32 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 11:43:33 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x40018E50 (Spawner) to (6049, 1379, 30)
+12/19/2009 11:44:02 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'who '
+12/19/2009 11:44:04 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'who '
+12/19/2009 11:44:06 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') going to 0x974 "Prophet" ('Prophet'), Location (6943, 1096, -14), Map Felucca
+12/19/2009 11:44:13 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:44:14 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:44:15 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:44:16 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:44:19 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:44:20 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:44:34 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'who '
+12/19/2009 11:44:37 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') going to 0x974 "Prophet" ('Prophet'), Location (6995, 1359, -15), Map Felucca
+12/19/2009 11:44:52 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:44:53 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:44:55 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:44:58 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:45:00 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:45:12 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:45:14 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x8F "Seizure" ('alex33zebras') to (6993, 1354, -15)
+12/19/2009 11:45:18 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 11:45:28 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:45:29 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:45:29 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:45:31 AM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 11:46:29 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'm tele'
+12/19/2009 11:46:33 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 11:46:40 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'Target' of 0x400122C6 (RecallRune) to '(6992, 1363, -15)'
+12/19/2009 11:46:42 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'Marked' of 0x400122C6 (RecallRune) to 'True'
+12/19/2009 11:46:45 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'TargetMap' of 0x400122C6 (RecallRune) to 'Felucca'
+12/19/2009 11:46:52 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'Description' of 0x400122C6 (RecallRune) to 'Outlands'
+12/19/2009 11:47:00 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'm tele'
+12/19/2009 11:50:04 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 11:50:09 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'Target' of 0x400122C7 (RecallRune) to '(6999, 751, 48)'
+12/19/2009 11:50:13 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'Marked' of 0x400122C7 (RecallRune) to 'True'
+12/19/2009 11:50:16 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'TargetMap' of 0x400122C7 (RecallRune) to 'Felucca'
+12/19/2009 11:50:24 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'Description' of 0x400122C7 (RecallRune) to 'Outlands Open'
+12/19/2009 11:50:30 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'm tele'
+12/19/2009 11:52:20 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 11:52:37 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'LowerRegCost' of ... to '100'
+12/19/2009 11:52:53 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add spell'
+12/19/2009 11:53:03 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add spellb'
+12/19/2009 11:53:06 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (7248, 1876, 0) in Felucca: "MageSpellbook"
+12/19/2009 11:53:06 AM: 192.168.2.2: Serials: 0x40018E95; 
+12/19/2009 11:53:27 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'addtopack mageryspellbook'
+12/19/2009 11:53:28 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (7247, 1876, 0) in Felucca: "mageryspellbook"
+12/19/2009 11:53:39 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'addtopack magespellbook'
+12/19/2009 11:53:40 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (7247, 1876, 0) in Felucca: "magespellbook"
+12/19/2009 11:53:40 AM: 192.168.2.2: Serials: 0x40018E96; 
+12/19/2009 11:54:09 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'addtopack recallscroll'
+12/19/2009 11:54:10 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (7247, 1876, 0) in Felucca: "recallscroll"
+12/19/2009 11:54:10 AM: 192.168.2.2: Serials: 0x40018E97; 
+12/19/2009 11:54:13 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set amout 100'
+12/19/2009 11:54:23 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set amount 100'
+12/19/2009 11:54:24 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'amount' of 0x40018E97 (RecallScroll) to '100'
+12/19/2009 11:54:38 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add spellb'
+12/19/2009 11:54:48 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'addtopack spellbook'
+12/19/2009 11:54:50 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (7247, 1876, 0) in Felucca: "spellbook"
+12/19/2009 11:54:50 AM: 192.168.2.2: Serials: 0x40018E98; 
+12/19/2009 11:55:20 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 11:55:37 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set x 6992 y 1363 z -15'
+12/19/2009 11:55:38 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'x' of 0x974 "Prophet" ('Prophet') to '6992'
+12/19/2009 11:55:38 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'y' of 0x974 "Prophet" ('Prophet') to '1363'
+12/19/2009 11:55:38 AM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'z' of 0x974 "Prophet" ('Prophet') to '-15'
+12/19/2009 12:02:03 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'where '
+12/19/2009 12:02:21 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 12:02:44 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'who '
+12/19/2009 12:02:48 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') going to 0x974 "Prophet" ('Prophet'), Location (6993, 1346, -15), Map Felucca
+12/19/2009 12:02:51 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 12:02:52 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x974 "Prophet" ('Prophet') to (6994, 1344, -15)
+12/19/2009 12:02:53 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 12:02:54 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x974 "Prophet" ('Prophet') to (6992, 1345, -15)
+12/19/2009 12:03:03 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 12:03:09 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 12:03:12 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 12:03:16 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 12:03:18 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 12:03:21 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 12:03:22 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 12:03:22 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 12:03:24 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 12:03:25 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 12:03:25 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 12:04:32 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'who '
+12/19/2009 12:04:35 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') going to 0x974 "Prophet" ('Prophet'), Location (6982, 1031, -15), Map Felucca
+12/19/2009 12:05:04 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'm tele'
+12/19/2009 12:05:13 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 12:05:13 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 12:05:14 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 12:05:14 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 12:05:14 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 12:05:15 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 12:05:15 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 12:05:16 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 12:05:16 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 12:05:18 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'who '
+12/19/2009 12:05:20 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') going to 0x974 "Prophet" ('Prophet'), Location (7090, 1083, -15), Map Felucca
+12/19/2009 12:05:27 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'go to prophet'
+12/19/2009 12:06:43 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'speedboost '
+12/19/2009 12:07:11 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 12:07:37 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set x 6999 y 751 z 48'
+12/19/2009 12:07:38 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'x' of 0x8F "Seizure" ('alex33zebras') to '6999'
+12/19/2009 12:07:38 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'y' of 0x8F "Seizure" ('alex33zebras') to '751'
+12/19/2009 12:07:38 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'z' of 0x8F "Seizure" ('alex33zebras') to '48'
+12/19/2009 12:07:39 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set x 6999 y 751 z 48'
+12/19/2009 12:07:40 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'x' of 0x974 "Prophet" ('Prophet') to '6999'
+12/19/2009 12:07:40 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'y' of 0x974 "Prophet" ('Prophet') to '751'
+12/19/2009 12:07:40 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'z' of 0x974 "Prophet" ('Prophet') to '48'
+12/19/2009 12:07:56 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 12:08:00 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tele '
+12/19/2009 12:08:12 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 12:08:14 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tele '
+12/19/2009 12:08:16 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tele '
+12/19/2009 12:08:18 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tele '
+12/19/2009 12:08:18 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 12:08:19 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 12:08:19 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tele '
+12/19/2009 12:08:20 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 12:08:21 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tele '
+12/19/2009 12:08:22 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 12:08:22 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tele '
+12/19/2009 12:08:24 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tele '
+12/19/2009 12:08:27 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 12:08:28 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 12:08:29 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 12:08:30 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 12:08:31 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 12:08:32 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 12:17:23 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'go jail'
+12/19/2009 12:17:27 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'm tele'
+12/19/2009 12:17:33 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'who '
+12/19/2009 12:17:36 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') going to 0x974 "Prophet" ('Prophet'), Location (5207, 1179, 0), Map Felucca
+12/19/2009 12:18:55 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add regio'
+12/19/2009 12:18:59 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5211, 1181, 0) in Felucca: "RegionControl"
+12/19/2009 12:18:59 PM: 192.168.2.2: Serials: 0x40018EE3; 
+12/19/2009 12:19:46 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 12:20:36 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'who '
+12/19/2009 12:20:39 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'map' of 0x974 "Prophet" ('Prophet') to 'Felucca'
+12/19/2009 12:20:39 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Self Set map 0'
+12/19/2009 12:20:39 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Go 1422 1697 0'
+12/19/2009 12:20:42 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') going to 0x974 "Prophet" ('Prophet'), Location (1415, 1698, 5), Map Felucca
+12/19/2009 12:21:32 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add vendor'
+12/19/2009 12:22:37 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (1417, 1684, 25) in Felucca: "MobileReward2Vendor"
+12/19/2009 12:22:37 PM: 216.223.179.228: Serials: 0x9EE; 
+12/19/2009 12:22:41 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 12:23:08 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 12:23:20 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 12:23:21 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x9EE "Kirti" (no account) to (1417, 1683, 25)
+12/19/2009 12:23:31 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 12:23:33 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x9EE "Kirti" (no account)
+12/19/2009 12:24:13 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'Get Number'
+12/19/2009 12:25:40 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add mobile'
+12/19/2009 12:25:42 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (1418, 1685, 25) in Felucca: "mobile"
+12/19/2009 12:25:47 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add mobilereward'
+12/19/2009 12:25:52 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (1417, 1683, 25) in Felucca: "MobileRewardVendor"
+12/19/2009 12:25:52 PM: 216.223.179.228: Serials: 0x9F0; 
+12/19/2009 12:25:58 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 12:25:59 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x9F0 "Maryann" (no account)
+12/19/2009 12:26:01 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (1417, 1683, 25) in Felucca: "MobileRewardVendor"
+12/19/2009 12:26:01 PM: 216.223.179.228: Serials: 0x9F1; 
+12/19/2009 12:26:10 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 12:26:36 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'CantWalk' of 0x9F1 "Gigi" (no account) to 'True'
+12/19/2009 12:26:39 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 12:26:41 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x9F1 "Gigi" (no account) to (1417, 1683, 25)
+12/19/2009 12:26:42 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 12:26:45 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x9F1 "Gigi" (no account) to (1418, 1683, 25)
+12/19/2009 12:26:46 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 12:26:48 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x9F1 "Gigi" (no account) to (1417, 1683, 25)
+12/19/2009 12:26:50 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 12:26:51 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x9F1 "Gigi" (no account) to (1418, 1683, 25)
+12/19/2009 12:27:01 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'Add static 2949 set movable False hue 0 light Circle225'
+12/19/2009 12:27:02 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (1417, 1684, 25) in Felucca: "static" "2949" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 12:27:02 PM: 216.223.179.228: Serials: 0x40018F1C; 
+12/19/2009 12:27:45 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'TileZ 1 static 2950 set movable False hue 0 light {light}'
+12/19/2009 12:27:49 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building from (1418, 1684, 1) to (1419, 1684, 1) in Felucca: "static" "2950" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/19/2009 12:27:49 PM: 216.223.179.228: Serials: 0x40018F1D; 0x40018F1E; 
+12/19/2009 12:27:58 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'Add static 2950 set movable False hue 0 light Circle225'
+12/19/2009 12:27:59 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (1418, 1684, 25) in Felucca: "static" "2950" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 12:27:59 PM: 216.223.179.228: Serials: 0x40018F1F; 
+12/19/2009 12:28:05 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 12:28:06 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x40018F1F (Static)
+12/19/2009 12:28:09 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 12:28:10 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x974 "Prophet" ('Prophet') to (1416, 1687, 25)
+12/19/2009 12:30:48 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add static 2950'
+12/19/2009 12:30:49 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (1418, 1684, 25) in Felucca: "static" "2950"
+12/19/2009 12:30:50 PM: 216.223.179.228: Serials: 0x40018F27; 
+12/19/2009 12:30:59 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tile static 2590'
+12/19/2009 12:31:02 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building from (1419, 1684, 25) to (1420, 1684, 25) in Felucca: "static" "2590"
+12/19/2009 12:31:02 PM: 216.223.179.228: Serials: 0x40018F2E; 0x40018F32; 
+12/19/2009 12:31:04 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 12:31:04 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x40018F32 (Static)
+12/19/2009 12:31:04 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 12:31:05 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x40018F2E (Static)
+12/19/2009 12:31:13 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tile static 2950'
+12/19/2009 12:31:16 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building from (1419, 1684, 25) to (1420, 1684, 25) in Felucca: "static" "2950"
+12/19/2009 12:31:16 PM: 216.223.179.228: Serials: 0x40018F33; 0x40018F34; 
+12/19/2009 12:31:59 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 12:31:59 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x40018F1C (Static)
+12/19/2009 12:32:17 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add static 2946'
+12/19/2009 12:32:18 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (1417, 1684, 25) in Felucca: "static" "2946"
+12/19/2009 12:32:18 PM: 216.223.179.228: Serials: 0x40018F35; 
+12/19/2009 12:32:34 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add static 2945'
+12/19/2009 12:32:44 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add static 2945'
+12/19/2009 12:32:46 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (1421, 1684, 25) in Felucca: "static" "2945"
+12/19/2009 12:32:46 PM: 216.223.179.228: Serials: 0x40018F43; 
+12/19/2009 12:32:54 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 12:32:56 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x40018F43 (Static) to (1423, 1686, 47)
+12/19/2009 12:33:01 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 12:33:08 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 12:33:20 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 12:33:23 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/19/2009 12:33:24 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duping 0x40018F34 (Static) (inBag=False; amount=1)
+12/19/2009 12:33:24 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duped 0x40018F34 (Static) creating 0x40018F44 (Static)
+12/19/2009 12:33:26 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 12:33:29 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x40018F44 (Static) to (1421, 1684, 25)
+12/19/2009 12:33:32 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+12/19/2009 12:33:34 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'save '
+##############################
+Log started on 12/19/2009 1:06:06 PM
+
+12/19/2009 1:07:21 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add shrink'
+12/19/2009 1:07:23 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1418, 1685, 25) in Felucca: "ShrinkPotion"
+12/19/2009 1:07:23 PM: 192.168.2.2: Serials: 0x40000100; 
+12/19/2009 1:07:32 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add llama'
+12/19/2009 1:07:33 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1419, 1686, 25) in Felucca: "llama"
+12/19/2009 1:07:33 PM: 192.168.2.2: Serials: 0x19; 
+12/19/2009 1:12:40 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+##############################
+Log started on 12/19/2009 1:14:45 PM
+
+12/19/2009 1:19:27 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 1:19:29 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40000100 (ShrinkPotion)
+12/19/2009 1:19:33 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add shrink'
+12/19/2009 1:19:36 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1420, 1686, 25) in Felucca: "ShrinkPotion"
+12/19/2009 1:19:36 PM: 192.168.2.2: Serials: 0x40010FD5; 
+12/19/2009 1:20:34 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 1:20:36 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40010FD5 (ShrinkPotion)
+12/19/2009 1:20:39 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+##############################
+Log started on 12/19/2009 1:41:51 PM
+
+12/19/2009 1:42:00 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add shrink'
+12/19/2009 1:42:04 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1421, 1686, 25) in Felucca: "ShrinkPotion"
+12/19/2009 1:42:04 PM: 192.168.2.2: Serials: 0x40000100; 
+12/19/2009 1:42:54 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'save '
+12/19/2009 1:43:04 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'save '
+12/19/2009 1:44:56 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'save '
+12/19/2009 1:45:14 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 1:45:15 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x19 "a llama" (no account)
+12/19/2009 1:50:19 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+##############################
+Log started on 12/19/2009 1:52:50 PM
+
+12/19/2009 1:53:55 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 1:53:57 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40000100 (ShrinkPotion)
+12/19/2009 1:54:01 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add potion'
+12/19/2009 1:54:06 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1418, 1692, 25) in Felucca: "ShrinkPotion"
+12/19/2009 1:54:06 PM: 192.168.2.2: Serials: 0x40000100; 
+12/19/2009 1:56:23 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 1:56:26 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40000100 (ShrinkPotion)
+12/19/2009 1:56:28 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+##############################
+Log started on 12/19/2009 2:01:32 PM
+
+12/19/2009 2:04:18 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add shrinkpoint'
+12/19/2009 2:04:26 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1418, 1699, 5) in Felucca: "ShrinkPotion"
+12/19/2009 2:04:26 PM: 192.168.2.2: Serials: 0x40010475; 
+12/19/2009 2:09:02 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 2:09:04 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40010475 (ShrinkPotion)
+12/19/2009 2:09:06 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+##############################
+Log started on 12/19/2009 2:53:39 PM
+
+12/19/2009 2:53:48 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+##############################
+Log started on 12/19/2009 5:39:14 PM
+
+12/19/2009 5:40:21 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add stoneta'
+12/19/2009 5:40:25 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1417, 1686, 25) in Felucca: "LargeStoneTableSouthAddon"
+12/19/2009 5:40:25 PM: 192.168.2.2: Serials: 0x40000100; 
+12/19/2009 5:40:29 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add static 2945'
+12/19/2009 5:40:30 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 5:40:31 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40000102 (AddonComponent)
+12/19/2009 5:40:32 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add stoneta'
+12/19/2009 5:40:36 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1417, 1686, 25) in Felucca: "LargeStoneTableEastAddon"
+12/19/2009 5:40:36 PM: 192.168.2.2: Serials: 0x40000380; 
+12/19/2009 5:40:42 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 5:40:43 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x40018F44 (Static)
+12/19/2009 5:40:43 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 5:40:43 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x40018F34 (Static)
+12/19/2009 5:40:44 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 5:40:45 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x40018F33 (Static)
+12/19/2009 5:40:45 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 5:40:46 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x40018F27 (Static)
+12/19/2009 5:40:46 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 5:40:47 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x40018F35 (Static)
+12/19/2009 5:41:24 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 1180 set movable False hue 0 light Circle225'
+12/19/2009 5:41:24 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1421, 1687, 25) in Felucca: "static" "1180" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 5:41:24 PM: 192.168.2.2: Serials: 0x4000945C; 
+12/19/2009 5:41:31 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 5:41:31 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x4000945C (Static)
+12/19/2009 5:42:03 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Add static 1295 set movable False hue 0 light Circle225'
+12/19/2009 5:42:04 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1421, 1687, 25) in Felucca: "static" "1295" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/19/2009 5:42:04 PM: 192.168.2.2: Serials: 0x40010475; 
+12/19/2009 5:42:10 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1295'
+12/19/2009 5:42:12 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building from (1417, 1683, 25) to (1421, 1686, 25) in Felucca: "static" "1295"
+12/19/2009 5:42:12 PM: 192.168.2.2: Serials: 0x40010476; 0x40010477; 0x400104FD; 0x400104FE; 0x400104FF; 0x40010500; 0x40010501; 0x40010FCA; 0x4001102A; 0x4001102B; 0x4001104B; 0x4001104C; 0x4001104D; 0x40011056; 0x40011057; 0x40011058; 0x4001105A; 0x400122C6; 0x400122C7; 0x400122C8; 
+12/19/2009 5:42:13 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1295'
+12/19/2009 5:42:14 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1416, 1683, 25) in Felucca: "static" "1295"
+12/19/2009 5:42:14 PM: 192.168.2.2: Serials: 0x400122CA; 
+12/19/2009 5:42:15 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1295'
+12/19/2009 5:42:16 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building from (1416, 1686, 25) to (1416, 1687, 25) in Felucca: "static" "1295"
+12/19/2009 5:42:16 PM: 192.168.2.2: Serials: 0x400122CD; 0x400122CE; 
+12/19/2009 5:42:17 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1295'
+12/19/2009 5:42:19 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building from (1417, 1687, 25) to (1420, 1687, 25) in Felucca: "static" "1295"
+12/19/2009 5:42:19 PM: 192.168.2.2: Serials: 0x400122CF; 0x400122D0; 0x400122D1; 0x400122D2; 
+12/19/2009 5:42:24 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tile static 1295'
+12/19/2009 5:42:28 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building from (1418, 1688, 25) to (1420, 1689, 25) in Felucca: "static" "1295"
+12/19/2009 5:42:28 PM: 192.168.2.2: Serials: 0x400122D4; 0x400122D6; 0x400122DD; 0x400122DF; 0x400122E6; 0x400122E8; 
+12/19/2009 5:42:43 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1419, 1684, 25) in Felucca: "LargeStoneTableSouthAddon"
+12/19/2009 5:42:43 PM: 192.168.2.2: Serials: 0x400122EF; 
+12/19/2009 5:42:52 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 5:43:00 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'Location' of 0x40000381 (AddonComponent) to '(1418, 1686, 25)'
+12/19/2009 5:43:25 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 5:43:27 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 5:43:28 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x9F1 "Gigi" (no account) to (1419, 1683, 25)
+12/19/2009 5:43:30 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x4001315B (Static) to (1417, 1686, 25)
+12/19/2009 5:43:33 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 5:43:33 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 5:43:35 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x4001315B (Static) to (1417, 1682, 20)
+12/19/2009 5:43:53 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tele '
+12/19/2009 5:43:58 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 5:43:59 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 5:43:59 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40018F1D (Static)
+12/19/2009 5:44:01 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 5:44:01 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 5:44:01 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40018F1E (Static)
+12/19/2009 5:44:05 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 5:44:07 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 5:44:10 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'dupe '
+12/19/2009 5:44:12 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duping 0x4001315D (Static) (inBag=False; amount=1)
+12/19/2009 5:44:12 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duped 0x4001315D (Static) creating 0x40012313 (Static)
+12/19/2009 5:44:13 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 5:44:16 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40012313 (Static) to (1418, 1683, 25)
+12/19/2009 5:44:17 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 5:44:19 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40012313 (Static) to (1417, 1682, 20)
+12/19/2009 5:44:21 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 5:44:23 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40013159 (Static) to (1418, 1682, 20)
+12/19/2009 5:44:29 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 5:44:38 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set z 25'
+12/19/2009 5:44:39 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'z' of 0x40012313 (Static) to '25'
+12/19/2009 5:44:40 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set z 25'
+12/19/2009 5:44:41 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'z' of 0x40013159 (Static) to '25'
+12/19/2009 5:45:13 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add mobile'
+12/19/2009 5:45:35 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 5:45:36 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 5:45:45 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add mobil'
+12/19/2009 5:45:46 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add mobilerw'
+12/19/2009 5:45:52 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1421, 1685, 25) in Felucca: "MobileRewardVendor"
+12/19/2009 5:45:52 PM: 192.168.2.2: Serials: 0x92; 
+12/19/2009 5:45:59 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1421, 1687, 25) in Felucca: "MobileReward2Vendor"
+12/19/2009 5:45:59 PM: 192.168.2.2: Serials: 0x93; 
+12/19/2009 5:46:04 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 5:46:06 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x93 "Merle" (no account) to (1417, 1686, 25)
+12/19/2009 5:46:06 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 5:46:09 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 5:46:15 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 5:46:18 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'CantWalk' of 0x93 "Merle" (no account) to 'True'
+12/19/2009 5:46:21 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 5:46:22 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x93 "Merle" (no account) to (1417, 1686, 25)
+12/19/2009 5:46:36 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 5:46:42 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set direction south'
+12/19/2009 5:46:43 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'direction' of 0x92 "Clyde" (no account) to 'South'
+12/19/2009 5:46:44 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'CantWalk' of 0x92 "Clyde" (no account) to 'True'
+12/19/2009 5:46:46 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 5:46:48 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x92 "Clyde" (no account) to (1421, 1683, 25)
+12/19/2009 5:46:48 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set direction south'
+12/19/2009 5:46:49 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'direction' of 0x9F1 "Gigi" (no account) to 'South'
+12/19/2009 5:46:56 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set cantwalk true'
+12/19/2009 5:46:58 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'cantwalk' of 0x9F1 "Gigi" (no account) to 'True'
+12/19/2009 5:46:59 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set cantwalk true'
+12/19/2009 5:47:00 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'cantwalk' of 0x92 "Clyde" (no account) to 'True'
+12/19/2009 5:47:01 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set cantwalk true'
+12/19/2009 5:47:01 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'cantwalk' of 0x93 "Merle" (no account) to 'True'
+12/19/2009 5:47:03 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 5:47:27 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'Frozen' of 0x93 "Merle" (no account) to 'True'
+12/19/2009 5:47:31 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set frozen true'
+12/19/2009 5:47:33 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'frozen' of 0x92 "Clyde" (no account) to 'True'
+12/19/2009 5:47:34 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set frozen true'
+12/19/2009 5:47:34 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'frozen' of 0x93 "Merle" (no account) to 'True'
+12/19/2009 5:47:38 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set direction south'
+12/19/2009 5:47:40 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'direction' of 0x92 "Clyde" (no account) to 'South'
+12/19/2009 5:47:44 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set direction east'
+12/19/2009 5:47:45 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'direction' of 0x93 "Merle" (no account) to 'East'
+12/19/2009 5:48:21 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'set frozen true'
+12/19/2009 5:48:26 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 5:49:32 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set namehue 1174'
+12/19/2009 5:49:33 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'namehue' of 0x9F1 "Gigi" (no account) to '1174'
+12/19/2009 5:49:51 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 5:50:28 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 5:50:30 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x9F1 "Gigi" (no account)
+12/19/2009 5:50:34 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 5:50:36 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add mobiler'
+12/19/2009 5:50:39 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1419, 1683, 25) in Felucca: "MobileRewardVendor"
+12/19/2009 5:50:39 PM: 192.168.2.2: Serials: 0x95; 
+12/19/2009 5:50:48 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set frozen true'
+12/19/2009 5:50:48 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'frozen' of 0x95 "Denton" (no account) to 'True'
+12/19/2009 5:50:52 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set direction south'
+12/19/2009 5:50:53 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'direction' of 0x95 "Denton" (no account) to 'South'
+12/19/2009 5:50:56 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set direction south'
+12/19/2009 5:50:57 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'direction' of 0x95 "Denton" (no account) to 'South'
+12/19/2009 5:51:01 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 5:51:03 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x95 "Denton" (no account) to (1418, 1683, 25)
+12/19/2009 5:51:06 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 5:51:08 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x95 "Denton" (no account) to (1419, 1683, 25)
+12/19/2009 5:51:15 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set cantwalk true'
+12/19/2009 5:51:15 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 5:51:16 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'cantwalk' of 0x95 "Denton" (no account) to 'True'
+12/19/2009 5:51:27 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add ridibl'
+12/19/2009 5:51:33 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1420, 1687, 25) in Felucca: "RidableLlama"
+12/19/2009 5:51:33 PM: 192.168.2.2: Serials: 0x97E; 
+12/19/2009 5:51:39 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set cantswim false'
+12/19/2009 5:51:43 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 5:52:01 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'CanSwim' of 0x97E "a ridable llama" (no account) to 'True'
+12/19/2009 5:52:15 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tele '
+12/19/2009 5:52:26 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 5:52:54 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tele '
+12/19/2009 5:52:56 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 5:52:58 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x97E "a ridable llama" (no account) to (1401, 1714, 20)
+12/19/2009 5:53:04 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tele '
+12/19/2009 5:53:13 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set canswim true'
+12/19/2009 5:53:14 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'canswim' of 0x974 "Prophet" ('Prophet') to 'True'
+12/19/2009 5:53:32 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add dolph'
+12/19/2009 5:53:34 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1392, 1701, -5) in Felucca: "Dolphin"
+12/19/2009 5:53:34 PM: 192.168.2.2: Serials: 0x97F; 
+12/19/2009 5:53:37 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 5:54:05 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 5:54:06 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x97E "a ridable llama" (no account)
+12/19/2009 5:54:08 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 5:54:10 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x97F "a dolphin" (no account)
+12/19/2009 5:54:11 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tele '
+12/19/2009 5:54:15 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add rid'
+12/19/2009 5:54:18 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1394, 1708, 20) in Felucca: "RidableLlama"
+12/19/2009 5:54:18 PM: 192.168.2.2: Serials: 0x982; 
+12/19/2009 5:54:22 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set cantwalk true'
+12/19/2009 5:54:23 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'cantwalk' of 0x982 "a ridable llama" (no account) to 'True'
+12/19/2009 5:54:30 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set canswim true'
+12/19/2009 5:54:31 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'canswim' of 0x982 "a ridable llama" (no account) to 'True'
+12/19/2009 5:54:36 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tele '
+12/19/2009 5:54:43 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'tele '
+12/19/2009 5:54:51 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 5:54:52 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x982 "a ridable llama" (no account)
+12/19/2009 5:55:04 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add pet'
+12/19/2009 5:55:20 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add dragon'
+12/19/2009 5:55:21 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1394, 1709, 20) in Felucca: "dragon"
+12/19/2009 5:55:21 PM: 192.168.2.2: Serials: 0x983; 
+12/19/2009 5:55:25 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'shrink '
+12/19/2009 5:55:42 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'shrink '
+12/19/2009 5:56:03 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 5:56:05 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40013290 (ShrinkItem)
+12/19/2009 5:56:27 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'save '
+12/19/2009 5:56:51 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add shrink'
+12/19/2009 5:57:20 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add stat'
+12/19/2009 5:57:35 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add rulebook'
+12/19/2009 5:57:37 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1393, 1707, 20) in Felucca: "RuleBook1"
+12/19/2009 5:57:37 PM: 192.168.2.2: Serials: 0x4001336F; 
+12/19/2009 5:57:44 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/19/2009 5:57:46 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/19/2009 5:57:47 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duping 0x4001336F (RuleBook1) (inBag=False; amount=1)
+12/19/2009 5:57:47 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duped 0x4001336F (RuleBook1) creating 0x40013373 (RuleBook1)
+12/19/2009 5:57:52 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'dupe '
+12/19/2009 5:57:53 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duping 0x4001336F (RuleBook1) (inBag=False; amount=1)
+12/19/2009 5:57:53 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duped 0x4001336F (RuleBook1) creating 0x40013377 (RuleBook1)
+12/19/2009 5:58:07 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 5:58:07 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 5:58:08 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x4001336F (RuleBook1)
+12/19/2009 5:58:08 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x40013373 (RuleBook1)
+12/19/2009 5:58:22 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add pet'
+12/19/2009 5:58:42 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (1391, 1707, 20) in Felucca: "PetLeash"
+12/19/2009 5:58:42 PM: 216.223.179.228: Serials: 0x400136BD; 
+12/19/2009 6:03:24 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+##############################
+Log started on 12/19/2009 6:05:41 PM
+
+12/19/2009 6:05:46 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+##############################
+Log started on 12/19/2009 6:06:01 PM
+
+12/19/2009 6:06:37 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+##############################
+Log started on 12/19/2009 6:36:13 PM
+
+##############################
+Log started on 12/19/2009 6:36:49 PM
+
+12/19/2009 6:38:03 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+##############################
+Log started on 12/19/2009 6:40:10 PM
+
+12/19/2009 6:40:17 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 6:40:19 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40013377 (RuleBook1)
+12/19/2009 6:40:22 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add shard'
+12/19/2009 6:40:30 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1405, 1708, 20) in Felucca: "RuleBook1"
+12/19/2009 6:40:30 PM: 192.168.2.2: Serials: 0x40010FD2; 
+12/19/2009 6:40:37 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 6:40:38 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') moving 0x40010FD2 (RuleBook1) to (1404, 1709, 20)
+12/19/2009 6:40:42 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'dupe '
+12/19/2009 6:40:43 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duping 0x40010FD2 (RuleBook1) (inBag=False; amount=1)
+12/19/2009 6:40:43 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duped 0x40010FD2 (RuleBook1) creating 0x40010FD5 (RuleBook1)
+12/19/2009 6:40:45 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 6:40:46 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40010FD2 (RuleBook1)
+12/19/2009 6:44:25 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+##############################
+Log started on 12/19/2009 6:46:29 PM
+
+12/19/2009 6:48:59 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+##############################
+Log started on 12/19/2009 6:50:58 PM
+
+12/19/2009 6:51:11 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 6:51:13 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40010FD5 (RuleBook1)
+12/19/2009 6:51:19 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add ruleb'
+12/19/2009 6:51:22 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1427, 1699, 0) in Felucca: "RuleBook1"
+12/19/2009 6:51:22 PM: 192.168.2.2: Serials: 0x40000102; 
+12/19/2009 6:51:28 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'dupe '
+12/19/2009 6:51:28 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duping 0x40000102 (RuleBook1) (inBag=False; amount=1)
+12/19/2009 6:51:28 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') duped 0x40000102 (RuleBook1) creating 0x40000103 (RuleBook1)
+12/19/2009 6:51:31 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 6:51:32 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40000102 (RuleBook1)
+12/19/2009 7:07:20 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'admin '
+12/19/2009 7:12:44 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'who '
+12/19/2009 7:12:47 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') going to 0x974 "Prophet" ('Prophet'), Location (1424, 1696, 0), Map Felucca
+12/19/2009 7:12:54 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add rulebook'
+12/19/2009 7:12:57 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (1426, 1696, 0) in Felucca: "RuleBook1"
+12/19/2009 7:12:57 PM: 216.223.179.228: Serials: 0x4001327D; 
+12/19/2009 7:13:06 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 7:13:06 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x4001327D (RuleBook1)
+12/19/2009 7:13:10 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add rulebook'
+12/19/2009 7:13:12 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (1426, 1695, 0) in Felucca: "RuleBook1"
+12/19/2009 7:13:12 PM: 216.223.179.228: Serials: 0x4001327F; 
+12/19/2009 7:13:17 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 7:13:19 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/19/2009 7:13:20 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duping 0x4001327F (RuleBook1) (inBag=False; amount=1)
+12/19/2009 7:13:20 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duped 0x4001327F (RuleBook1) creating 0x40013289 (RuleBook1)
+12/19/2009 7:13:21 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 7:13:21 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x4001327F (RuleBook1)
+12/19/2009 8:20:53 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+##############################
+Log started on 12/19/2009 8:48:16 PM
+
+12/19/2009 8:48:51 PM: 192.168.2.2: Owner 0x1 "Prophet" ('Prophet') used command 'add mongbat'
+12/19/2009 8:48:51 PM: 192.168.2.2: Owner 0x1 "Prophet" ('Prophet') building at (5210, 1178, 0) in Felucca: "mongbat"
+12/19/2009 8:48:51 PM: 192.168.2.2: Serials: 0x2; 
+12/19/2009 8:48:59 PM: 192.168.2.2: Owner 0x1 "Prophet" ('Prophet') used command 'm remove'
+12/19/2009 8:49:00 PM: 192.168.2.2: Owner 0x1 "Prophet" ('Prophet') deleting 0x2 "a mongbat" (no account)
+12/19/2009 8:49:08 PM: 192.168.2.2: Owner 0x1 "Prophet" ('Prophet') used command 'go '
+12/19/2009 8:49:21 PM: 192.168.2.2: Owner 0x1 "Prophet" ('Prophet') used command 'add daemon'
+12/19/2009 8:49:22 PM: 192.168.2.2: Owner 0x1 "Prophet" ('Prophet') building at (1310, 1070, 0) in Felucca: "daemon"
+12/19/2009 8:49:22 PM: 192.168.2.2: Serials: 0x3; 
+12/19/2009 8:49:34 PM: 192.168.2.2: Owner 0x1 "Prophet" ('Prophet') used command 'props '
+12/19/2009 8:49:45 PM: 192.168.2.2: Owner 0x1 "Prophet" ('Prophet') set property 'Level' of 0x1 "Prophet" ('Prophet') to '40'
+##############################
+Log started on 12/19/2009 8:55:26 PM
+
+12/19/2009 8:56:34 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add stat'
+12/19/2009 8:56:36 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add statb'
+12/19/2009 8:56:39 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1426, 1696, 0) in Felucca: "StatBall"
+12/19/2009 8:56:39 PM: 192.168.2.2: Serials: 0x4000EEFB; 
+12/19/2009 8:57:20 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add statb'
+12/19/2009 8:57:22 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1425, 1697, 0) in Felucca: "StatBall"
+12/19/2009 8:57:22 PM: 192.168.2.2: Serials: 0x400102BF; 
+12/19/2009 8:57:47 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 8:57:49 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x400102BF (StatBall)
+12/19/2009 9:01:40 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add statball'
+12/19/2009 9:01:41 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (1427, 1697, 0) in Felucca: "statball"
+12/19/2009 9:01:41 PM: 192.168.2.2: Serials: 0x40012300; 
+12/19/2009 9:03:12 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 9:03:14 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40012300 (StatBall)
+12/19/2009 9:07:21 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+##############################
+Log started on 12/19/2009 9:17:41 PM
+
+12/19/2009 9:18:07 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'tele '
+12/19/2009 9:18:23 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'set frozen true'
+12/19/2009 9:19:07 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'frozen' of 0x95 "Denton" (no account) to 'True'
+12/19/2009 9:19:15 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'set frozen true'
+12/19/2009 9:19:17 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 9:19:18 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x93 "Merle" (no account) to (1416, 1686, 25)
+12/19/2009 9:19:19 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 9:19:20 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x93 "Merle" (no account) to (1417, 1686, 25)
+12/19/2009 9:19:21 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 9:19:22 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x93 "Merle" (no account) to (1417, 1686, 25)
+12/19/2009 9:19:23 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 9:19:24 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x93 "Merle" (no account) to (1417, 1686, 25)
+12/19/2009 9:19:24 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 9:19:25 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x93 "Merle" (no account) to (1416, 1686, 25)
+12/19/2009 9:19:25 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 9:19:27 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x93 "Merle" (no account) to (1417, 1686, 25)
+12/19/2009 9:19:36 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'set frozen true'
+12/19/2009 9:20:15 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add quest'
+12/19/2009 9:20:31 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'set frozen true'
+12/19/2009 9:20:59 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'go '
+12/19/2009 9:21:07 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'm tele'
+12/19/2009 9:21:18 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5381, 1084, 0) in Felucca: "XmlQuestMaker"
+12/19/2009 9:21:18 PM: 192.168.2.2: Serials: 0x400130CA; 
+12/19/2009 9:21:33 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 9:21:34 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x400130E5 (QuestHolder)
+12/19/2009 9:21:48 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'who '
+12/19/2009 9:21:52 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') going to 0x974 "Prophet" ('Prophet'), Location (5381, 1085, 0), Map Felucca
+12/19/2009 9:21:53 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5383, 1085, 0) in Felucca: "XmlQuestNPC"
+12/19/2009 9:21:53 PM: 192.168.2.2: Serials: 0x90; 
+12/19/2009 9:34:38 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 9:34:39 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x90 "Casey" (no account) to (5388, 1094, 0)
+12/19/2009 9:34:39 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 9:34:41 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x90 "Casey" (no account) to (5378, 1085, 0)
+12/19/2009 9:35:37 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'set frozen true'
+12/19/2009 9:35:37 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'frozen' of 0x90 "Casey" (no account) to 'True'
+12/19/2009 9:35:48 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add heart'
+12/19/2009 9:35:52 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (5378, 1089, 0) in Felucca: "Blackheart"
+12/19/2009 9:35:52 PM: 216.223.179.228: Serials: 0x980; 
+12/19/2009 9:36:02 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 9:36:03 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x980 "Captain Blackheart" (no account)
+12/19/2009 9:36:06 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add heart'
+12/19/2009 9:36:13 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (5378, 1089, 0) in Felucca: "AdmiralsHeartyRum"
+12/19/2009 9:36:13 PM: 216.223.179.228: Serials: 0x40014D3A; 
+12/19/2009 9:36:14 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (5379, 1089, 0) in Felucca: "AdmiralsHeartyRum"
+12/19/2009 9:36:14 PM: 216.223.179.228: Serials: 0x40014D3B; 
+12/19/2009 9:36:23 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 9:36:24 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x40014D3B (AdmiralsHeartyRum)
+12/19/2009 9:36:45 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (5381, 1088, 0) in Felucca: "AdmiralsHeartyRum"
+12/19/2009 9:36:45 PM: 216.223.179.228: Serials: 0x40014D3C; 
+12/19/2009 9:37:06 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add egg'
+12/19/2009 9:37:10 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (5379, 1087, 0) in Felucca: "Eggs"
+12/19/2009 9:37:10 PM: 216.223.179.228: Serials: 0x40014D43; 
+12/19/2009 9:37:15 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (5380, 1086, 0) in Felucca: "Eggshells"
+12/19/2009 9:37:15 PM: 216.223.179.228: Serials: 0x40014D44; 
+12/19/2009 9:37:27 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 9:37:27 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x40014D43 (Eggs)
+12/19/2009 9:37:28 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 9:37:28 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x40014D44 (Eggshells)
+12/19/2009 9:38:14 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set hue 1151'
+12/19/2009 9:38:16 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'hue' of 0x40018E98 (Spellbook) to '1151'
+12/19/2009 9:38:21 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'set hue 1152'
+12/19/2009 9:38:22 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'hue' of 0x40018E98 (Spellbook) to '1152'
+12/19/2009 9:41:46 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'kill '
+12/19/2009 9:41:47 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') killing 0x90 "Casey" (no account)
+12/19/2009 9:41:50 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 9:41:50 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x40018C4F (Corpse)
+12/19/2009 9:45:11 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'get hue'
+12/19/2009 9:51:08 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+##############################
+Log started on 12/19/2009 9:55:12 PM
+
+12/19/2009 9:55:25 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add heart'
+12/19/2009 9:55:27 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add dragonh'
+12/19/2009 9:55:29 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (5379, 1087, 0) in Felucca: "DragonHeart"
+12/19/2009 9:55:29 PM: 216.223.179.228: Serials: 0x4000EEFB; 
+12/19/2009 9:55:29 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5381, 1085, 0) in Felucca: "DragonHeart"
+12/19/2009 9:55:29 PM: 192.168.2.2: Serials: 0x400102BF; 
+12/19/2009 9:55:31 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5383, 1086, 0) in Felucca: "DragonHeart"
+12/19/2009 9:55:31 PM: 192.168.2.2: Serials: 0x40010311; 
+12/19/2009 9:55:34 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5384, 1087, 0) in Felucca: "DragonHeart"
+12/19/2009 9:55:34 PM: 192.168.2.2: Serials: 0x40010312; 
+12/19/2009 9:55:34 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (5380, 1086, 0) in Felucca: "DragonHeart"
+12/19/2009 9:55:34 PM: 216.223.179.228: Serials: 0x40010314; 
+12/19/2009 9:55:51 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 9:56:13 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add eventt'
+12/19/2009 9:56:15 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5383, 1088, 0) in Felucca: "EventToken"
+12/19/2009 9:56:15 PM: 192.168.2.2: Serials: 0x40010FD2; 
+12/19/2009 9:56:24 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 9:56:26 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40010FD2 (EventToken)
+12/19/2009 9:57:57 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+##############################
+Log started on 12/19/2009 10:04:29 PM
+
+12/19/2009 10:04:54 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add dragonh'
+12/19/2009 10:04:56 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5384, 1087, 0) in Felucca: "DragonHeart"
+12/19/2009 10:04:56 PM: 192.168.2.2: Serials: 0x40000102; 
+12/19/2009 10:05:13 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add dragonheart'
+12/19/2009 10:05:15 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (5379, 1089, 0) in Felucca: "dragonheart"
+12/19/2009 10:05:15 PM: 216.223.179.228: Serials: 0x4000945C; 
+12/19/2009 10:05:15 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add eventok'
+12/19/2009 10:05:19 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5382, 1088, 0) in Felucca: "EventToken"
+12/19/2009 10:05:19 PM: 192.168.2.2: Serials: 0x40010FD2; 
+12/19/2009 10:05:20 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5383, 1088, 0) in Felucca: "EventToken"
+12/19/2009 10:05:20 PM: 192.168.2.2: Serials: 0x40010FD5; 
+12/19/2009 10:05:30 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 10:05:30 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x4000945C (DragonHeart)
+12/19/2009 10:05:36 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 10:05:37 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40010FD2 (EventToken)
+12/19/2009 10:05:38 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 10:05:38 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40000102 (DragonHeart)
+12/19/2009 10:06:33 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+##############################
+Log started on 12/19/2009 10:08:51 PM
+
+12/19/2009 10:08:59 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add dragonh'
+12/19/2009 10:09:01 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5383, 1088, 0) in Felucca: "DragonHeart"
+12/19/2009 10:09:01 PM: 192.168.2.2: Serials: 0x40000102; 
+12/19/2009 10:09:03 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add dragonheart'
+12/19/2009 10:09:05 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (5379, 1088, 0) in Felucca: "dragonheart"
+12/19/2009 10:09:05 PM: 216.223.179.228: Serials: 0x4000945C; 
+12/19/2009 10:09:18 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add cook'
+12/19/2009 10:09:20 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'delete '
+12/19/2009 10:09:21 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') deleting 0x4000945C (DragonHeart)
+12/19/2009 10:09:21 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add cooke'
+12/19/2009 10:09:27 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5387, 1085, 0) in Felucca: "CookedBird"
+12/19/2009 10:09:27 PM: 192.168.2.2: Serials: 0x400122F4; 
+12/19/2009 10:09:31 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'get itemid'
+12/19/2009 10:12:05 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 10:12:06 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40000102 (DragonHeart)
+12/19/2009 10:12:09 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+##############################
+Log started on 12/19/2009 10:14:27 PM
+
+12/19/2009 10:14:35 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add dragonh'
+12/19/2009 10:14:37 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5385, 1088, 0) in Felucca: "DragonHeart"
+12/19/2009 10:14:37 PM: 192.168.2.2: Serials: 0x40000100; 
+12/19/2009 10:14:45 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 10:14:46 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x400122F4 (CookedBird)
+12/19/2009 10:14:50 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add drake'
+12/19/2009 10:14:52 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add dragonheart'
+12/19/2009 10:14:53 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add drakeh'
+12/19/2009 10:14:54 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (5381, 1088, 0) in Felucca: "dragonheart"
+12/19/2009 10:14:54 PM: 216.223.179.228: Serials: 0x40000101; 
+12/19/2009 10:14:55 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5383, 1088, 0) in Felucca: "DrakeHeart"
+12/19/2009 10:14:55 PM: 192.168.2.2: Serials: 0x40000102; 
+12/19/2009 10:15:02 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add dragone'
+12/19/2009 10:15:05 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5383, 1087, 0) in Felucca: "DragonEgg1"
+12/19/2009 10:15:05 PM: 192.168.2.2: Serials: 0x4000945C; 
+12/19/2009 10:15:09 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'remove '
+12/19/2009 10:15:11 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') deleting 0x40000100 (DragonHeart)
+12/19/2009 10:15:20 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'dupe '
+12/19/2009 10:15:21 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duping 0x40000101 (DragonHeart) (inBag=False; amount=1)
+12/19/2009 10:15:21 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') duped 0x40000101 (DragonHeart) creating 0x4000A3C7 (DragonHeart)
+12/19/2009 10:20:29 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 10:23:24 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add quest'
+12/19/2009 10:23:30 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5385, 1086, 0) in Felucca: "QuestHolder"
+12/19/2009 10:23:30 PM: 192.168.2.2: Serials: 0x40013031; 
+12/19/2009 10:23:41 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'ReturnContainer' of 0x4001312A (QuestHolder) to '(null)'
+12/19/2009 10:23:44 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5384, 1084, 0) in Felucca: "QuestRewardStone"
+12/19/2009 10:23:44 PM: 192.168.2.2: Serials: 0x4001304D; 
+12/19/2009 10:23:49 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5386, 1085, 0) in Felucca: "XmlQuestNPC"
+12/19/2009 10:23:49 PM: 192.168.2.2: Serials: 0x979; 
+12/19/2009 10:24:04 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 10:24:06 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 10:24:13 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 10:24:39 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add heart'
+12/19/2009 10:24:43 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5388, 1086, 0) in Felucca: "DragonHeart"
+12/19/2009 10:24:43 PM: 192.168.2.2: Serials: 0x40013154; 
+12/19/2009 10:24:43 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5388, 1085, 0) in Felucca: "DragonHeart"
+12/19/2009 10:24:43 PM: 192.168.2.2: Serials: 0x40013155; 
+12/19/2009 10:24:44 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5388, 1084, 0) in Felucca: "DragonHeart"
+12/19/2009 10:24:44 PM: 192.168.2.2: Serials: 0x40013167; 
+12/19/2009 10:24:48 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5389, 1086, 0) in Felucca: "DrakeHeart"
+12/19/2009 10:24:48 PM: 192.168.2.2: Serials: 0x4001316B; 
+12/19/2009 10:24:49 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5389, 1085, 0) in Felucca: "DrakeHeart"
+12/19/2009 10:24:49 PM: 192.168.2.2: Serials: 0x4001317E; 
+12/19/2009 10:24:51 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5389, 1084, 0) in Felucca: "DrakeHeart"
+12/19/2009 10:24:51 PM: 192.168.2.2: Serials: 0x400131A8; 
+12/19/2009 10:26:23 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 10:27:06 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'State1' of 0x40012300 (QuestHolder) to '(null)'
+12/19/2009 10:27:09 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'State1' of 0x40012300 (QuestHolder) to ''
+12/19/2009 10:27:13 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'State1' of 0x40012300 (QuestHolder) to '(null)'
+12/19/2009 10:27:38 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'LoadConfig' of 0x40012300 (QuestHolder) to 'True'
+12/19/2009 10:27:56 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add xml'
+12/19/2009 10:28:32 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add xmlquestnpc'
+12/19/2009 10:28:33 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (5389, 1087, 0) in Felucca: "xmlquestnpc"
+12/19/2009 10:28:33 PM: 216.223.179.228: Serials: 0x980; 
+12/19/2009 10:28:42 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/19/2009 10:29:02 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'xmledit '
+12/19/2009 10:29:17 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'set frozen true'
+12/19/2009 10:29:18 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'frozen' of 0x980 "Barrett" (no account) to 'True'
+12/19/2009 10:29:19 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 10:29:20 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x980 "Barrett" (no account) to (5387, 1083, 0)
+12/19/2009 10:29:21 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'move '
+12/19/2009 10:29:22 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') moving 0x980 "Barrett" (no account) to (5387, 1091, 0)
+12/19/2009 10:29:41 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/19/2009 10:29:52 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/19/2009 10:32:26 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add staffcloak'
+12/19/2009 10:32:28 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (5383, 1097, 0) in Felucca: "staffcloak"
+12/19/2009 10:32:28 PM: 216.223.179.228: Serials: 0x40013C19; 
+12/19/2009 10:32:42 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add staffcloak'
+12/19/2009 10:32:43 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (5384, 1096, 0) in Felucca: "staffcloak"
+12/19/2009 10:32:43 PM: 216.223.179.228: Serials: 0x40013C1A; 
+12/19/2009 10:34:16 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/19/2009 10:34:34 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 10:35:04 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'TriggerAccessLevel' of 0x980 "Barrett" (no account) to 'Administrator'
+12/19/2009 10:35:11 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'TriggerAccessLevel' of 0x980 "Barrett" (no account) to 'Player'
+12/19/2009 10:35:28 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'TriggerAccessLevel' of 0x980 "Barrett" (no account) to 'Administrator'
+12/19/2009 10:35:50 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/19/2009 10:35:54 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/19/2009 10:37:49 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'speedboost '
+12/19/2009 10:39:34 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 10:40:10 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/19/2009 10:42:17 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'add staffcloak'
+12/19/2009 10:42:18 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') building at (5390, 1089, 0) in Felucca: "staffcloak"
+12/19/2009 10:42:19 PM: 216.223.179.228: Serials: 0x40018C50; 
+12/19/2009 10:42:29 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 10:42:33 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'StaffLevel' of 0x40018C50 (StaffCloak) to 'Player'
+12/19/2009 10:42:48 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add staff'
+12/19/2009 10:42:51 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add staf'
+12/19/2009 10:43:00 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 10:43:02 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5397, 1085, 0) in Felucca: "StaffCloak"
+12/19/2009 10:43:02 PM: 192.168.2.2: Serials: 0x40018D05; 
+12/19/2009 10:43:18 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'add staf'
+12/19/2009 10:43:20 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5396, 1091, 0) in Felucca: "StaffCloak"
+12/19/2009 10:43:20 PM: 192.168.2.2: Serials: 0x40018D06; 
+12/19/2009 10:43:30 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 10:43:48 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'TriggerAccessLevel' of 0x980 "Barrett" (no account) to 'Developer'
+12/19/2009 10:43:54 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 10:44:22 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'Layer' of 0x40018D06 (StaffCloak) to 'FirstValid'
+12/19/2009 10:44:39 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/19/2009 11:00:45 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/19/2009 11:01:26 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'save '
+12/19/2009 11:01:40 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+##############################
+Log started on 12/19/2009 11:04:27 PM
+
+12/19/2009 11:04:42 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'toolbar '
+12/19/2009 11:05:07 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'M Tele'
+12/19/2009 11:05:11 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'where '
+12/19/2009 11:05:14 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'move '
+12/19/2009 11:05:17 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') hiding 0x974 "Prophet" ('Prophet')
+12/19/2009 11:05:17 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Self Hide'
+12/19/2009 11:05:17 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'admin '
+12/19/2009 11:05:17 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') unhiding 0x974 "Prophet" ('Prophet')
+12/19/2009 11:05:17 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'Self Unhide'
+12/19/2009 11:05:19 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'speedboost '
+12/19/2009 11:05:21 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'M Tele'
+12/19/2009 11:05:38 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'set frozen true'
+12/19/2009 11:05:40 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'frozen' of 0x980 "Barrett" (no account) to 'True'
+12/19/2009 11:05:51 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/19/2009 11:05:56 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'afk '
+12/19/2009 11:08:50 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/19/2009 11:09:12 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'props '
+12/19/2009 11:09:44 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'immortal '
+12/19/2009 11:09:47 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'blessed' of 0x8F "Seizure" ('alex33zebras') to 'True'
+12/19/2009 11:09:48 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'mortal '
+12/19/2009 11:09:49 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'blessed' of 0x8F "Seizure" ('alex33zebras') to 'False'
+12/19/2009 11:10:04 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'props '
+12/19/2009 11:10:16 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') set property 'TriggerAccessLevel' of 0x980 "Barrett" (no account) to 'Developer'
+12/19/2009 11:11:35 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/19/2009 11:15:19 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+##############################
+Log started on 12/19/2009 11:18:05 PM
+
+12/19/2009 11:18:23 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'addtopack rulebook1'
+12/19/2009 11:18:25 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') building at (5391, 1086, 0) in Felucca: "rulebook1"
+12/19/2009 11:18:25 PM: 192.168.2.2: Serials: 0x4000A9E0; 
+12/19/2009 11:18:39 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'set frozen true'
+12/19/2009 11:18:41 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'frozen' of 0x980 "Barrett" (no account) to 'True'
+12/19/2009 11:19:10 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') hiding 0x8F "Seizure" ('alex33zebras')
+12/19/2009 11:19:10 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'Self Hide'
+12/19/2009 11:19:11 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') unhiding 0x8F "Seizure" ('alex33zebras')
+12/19/2009 11:19:11 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'Self Unhide'
+12/19/2009 11:21:06 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'who '
+12/19/2009 11:21:23 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/19/2009 11:25:50 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+##############################
+Log started on 12/19/2009 11:28:30 PM
+
+12/19/2009 11:29:02 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'xmledit '
+12/19/2009 11:29:08 PM: 192.168.2.2: Owner 0x974 "Prophet" ('Prophet') used command 'restart '
+12/19/2009 11:29:11 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') used command 'set frozen true'
+12/19/2009 11:29:13 PM: 216.223.179.228: Developer 0x8F "Seizure" ('alex33zebras') set property 'frozen' of 0x980 "Barrett" (no account) to 'True'
+##############################
+Log started on 12/19/2009 11:31:29 PM
+
+##############################
+Log started on 12/19/2009 11:31:55 PM
+
