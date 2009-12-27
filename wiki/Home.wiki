@@ -1,13 +1,10 @@
-#This is the main page layout for the Realm of Darkness Free Shard project.
+This is the main page layout for the Realm of Darkness Free Shard project.
 
-= Introduction =
+
 
 This shard was created in the beginning of December 2009.  This shard is completely changed and custom. Please stop by at realmofdarkness.no-ip.net port 2593
 
 
-= Details =
 
 We are PvP / PvM shard
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+ 
