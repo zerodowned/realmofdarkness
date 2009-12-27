@@ -1,0 +1,31 @@
+<html>
+   <head>
+      <title>RunUO Documentation - Class Overview - GuardianRoomRegion</title>
+   </head>
+   <body bgcolor="white" style="font-family: Courier New" text="#000000" link="#000000" vlink="#000000" alink="#808080">
+      <h4><a href="../namespaces/Server.Engines.Doom.html">Back to Server.Engines.Doom</a></h4>
+      <h2>GuardianRoomRegion : <!-- DBG-1 --><a href="BaseRegion.html">BaseRegion</a>, <!-- DBG-2.1 --><font color="blue">IComparable</font></h2>
+<h4>Nested Types: <!-- DBG-4 --><a href="GhostTeleporter.html">GhostTeleporter</a>, <!-- DBG-4 --><a href="GuardianRoomDoor.html">GuardianRoomDoor</a>, <!-- DBG-4 --><a href="PoisonRoomTimer.html">PoisonRoomTimer</a></h4>
+      (<font color="blue">static</font>) <!-- DBG-0 --><a href="Item.html">Item</a> FindItem( <!-- DBG-0 --><a href="Item.html">Item</a> item, <font color="blue">int</font> hue, <font color="blue">int</font> x, <font color="blue">int</font> y, <font color="blue">int</font> z, <!-- DBG-0 --><a href="Map.html">Map</a> map, <font color="blue">ref</font> <font color="blue">int</font> count )<br>
+      (<font color="blue">static</font>) <font color="blue">void</font> GenRoom_OnCommand( <!-- DBG-0 --><a href="CommandEventArgs.html">CommandEventArgs</a> e )<br>
+      (<font color="blue">static</font>) <font color="blue">void</font> Initialize()<br>
+      (<font color="blue">ctor</font>) GuardianRoomRegion( <!-- DBG-0 --><a href="BaseDoor.html">BaseDoor</a> door )<br>
+      <font color="blue">bool</font> Active( <font color="blue">get</font>; )<br>
+      <font color="blue">List</font>&lt;<a href="Mobile.html">Mobile</a>&gt; Dead( <font color="blue">get</font>; )<br>
+      <font color="blue">virtual</font> <font color="blue">void</font> AlterLightLevel( <!-- DBG-0 --><a href="Mobile.html">Mobile</a> m, <font color="blue">ref</font> <font color="blue">int</font> global, <font color="blue">ref</font> <font color="blue">int</font> personal )<br>
+      <font color="blue">virtual</font> <font color="blue">bool</font> CanStart( <font color="blue">List</font>&lt;<a href="Mobile.html">Mobile</a>&gt; list )<br>
+      <font color="blue">void</font> ClearGuardians()<br>
+      <font color="blue">virtual</font> <font color="blue">void</font> DoGasEffect()<br>
+      <font color="blue">virtual</font> <font color="blue">void</font> DoPoisonEffect( <font color="blue">int</font> level )<br>
+      <font color="blue">virtual</font> <font color="blue">List</font>&lt;<a href="Mobile.html">Mobile</a>&gt; GetPoisonableMobiles()<br>
+      <font color="blue">virtual</font> <font color="blue">void</font> HurtMobiles( <font color="blue">int</font> level )<br>
+      <font color="blue">virtual</font> <font color="blue">bool</font> IsTrappable( <!-- DBG-0 --><a href="Mobile.html">Mobile</a> m, <font color="blue">bool</font> trapStart )<br>
+      <font color="blue">virtual</font> <font color="blue">void</font> OnDeath( <!-- DBG-0 --><a href="Mobile.html">Mobile</a> m )<br>
+      <font color="blue">virtual</font> <font color="blue">void</font> OnEnter( <!-- DBG-0 --><a href="Mobile.html">Mobile</a> m )<br>
+      <font color="blue">virtual</font> <font color="blue">void</font> PoisonMobiles( <!-- DBG-0 --><a href="Poison.html">Poison</a> poison, <font color="blue">int</font> ticks )<br>
+      <font color="blue">virtual</font> <font color="blue">void</font> RestartTrap()<br>
+      <font color="blue">void</font> SpawnGuardians( <font color="blue">int</font> amount )<br>
+      <font color="blue">virtual</font> <font color="blue">void</font> StartTrap()<br>
+      <font color="blue">virtual</font> <font color="blue">void</font> StopTrap()<br>
+   </body>
+</html>

@@ -1,0 +1,31 @@
+<html>
+   <head>
+      <title>RunUO Documentation - Class Overview - PoisonRoom</title>
+   </head>
+   <body bgcolor="white" style="font-family: Courier New" text="#000000" link="#000000" vlink="#000000" alink="#808080">
+      <h4><a href="../namespaces/Server.Misc.html">Back to Server.Misc</a></h4>
+      <h2>PoisonRoom</h2>
+<h4>Nested Types: <!-- DBG-4 --><a href="PoisonRoomRegion.html">PoisonRoomRegion</a>, <!-- DBG-4 --><a href="PoisonRoomTimer.html">PoisonRoomTimer</a></h4>
+      (<font color="blue">ctor</font>) PoisonRoom( <font color="blue">string</font> name, <!-- DBG-0 --><a href="Map.html">Map</a> map, <font color="blue">int</font> priority, <!-- DBG-0 --><a href="Rectangle2D.html">Rectangle2D</a>[] rect, <font color="blue">int</font> LightLevel )<br>
+      <font color="blue">List</font>&lt;<a href="Mobile.html">Mobile</a>&gt; Dead( <font color="blue">get</font>; )<br>
+      <font color="blue">int</font> GasEffectHeight( <font color="blue">get</font>; )<br>
+      <font color="blue">int</font> GasEffects( <font color="blue">get</font>; )<br>
+      <font color="blue">bool</font> HasPoisonSoundEffect( <font color="blue">get</font>; )<br>
+      <!-- DBG-0 --><a href="Poison.html">Poison</a> MaxPoisonLevel( <font color="blue">get</font>; )<br>
+      <!-- DBG-0 --><a href="Poison.html">Poison</a> MinPoisonLevel( <font color="blue">get</font>; )<br>
+      <font color="blue">int</font> TicksPerPoisonLevel( <font color="blue">get</font>; )<br>
+      <font color="blue">double</font> TimePerPoisonCast( <font color="blue">get</font>; )<br>
+      <font color="blue">int</font> CurrentPoisonLevel()<br>
+      <font color="blue">virtual</font> <font color="blue">void</font> DoGasEffect()<br>
+      <font color="blue">virtual</font> <font color="blue">List</font>&lt;<a href="Mobile.html">Mobile</a>&gt; GetPoisonableMobiles( <!-- DBG-0 --><a href="Mobile.html">Mobile</a> toexclude )<br>
+      <font color="blue">virtual</font> <font color="blue">bool</font> IsPoisonable( <!-- DBG-0 --><a href="Mobile.html">Mobile</a> m )<br>
+      <font color="blue">virtual</font> <font color="blue">void</font> OnDeath( <!-- DBG-0 --><a href="Mobile.html">Mobile</a> m )<br>
+      <font color="blue">virtual</font> <font color="blue">void</font> OnEnter( <!-- DBG-0 --><a href="Mobile.html">Mobile</a> m )<br>
+      <font color="blue">virtual</font> <font color="blue">void</font> OnExit( <!-- DBG-0 --><a href="Mobile.html">Mobile</a> m )<br>
+      <font color="blue">virtual</font> <font color="blue">void</font> OnPoison( <!-- DBG-0 --><a href="Poison.html">Poison</a> poison, <font color="blue">int</font> tick )<br>
+      <font color="blue">virtual</font> <font color="blue">void</font> PoisonPlayers( <!-- DBG-0 --><a href="Poison.html">Poison</a> poison )<br>
+      <font color="blue">virtual</font> <font color="blue">void</font> RandomGasEffect()<br>
+      <font color="blue">virtual</font> <font color="blue">void</font> StartGas()<br>
+      <font color="blue">virtual</font> <font color="blue">void</font> StopGas()<br>
+   </body>
+</html>
