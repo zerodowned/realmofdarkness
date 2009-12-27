@@ -1,0 +1,1188 @@
+using Server;
+using System;
+using Server.Misc;
+using Server.Mobiles;
+
+namespace Server.Items
+{
+	public class AncientFarmersKasa : Kasa
+	{
+		public override int LabelNumber{ get{ return 1070922; } } // Ancient Farmer's Kasa
+		public override int BaseColdResistance { get { return 19; } }
+
+		public override int InitMinHits{ get{ return 255; } }
+		public override int InitMaxHits{ get { return 255; } }
+
+		[Constructable]
+		public AncientFarmersKasa() : base()
+		{
+			Attributes.BonusStr = 5;
+			Attributes.BonusStam = 5;
+			Attributes.RegenStam = 5;
+
+			SkillBonuses.SetValues( 0, SkillName.AnimalLore, 5.0 );
+		}
+
+		public AncientFarmersKasa( Serial serial ) : base( serial )
+		{
+		}
+
+		public override void Serialize( GenericWriter writer )
+		{
+			base.Serialize( writer );
+
+			writer.Write( (int) 2 );
+		}
+		
+		public override void Deserialize(GenericReader reader)
+		{
+			base.Deserialize( reader );
+
+			int version = reader.ReadInt();
+
+			if ( version <= 1 )
+			{
+				MaxHitPoints = 255;
+				HitPoints = 255;
+			}
+
+			if( version == 0 )
+				SkillBonuses.SetValues( 0, SkillName.AnimalLore, 5.0 );
+		}
+	}
+
+	public class AncientSamuraiDo : PlateDo
+	{
+		public override int LabelNumber { get { return 1070926; } } // Ancient Samurai Do
+
+		public override int BasePhysicalResistance { get { return 15; } }
+		public override int BaseFireResistance { get { return 12; } }
+		public override int BaseColdResistance { get { return 10; } }
+		public override int BasePoisonResistance { get { return 11; } }
+		public override int BaseEnergyResistance { get { return 8; } }
+
+		[Constructable]
+		public AncientSamuraiDo() : base()
+		{
+			ArmorAttributes.LowerStatReq = 100;
+			ArmorAttributes.MageArmor = 1;
+			SkillBonuses.SetValues( 0, SkillName.Parry, 10.0 );
+		}
+
+		public AncientSamuraiDo( Serial serial ) : base( serial )
+		{
+		}
+
+		public override void Serialize( GenericWriter writer )
+		{
+			base.Serialize( writer );
+
+			writer.Write( (int)0 );
+		}
+
+		public override void Deserialize( GenericReader reader )
+		{
+			base.Deserialize( reader );
+
+			int version = reader.ReadInt();
+		}
+
+		public override int InitMinHits { get { return 255; } }
+		public override int InitMaxHits { get { return 255; } }
+	}
+
+	public class ArmsOfTacticalExcellence : LeatherHiroSode
+	{
+		public override int LabelNumber { get { return 1070921; } } // Arms of Tactical Excellence
+
+		public override int BaseFireResistance { get { return 9; } }
+		public override int BaseColdResistance { get { return 13; } }
+		public override int BasePoisonResistance { get { return 8; } }
+
+		[Constructable]
+		public ArmsOfTacticalExcellence() : base()
+		{
+			Attributes.BonusDex = 5;
+			SkillBonuses.SetValues( 0, SkillName.Tactics, 12.0 );
+		}
+
+		public ArmsOfTacticalExcellence( Serial serial ) : base( serial )
+		{
+		}
+
+		public override void Serialize( GenericWriter writer )
+		{
+			base.Serialize( writer );
+
+			writer.Write( (int)0 );
+		}
+
+		public override void Deserialize( GenericReader reader )
+		{
+			base.Deserialize( reader );
+
+			int version = reader.ReadInt();
+		}
+
+		public override int InitMinHits { get { return 255; } }
+		public override int InitMaxHits { get { return 255; } }
+	}
+
+	public class BlackLotusHood : ClothNinjaHood
+	{
+		public override int LabelNumber { get { return 1070919; } } // Black Lotus Hood
+
+		public override int BasePhysicalResistance { get { return 0; } }
+		public override int BaseFireResistance { get { return 11; } }
+		public override int BaseColdResistance { get { return 15; } }
+		public override int BasePoisonResistance { get { return 11; } }
+		public override int BaseEnergyResistance { get { return 11; } }
+
+		public override int InitMinHits { get { return 255; } }
+		public override int InitMaxHits { get { return 255; } }
+
+		[Constructable]
+		public BlackLotusHood() : base()
+		{
+			Attributes.LowerManaCost = 6;
+			Attributes.AttackChance = 6;
+			ClothingAttributes.SelfRepair = 5;
+		}
+
+		public BlackLotusHood( Serial serial ) : base( serial )
+		{
+		}
+
+		public override void Serialize( GenericWriter writer )
+		{
+			base.Serialize( writer );
+
+			writer.Write( (int)1 );
+		}
+
+		public override void Deserialize( GenericReader reader )
+		{
+			base.Deserialize( reader );
+
+			int version = reader.ReadInt();
+
+			if ( version == 0 )
+			{
+				MaxHitPoints = 255;
+				HitPoints = 255;
+			}
+		}
+	}
+
+	public class DaimyosHelm : PlateBattleKabuto
+	{
+		public override int LabelNumber { get { return 1070920; } } // Daimyo's Helm
+
+		public override int BaseColdResistance { get { return 10; } }
+
+		[Constructable]
+		public DaimyosHelm() : base()
+		{
+			ArmorAttributes.LowerStatReq = 100;
+			ArmorAttributes.MageArmor = 1;
+			ArmorAttributes.SelfRepair = 3;
+			Attributes.WeaponSpeed = 10;
+		}
+
+		public DaimyosHelm( Serial serial ) : base( serial )
+		{
+		}
+
+		public override void Serialize( GenericWriter writer )
+		{
+			base.Serialize( writer );
+
+			writer.Write( (int)0 );
+		}
+
+		public override void Deserialize( GenericReader reader )
+		{
+			base.Deserialize( reader );
+
+			int version = reader.ReadInt();
+		}
+
+		public override int InitMinHits { get { return 255; } }
+		public override int InitMaxHits { get { return 255; } }
+	}
+
+	public class DemonForks : Sai
+	{
+		public override int LabelNumber{ get{ return 1070917; } } // Demon Forks
+
+		[Constructable]
+		public DemonForks() : base()
+		{
+			WeaponAttributes.ResistFireBonus = 10;
+			WeaponAttributes.ResistPoisonBonus = 10;
+
+			Attributes.ReflectPhysical = 10;
+			Attributes.WeaponDamage = 35;
+			Attributes.DefendChance = 10;
+		}
+
+		public DemonForks( Serial serial ) : base( serial )
+		{
+		}
+
+		public override void Serialize( GenericWriter writer )
+		{
+			base.Serialize( writer );
+
+			writer.Write( (int)0 );
+		}
+
+		public override void Deserialize( GenericReader reader )
+		{
+			base.Deserialize( reader );
+
+			int version = reader.ReadInt();
+		}
+
+		public override int InitMinHits { get { return 255; } }
+		public override int InitMaxHits { get { return 255; } }
+	}
+
+	public class DragonNunchaku : Nunchaku
+	{
+		public override int LabelNumber{ get{ return 1070914; } } // Dragon Nunchaku
+
+		[Constructable]
+		public DragonNunchaku() : base()
+		{
+			WeaponAttributes.ResistFireBonus = 5;
+			WeaponAttributes.SelfRepair = 3;
+			WeaponAttributes.HitFireball = 50;
+
+			Attributes.WeaponDamage = 40;
+			Attributes.WeaponSpeed = 20;
+		}
+
+		public DragonNunchaku( Serial serial ) : base( serial )
+		{
+		}
+
+		public override void Serialize( GenericWriter writer )
+		{
+			base.Serialize( writer );
+
+			writer.Write( (int)0 );
+		}
+
+		public override void Deserialize( GenericReader reader )
+		{
+			base.Deserialize( reader );
+
+			int version = reader.ReadInt();
+		}
+
+		public override int InitMinHits { get { return 255; } }
+		public override int InitMaxHits { get { return 255; } }
+	}
+
+	public class Exiler : Tetsubo
+	{
+		public override int LabelNumber{ get{ return 1070913; } } // Exiler
+
+		[Constructable]
+		public Exiler() : base()
+		{
+			WeaponAttributes.HitDispel = 33;
+			Slayer = SlayerName.Exorcism;
+
+			Attributes.WeaponDamage = 40;
+			Attributes.WeaponSpeed = 20;
+		}
+
+		public override void GetDamageTypes( Mobile wielder, out int phys, out int fire, out int cold, out int pois, out int nrgy, out int chaos, out int direct )
+		{
+			phys = fire = cold = pois = chaos = direct = 0;
+
+			nrgy = 100;
+		}
+
+
+		public Exiler( Serial serial ) : base( serial )
+		{
+		}
+
+		public override void Serialize( GenericWriter writer )
+		{
+			base.Serialize( writer );
+
+			writer.Write( (int)0 );
+		}
+
+		public override void Deserialize( GenericReader reader )
+		{
+			base.Deserialize( reader );
+
+			int version = reader.ReadInt();
+		}
+
+		public override int InitMinHits { get { return 255; } }
+		public override int InitMaxHits { get { return 255; } }
+	}
+
+	public class GlovesOfTheSun : LeatherNinjaMitts
+	{
+		public override int LabelNumber { get { return 1070924; } } // Gloves of the Sun
+
+		public override int BaseFireResistance { get { return 24; } }
+
+		[Constructable]
+		public GlovesOfTheSun() : base()
+		{
+			Attributes.RegenHits = 2;
+			Attributes.NightSight = 1;
+			Attributes.LowerManaCost = 5;
+			Attributes.LowerRegCost = 18;
+		}
+
+		public GlovesOfTheSun( Serial serial ) : base( serial )
+		{
+		}
+
+		public override void Serialize( GenericWriter writer )
+		{
+			base.Serialize( writer );
+
+			writer.Write( (int)0 );
+		}
+
+		public override void Deserialize( GenericReader reader )
+		{
+			base.Deserialize( reader );
+
+			int version = reader.ReadInt();
+		}
+
+		public override int InitMinHits { get { return 255; } }
+		public override int InitMaxHits { get { return 255; } }
+	}
+
+	public class HanzosBow : Yumi
+	{
+		public override int LabelNumber { get { return 1070918; } } // Hanzo's Bow
+
+		[Constructable]
+		public HanzosBow() : base()
+		{
+			WeaponAttributes.HitLeechHits = 40;
+			WeaponAttributes.SelfRepair = 3;
+
+			Attributes.WeaponDamage = 50;
+
+			SkillBonuses.SetValues( 0, SkillName.Ninjitsu, 10 );
+		}
+
+		public HanzosBow( Serial serial ) : base( serial )
+		{
+		}
+
+		public override void Serialize( GenericWriter writer )
+		{
+			base.Serialize( writer );
+
+			writer.Write( (int)0 );
+		}
+
+		public override void Deserialize( GenericReader reader )
+		{
+			base.Deserialize( reader );
+
+			int version = reader.ReadInt();
+		}
+
+		public override int InitMinHits { get { return 255; } }
+		public override int InitMaxHits { get { return 255; } }
+	}
+
+	public class LegsOfStability : PlateSuneate
+	{
+		public override int LabelNumber { get { return 1070925; } } // Legs of Stability
+
+		public override int BasePhysicalResistance { get { return 20; } }
+		public override int BasePoisonResistance { get { return 18; } }
+
+		[Constructable]
+		public LegsOfStability() : base()
+		{
+			Attributes.BonusStam = 5;
+
+			ArmorAttributes.SelfRepair = 3;
+			ArmorAttributes.LowerStatReq = 100;
+			ArmorAttributes.MageArmor = 1;
+		}
+
+		public LegsOfStability( Serial serial ) : base( serial )
+		{
+		}
+
+		public override void Serialize( GenericWriter writer )
+		{
+			base.Serialize( writer );
+
+			writer.Write( (int)0 );
+		}
+
+		public override void Deserialize( GenericReader reader )
+		{
+			base.Deserialize( reader );
+
+			int version = reader.ReadInt();
+		}
+
+		public override int InitMinHits { get { return 255; } }
+		public override int InitMaxHits { get { return 255; } }
+	}
+
+	public class PeasantsBokuto : Bokuto
+	{
+		public override int LabelNumber { get { return 1070912; } } // Peasant's Bokuto
+
+		[Constructable]
+		public PeasantsBokuto() : base()
+		{
+			WeaponAttributes.SelfRepair = 3;
+			WeaponAttributes.HitLowerDefend = 30;
+
+			Attributes.WeaponDamage = 35;
+			Attributes.WeaponSpeed = 10;
+			Slayer = SlayerName.SnakesBane;
+		}
+
+		public PeasantsBokuto( Serial serial ) : base( serial )
+		{
+		}
+
+		public override void Serialize( GenericWriter writer )
+		{
+			base.Serialize( writer );
+
+			writer.Write( (int)0 );
+		}
+
+		public override void Deserialize( GenericReader reader )
+		{
+			base.Deserialize( reader );
+
+			int version = reader.ReadInt();
+		}
+
+		public override int InitMinHits { get { return 255; } }
+		public override int InitMaxHits { get { return 255; } }
+	}
+
+	public class PilferedDancerFans : Tessen
+	{
+		public override int LabelNumber { get { return 1070916; } } // Pilfered Dancer Fans
+
+		[Constructable]
+		public PilferedDancerFans() : base()
+		{
+			Attributes.WeaponDamage = 20;
+			Attributes.WeaponSpeed = 20;
+			Attributes.CastRecovery = 2;
+			Attributes.DefendChance = 5;
+			Attributes.SpellChanneling = 1;
+		}
+
+		public PilferedDancerFans( Serial serial ) : base( serial )
+		{
+		}
+
+		public override void Serialize( GenericWriter writer )
+		{
+			base.Serialize( writer );
+
+			writer.Write( (int)0 );
+		}
+
+		public override void Deserialize( GenericReader reader )
+		{
+			base.Deserialize( reader );
+
+			int version = reader.ReadInt();
+		}
+
+		public override int InitMinHits { get { return 255; } }
+		public override int InitMaxHits { get { return 255; } }
+	}
+
+	public class TheDestroyer : NoDachi
+	{
+		public override int LabelNumber { get { return 1070915; } } // The Destroyer
+
+		[Constructable]
+		public TheDestroyer() : base()
+		{
+			WeaponAttributes.HitLeechStam = 40;
+
+			Attributes.BonusStr = 6;
+			Attributes.AttackChance = 10;
+			Attributes.WeaponDamage = 50;
+		}
+
+		public TheDestroyer( Serial serial ) : base( serial )
+		{
+		}
+
+		public override void Serialize( GenericWriter writer )
+		{
+			base.Serialize( writer );
+
+			writer.Write( (int)0 );
+		}
+
+		public override void Deserialize( GenericReader reader )
+		{
+			base.Deserialize( reader );
+
+			int version = reader.ReadInt();
+		}
+
+		public override int InitMinHits { get { return 255; } }
+		public override int InitMaxHits { get { return 255; } }
+	}
+
+	public class TomeOfEnlightenment : Spellbook
+	{
+		public override int LabelNumber { get { return 1070934; } } // Tome of Enlightenment
+
+		[Constructable]
+		public TomeOfEnlightenment() : base()
+		{
+			LootType = LootType.Regular;
+			Hue = 0x455;
+
+			Attributes.BonusInt = 5;
+			Attributes.SpellDamage = 10;
+			Attributes.CastSpeed = 1;
+		}
+
+		public TomeOfEnlightenment( Serial serial ) : base( serial )
+		{
+		}
+
+		public override void Serialize( GenericWriter writer )
+		{
+			base.Serialize( writer );
+
+			writer.Write( (int)0 );
+		}
+
+		public override void Deserialize( GenericReader reader )
+		{
+			base.Deserialize( reader );
+
+			int version = reader.ReadInt();
+		}
+	}
+	
+	public class LeurociansMempoOfFortune : LeatherMempo
+	{
+		public override int LabelNumber { get { return 1071460; } } // Leurocian's mempo of fortune
+ 
+		public override int BasePhysicalResistance{ get{ return 15; } }
+		public override int BaseFireResistance{ get{ return 10; } }
+		public override int BaseColdResistance{ get{ return 10; } }
+		public override int BasePoisonResistance{ get{ return 10; } }
+		public override int BaseEnergyResistance{ get{ return 15; } }
+		
+		[Constructable]
+		public LeurociansMempoOfFortune() : base()
+		{
+			LootType = LootType.Regular;
+			Hue = 0x501;
+
+			Attributes.Luck = 300;
+			Attributes.RegenMana = 1;
+		}
+
+		public LeurociansMempoOfFortune( Serial serial ) : base( serial )
+		{
+		}
+
+		public override void Serialize( GenericWriter writer )
+		{
+			base.Serialize( writer );
+
+			writer.Write( (int)0 );
+		}
+
+		public override void Deserialize( GenericReader reader )
+		{
+			base.Deserialize( reader );
+
+			int version = reader.ReadInt();
+		}
+		public override int InitMinHits { get { return 255; } }
+		public override int InitMaxHits { get { return 255; } }
+	}
+
+	//Non weapon/armor ones:
+
+	public class AncientUrn : Item
+	{
+		private static string[] m_Names = new string[]
+			{
+				"Akira",
+				"Avaniaga",
+				"Aya",
+				"Chie",
+				"Emiko",
+				"Fumiyo",
+				"Gennai",
+				"Gennosuke", 
+				"Genjo",
+				"Hamato",
+				"Harumi",
+				"Ikuyo",
+				"Juri",
+				"Kaori",
+				"Kaoru",
+				"Kiyomori",
+				"Mayako",
+				"Motoki",
+				"Musashi",
+				"Nami",
+				"Nobukazu",
+				"Roku",
+				"Romi",
+				"Ryo",
+				"Sanzo",
+				"Sakamae",
+				"Satoshi",
+				"Takamori",
+				"Takuro",
+				"Teruyo",
+				"Toshiro",
+				"Yago",
+				"Yeijiro",
+				"Yoshi",
+				"Zeshin"
+			};
+
+		public static string[] Names { get { return m_Names; } }
+
+		private string m_UrnName;
+
+		[CommandProperty( AccessLevel.GameMaster )]
+		public string UrnName
+		{
+			get { return m_UrnName; }
+			set { m_UrnName = value; }
+		}
+
+		public override int LabelNumber { get { return 1071014; } } // Ancient Urn
+
+		[Constructable]
+		public AncientUrn( string urnName ) : base( 0x241D )
+		{
+			m_UrnName = urnName;
+			Weight = 1.0;
+		}
+
+		[Constructable]
+		public AncientUrn() : this( m_Names[Utility.Random( m_Names.Length )] )
+		{
+		}
+
+		public AncientUrn( Serial serial ) : base( serial )
+		{
+		}
+
+		public override void Serialize( GenericWriter writer )
+		{
+			base.Serialize( writer );
+
+			writer.Write( (int)0 );
+			writer.Write( m_UrnName );
+		}
+
+		public override void Deserialize( GenericReader reader )
+		{
+			base.Deserialize( reader );
+
+			int version = reader.ReadInt();
+			m_UrnName = reader.ReadString();
+
+			Utility.Intern( ref m_UrnName );
+		}
+
+		public override void AddNameProperty( ObjectPropertyList list )
+		{
+			list.Add( 1070935, m_UrnName ); // Ancient Urn of ~1_name~
+		}
+
+		public override void OnSingleClick( Mobile from )
+		{
+			LabelTo( from, 1070935, m_UrnName ); // Ancient Urn of ~1_name~
+		}
+
+	}
+
+	public class HonorableSwords : Item
+	{
+		private string m_SwordsName;
+
+		[CommandProperty( AccessLevel.GameMaster )]
+		public string SwordsName
+		{
+			get { return m_SwordsName; }
+			set { m_SwordsName = value; }
+		}
+
+		public override int LabelNumber { get { return 1071015; } } // Honorable Swords
+
+		[Constructable]
+		public HonorableSwords( string swordsName ) : base( 0x2853 )
+		{
+			m_SwordsName = swordsName;
+
+			Weight = 5.0;
+		}
+
+		[Constructable]
+		public HonorableSwords() : this( AncientUrn.Names[Utility.Random( AncientUrn.Names.Length )] )
+		{
+		}
+
+		public HonorableSwords( Serial serial ) : base( serial )
+		{
+		}
+
+		public override void Serialize( GenericWriter writer )
+		{
+			base.Serialize( writer );
+
+			writer.Write( (int)0 );
+			writer.Write( m_SwordsName );
+		}
+
+		public override void Deserialize( GenericReader reader )
+		{
+			base.Deserialize( reader );
+
+			int version = reader.ReadInt();
+			m_SwordsName = reader.ReadString();
+
+			Utility.Intern( ref m_SwordsName );
+		}
+
+		public override void AddNameProperty( ObjectPropertyList list )
+		{
+			list.Add( 1070936, m_SwordsName ); // Honorable Swords of ~1_name~
+		}
+
+		public override void OnSingleClick( Mobile from )
+		{
+			LabelTo( from, 1070936, m_SwordsName ); // Honorable Swords of ~1_name~
+		}
+	}
+
+	[Furniture]
+	[Flipable( 0x2811, 0x2812 )]
+	public class ChestOfHeirlooms : LockableContainer
+	{
+		public override int LabelNumber{ get{ return 1070937; } } // Chest of heirlooms
+		
+		[Constructable]
+		public ChestOfHeirlooms() : base( 0x2811 )
+		{
+			Locked = true;
+			LockLevel = 95;
+			MaxLockLevel = 140;
+			RequiredSkill = 95;
+			
+			TrapType = TrapType.ExplosionTrap;
+			TrapLevel = 10;
+			TrapPower = 100;
+			
+			GumpID = 0x10B;
+			
+			for ( int i = 0; i < 10; ++i )
+			{
+				Item item = Loot.ChestOfHeirloomsContains();
+				
+				
+				if ( item is BaseWeapon )
+				{
+					BaseWeapon weapon = (BaseWeapon)item;
+
+					if ( Core.AOS )
+					{
+						int attributeCount = Utility.RandomMinMax( 1, 5 );
+						int min = 20;
+						int max = 80;
+
+						BaseRunicTool.ApplyAttributesTo( weapon, attributeCount, min, max );
+					}
+					else
+					{
+						weapon.DamageLevel = (WeaponDamageLevel)Utility.Random( 6 );
+						weapon.AccuracyLevel = (WeaponAccuracyLevel)Utility.Random( 6 );
+						weapon.DurabilityLevel = (WeaponDurabilityLevel)Utility.Random( 6 );
+					}
+
+					DropItem( item );
+				}
+				else if ( item is BaseArmor )
+				{
+					BaseArmor armor = (BaseArmor)item;
+
+					if ( Core.AOS )
+					{
+						int attributeCount = Utility.RandomMinMax( 1, 5 );
+						int min = 20;
+						int max = 80;
+
+						BaseRunicTool.ApplyAttributesTo( armor, attributeCount, min, max );
+					}
+					else
+					{
+						armor.ProtectionLevel = (ArmorProtectionLevel)Utility.Random( 6 );
+						armor.Durability = (ArmorDurabilityLevel)Utility.Random( 6 );
+					}
+
+					DropItem( item );
+				}
+				else if( item is BaseHat )
+				{
+					BaseHat hat = (BaseHat)item;
+
+					if( Core.AOS )
+					{
+						int attributeCount = Utility.RandomMinMax( 1, 5 );
+						int min = 20;
+						int max = 80;
+
+						BaseRunicTool.ApplyAttributesTo( hat, attributeCount, min, max );
+					}
+
+					DropItem( item );
+				}
+				else if( item is BaseJewel )
+				{
+						int attributeCount = Utility.RandomMinMax( 1, 5 );
+						int min = 20;
+						int max = 80;
+
+					BaseRunicTool.ApplyAttributesTo( (BaseJewel)item, attributeCount, min, max );
+
+					DropItem( item );
+				}
+			}
+		}
+
+		public ChestOfHeirlooms( Serial serial ) : base( serial )
+		{
+		}
+
+		public override void Serialize( GenericWriter writer )
+		{
+			base.Serialize( writer );
+
+			writer.Write( (int) 0 ); // version
+		}
+
+		public override void Deserialize( GenericReader reader )
+		{
+			base.Deserialize( reader );
+
+			int version = reader.ReadInt();
+		}
+ 	}
+
+	public class FluteOfRenewal : BambooFlute
+	{
+		public override int LabelNumber { get { return 1070927; } } // Flute of Renewal
+
+		[Constructable]
+		public FluteOfRenewal() : base()
+		{
+			Slayer = SlayerGroup.Groups[Utility.Random( SlayerGroup.Groups.Length - 1 )].Super.Name; //-1 to exclude Fey slayer.  Try to confrim no fey slayer on this on OSI
+
+			ReplenishesCharges = true;
+		}
+
+		public override int InitMinUses { get { return 300; } }
+		public override int InitMaxUses { get { return 300; } }
+
+		public FluteOfRenewal( Serial serial ) : base( serial )
+		{
+		}
+
+		public override void Serialize( GenericWriter writer )
+		{
+			base.Serialize( writer );
+
+			writer.Write( (int) 1 ); // version
+		}
+
+		public override void Deserialize( GenericReader reader )
+		{
+			base.Deserialize( reader );
+
+			int version = reader.ReadInt();
+
+			if( version == 0 && Slayer == SlayerName.Fey )
+				Slayer = SlayerGroup.Groups[Utility.Random( SlayerGroup.Groups.Length - 1 )].Super.Name;
+		}
+	}
+
+    public enum LesserPigmentType
+    {
+        None,
+        FreshPlum,
+        Silver,
+        DeepBrown,
+        BurntBrown,
+        LightGreen,
+        FreshRose,
+        PaleBlue,
+        NobleGold,
+        PaleOrange,
+        ChaosBlue
+    }
+
+    public class LesserPigmentsOfTokuno : Item, IUsesRemaining
+    {
+        public class PigmentInfo
+        {
+            //private LesserPigmentType m_LesserPigmentType;
+            private int m_Hue;
+            private TextDefinition m_Label;
+
+            public int Hue { get { return m_Hue; } }
+            public TextDefinition Label { get { return m_Label; } }
+
+            public PigmentInfo(int hue, TextDefinition label)
+            {
+                m_Hue = hue;
+                m_Label = label;
+            }
+
+            private static PigmentInfo[] m_Table = new PigmentInfo[]
+				{
+					new PigmentInfo( /*LesserPigmentType.None,*/ 0, -1 ),
+                    new PigmentInfo( /*LesserPigmentType.FreshPeach,*/ 0x145, 1071450 ),
+                    new PigmentInfo( /*LesserPigmentType.Silver,*/ 0x3E9, 1071451 ),
+                    new PigmentInfo( /*LesserPigmentType.DeepBrown,*/ 0x3F0, 1071452 ),
+                    new PigmentInfo( /*LesserPigmentType.BurntBrown,*/ 0x41A, 1071453 ),
+                    new PigmentInfo( /*LesserPigmentType.LightGreen,*/ 0x1C8, 1071454 ),
+                    new PigmentInfo( /*LesserPigmentType.FreshRose,*/ 0x4B9, 1071455 ),
+                    new PigmentInfo( /*LesserPigmentType.PaleBlue,*/ 0x24F, 1071456 ),
+                    new PigmentInfo( /*LesserPigmentType.NobleGold,*/ 0x227, 1071457 ),
+                    new PigmentInfo( /*LesserPigmentType.PaleOrange,*/ 0x02E, 1071458 ),
+                    new PigmentInfo( /*LesserPigmentType.ChaosBlue,*/ 0x005, 1071459 )
+				};
+
+            public static PigmentInfo GetInfo(LesserPigmentType type)
+            {
+                int v = (int)type;
+
+                if (v < 0 || v >= m_Table.Length)
+                    v = 0;
+
+                return m_Table[v];
+            }
+        }
+
+        private LesserPigmentType m_Type;
+
+        [CommandProperty(AccessLevel.GameMaster)]
+        public LesserPigmentType Type
+        {
+            get { return m_Type; }
+            set
+            {
+                m_Type = value;
+
+                PigmentInfo p = PigmentInfo.GetInfo(m_Type);
+                Hue = p.Hue;
+                InvalidateProperties();
+            }
+        }
+
+        private int m_UsesRemaining;
+
+        public override int LabelNumber { get { return 1070933; } } // Pigments of Tokuno
+
+        [Constructable]
+        public LesserPigmentsOfTokuno()
+            : this(LesserPigmentType.None, 10)
+        {
+        }
+
+        [Constructable]
+        public LesserPigmentsOfTokuno(LesserPigmentType type)
+            : this(type, (type == LesserPigmentType.None) ? 10 : 50)
+        {
+        }
+
+        [Constructable]
+        public LesserPigmentsOfTokuno(LesserPigmentType type, int uses)
+            : base(0xEFF)
+        {
+            Weight = 1.0;
+            m_UsesRemaining = uses;
+            Type = type;
+        }
+
+        public override void GetProperties(ObjectPropertyList list)
+        {
+            base.GetProperties(list);
+
+            if (m_Type != LesserPigmentType.None)
+            {
+                PigmentInfo p = PigmentInfo.GetInfo(m_Type);
+                TextDefinition.AddTo(list, p.Label);
+            }
+
+            list.Add(1060584, m_UsesRemaining.ToString()); // uses remaining: ~1_val~
+        }
+
+        public override void OnDoubleClick(Mobile from)
+        {
+            if (IsAccessibleTo(from) && from.InRange(GetWorldLocation(), 3))
+            {
+                from.SendLocalizedMessage(1070929); // Select the artifact or enhanced magic item to dye.
+                from.BeginTarget(3, false, Server.Targeting.TargetFlags.None, new TargetStateCallback(InternalCallback), this);
+            }
+            else
+                from.SendLocalizedMessage(502436); // That is not accessible.
+        }
+
+        private void InternalCallback(Mobile from, object targeted, object state)
+        {
+            LesserPigmentsOfTokuno pigment = (LesserPigmentsOfTokuno)state;
+
+            if (pigment.Deleted || pigment.UsesRemaining <= 0 || !from.InRange(pigment.GetWorldLocation(), 3) || !pigment.IsAccessibleTo(from))
+                return;
+
+            Item i = targeted as Item;
+
+            if (i == null)
+                from.SendLocalizedMessage(1070931); // You can only dye artifacts and enhanced magic items with this tub.
+            else if (!from.InRange(i.GetWorldLocation(), 3) || !IsAccessibleTo(from))
+                from.SendLocalizedMessage(502436); // That is not accessible.
+            else if (from.Items.Contains(i))
+                from.SendLocalizedMessage(1070930); // Can't dye artifacts or enhanced magic items that are being worn.
+            else if (i.IsLockedDown)
+                from.SendLocalizedMessage(1070932); // You may not dye artifacts and enhanced magic items which are locked down.
+            else if (i is PigmentsOfTokuno || i is LesserPigmentsOfTokuno)
+                from.SendLocalizedMessage(1042417); // You cannot dye that.
+            else if (!IsValidItem(i))
+                from.SendLocalizedMessage(1070931); // You can only dye artifacts and enhanced magic items with this tub.	//Yes, it says tub on OSI.  Don't ask me why ;p
+            else
+            {
+                //Notes: on OSI there IS no hue check to see if it's already hued.  and no messages on successful hue either
+                i.Hue = PigmentInfo.GetInfo(pigment.Type).Hue;
+
+                if (--pigment.UsesRemaining <= 0)
+                    pigment.Delete();
+
+                from.PlaySound(0x23E);
+            }
+        }
+
+        public static bool IsValidItem(Item i)
+        {
+            if (i is PigmentsOfTokuno || i is LesserPigmentsOfTokuno)
+                return false;
+
+            Type t = i.GetType();
+
+            CraftResource resource = CraftResource.None;
+
+            if (i is BaseWeapon)
+                resource = ((BaseWeapon)i).Resource;
+            else if (i is BaseArmor)
+                resource = ((BaseArmor)i).Resource;
+
+            if (!CraftResources.IsStandard(resource))
+                return true;
+
+            #region Heritage Items
+            if (i is ITokunoDyable)
+                return true;
+            #endregion
+
+            return (
+                IsInTypeList(t, TreasuresOfTokuno.LesserArtifacts)
+                || IsInTypeList(t, TreasuresOfTokuno.GreaterArtifacts)
+                #region Mondain's Legacy
+                || IsInTypeList(t, MondainsLegacy.PigmentList)
+                #endregion
+                || IsInTypeList(t, DemonKnight.ArtifactRarity10)
+                || IsInTypeList(t, DemonKnight.ArtifactRarity11)
+                || IsInTypeList(t, BaseCreature.MinorArtifactsMl)
+                || IsInTypeList(t, StealableArtifactsSpawner.TypesOfEntires)
+                || IsInTypeList(t, Paragon.Artifacts)
+                || IsInTypeList(t, Leviathan.Artifacts)
+                || IsInTypeList(t, TreasureMapChest.Artifacts)
+                || IsInTypeList(t, VirtueArtifactSystem.VirtueArtifacts)
+                );
+        }
+
+        private static bool IsInTypeList(Type t, Type[] list)
+        {
+            for (int i = 0; i < list.Length; i++)
+            {
+                if (list[i] == t) return true;
+            }
+
+            return false;
+        }
+
+        public LesserPigmentsOfTokuno(Serial serial)
+            : base(serial)
+        {
+        }
+
+        public override void Serialize(GenericWriter writer)
+        {
+            base.Serialize(writer);
+
+            writer.Write((int)0);
+
+            writer.WriteEncodedInt((int)m_Type);
+            writer.WriteEncodedInt(m_UsesRemaining);
+        }
+
+        public override void Deserialize(GenericReader reader)
+        {
+            base.Deserialize(reader);
+
+            int version = reader.ReadInt();
+
+            m_Type = (LesserPigmentType)reader.ReadEncodedInt();
+            m_UsesRemaining = reader.ReadEncodedInt();
+        }
+
+        #region IUsesRemaining Members
+
+        [CommandProperty(AccessLevel.GameMaster)]
+        public int UsesRemaining
+        {
+            get { return m_UsesRemaining; }
+            set { m_UsesRemaining = value; InvalidateProperties(); }
+        }
+
+        public bool ShowUsesRemaining
+        {
+            get { return true; }
+            set { }
+        }
+
+
+        #endregion
+    }
+}
